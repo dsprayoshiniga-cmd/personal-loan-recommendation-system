@@ -1,0 +1,74 @@
+{
+    "algorithm": "Random Forest Classifier",
+    "problem_type": "Binary Classification",
+    "target_variable": "loan_eligible",
+    "total_samples": 1500,
+    "train_samples": 1200,
+    "test_samples": 300,
+    "eligible_percentage": 51.67,
+    "metrics": {
+        "accuracy": 84.67,
+        "precision": 83.85,
+        "recall": 87.1,
+        "f1_score": 85.44,
+        "roc_auc": 93.49
+    },
+    "comparison": {
+        "random_forest_accuracy": 84.67,
+        "logistic_regression_accuracy": 87.67,
+        "random_forest_f1": 85.44,
+        "logistic_regression_f1": 88.54
+    },
+    "confusion_matrix": [
+        [
+            119,
+            26
+        ],
+        [
+            20,
+            135
+        ]
+    ],
+    "top_feature_importances": [
+        {
+            "feature": "loan_amount",
+            "importance": 0.2496
+        },
+        {
+            "feature": "loan_tenure",
+            "importance": 0.13
+        },
+        {
+            "feature": "credit_score",
+            "importance": 0.0848
+        },
+        {
+            "feature": "monthly_income",
+            "importance": 0.0717
+        },
+        {
+            "feature": "existing_emi",
+            "importance": 0.0623
+        },
+        {
+            "feature": "savings",
+            "importance": 0.0549
+        },
+        {
+            "feature": "monthly_expenses",
+            "importance": 0.0525
+        },
+        {
+            "feature": "employment_years",
+            "importance": 0.0482
+        },
+        {
+            "feature": "age",
+            "importance": 0.0397
+        },
+        {
+            "feature": "existing_loan_No",
+            "importance": 0.0239
+        }
+    ]
+}

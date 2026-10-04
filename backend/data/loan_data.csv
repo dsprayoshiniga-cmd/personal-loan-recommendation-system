@@ -1,0 +1,1501 @@
+age,gender,marital_status,dependents,education,employment_type,employment_years,employer_type,monthly_income,credit_score,existing_loan,existing_emi,monthly_expenses,savings,loan_amount,loan_tenure,loan_purpose,loan_eligible
+59,Female,Single,2,Graduate,Salaried,3.9,Government,24700.0,649,No,0.0,5400.0,217400.0,581000.0,1,Wedding,0
+42,Male,Single,1,Graduate,Salaried,23.4,Private Company,24100.0,696,Yes,8300.0,8200.0,250400.0,419000.0,3,Medical,0
+24,Female,Married,1,High School,Salaried,1.8,MNC,74700.0,707,Yes,12500.0,19000.0,686200.0,811000.0,2,Wedding,0
+35,Male,Single,0,Graduate,Salaried,5.0,MNC,65200.0,578,No,0.0,15800.0,634100.0,149000.0,7,Other,0
+21,Male,Single,2,Post Graduate,Self Employed,2.4,Private Company,25300.0,656,No,0.0,9800.0,108900.0,68000.0,3,Other,1
+42,Female,Married,0,Post Graduate,Self Employed,13.7,MNC,103700.0,850,Yes,6000.0,24100.0,89300.0,1284000.0,3,Other,1
+24,Female,Single,1,Post Graduate,Salaried,0.9,Private Company,52900.0,766,No,0.0,23300.0,139900.0,1184000.0,4,Medical,0
+53,Male,Married,0,Graduate,Salaried,6.2,Government,25000.0,825,Yes,3100.0,6300.0,75400.0,362000.0,3,Personal,0
+32,Male,Married,0,Graduate,Salaried,8.7,Government,36100.0,702,Yes,7100.0,17900.0,118500.0,616000.0,5,Home Renovation,0
+25,Female,Married,1,High School,Business,2.6,Private Company,28600.0,687,No,0.0,5900.0,182700.0,185000.0,4,Wedding,1
+61,Female,Single,3,High School,Salaried,4.4,Self-Employed/Business,33000.0,721,No,0.0,14700.0,227200.0,451000.0,2,Other,0
+52,Female,Single,0,Post Graduate,Business,30.2,MNC,52900.0,628,Yes,16900.0,20200.0,32000.0,161000.0,4,Vehicle,1
+38,Male,Married,2,Graduate,Salaried,14.4,Private Company,75900.0,618,No,0.0,34500.0,611900.0,1091000.0,1,Home Renovation,0
+50,Other,Single,3,Graduate,Self Employed,16.3,Government,59600.0,574,No,0.0,16900.0,46500.0,972000.0,2,Wedding,0
+50,Female,Married,1,High School,Business,14.0,Other,25200.0,566,No,0.0,7400.0,61700.0,364000.0,6,Medical,1
+43,Male,Married,3,Post Graduate,Self Employed,17.7,Private Company,22200.0,747,No,0.0,10200.0,244300.0,298000.0,4,Vehicle,1
+40,Female,Married,2,Post Graduate,Salaried,8.6,Private Company,30700.0,686,No,0.0,11100.0,116500.0,466000.0,1,Wedding,0
+28,Female,Single,1,High School,Salaried,5.5,Government,50700.0,782,No,0.0,18000.0,213600.0,1014000.0,3,Wedding,0
+46,Male,Divorced,2,Graduate,Salaried,5.3,Private Company,47800.0,559,No,0.0,19000.0,177800.0,1142000.0,5,Business,0
+23,Male,Single,2,High School,Salaried,0.7,Private Company,31100.0,713,No,0.0,7100.0,191400.0,384000.0,2,Personal,0
+57,Male,Married,1,High School,Salaried,22.1,Government,50100.0,748,Yes,3600.0,19700.0,40300.0,746000.0,6,Other,1
+53,Male,Married,3,Graduate,Other,31.7,Private Company,108500.0,643,Yes,32900.0,22500.0,1070500.0,585000.0,2,Vehicle,0
+31,Female,Married,2,Graduate,Salaried,9.9,MNC,39700.0,688,Yes,11200.0,12000.0,444800.0,856000.0,3,Vehicle,0
+50,Female,Married,2,Graduate,Business,12.8,Private Company,62000.0,704,No,0.0,23100.0,481500.0,712000.0,3,Education,1
+41,Female,Married,2,High School,Salaried,1.8,Government,68600.0,668,Yes,5800.0,16700.0,635100.0,1072000.0,2,Business,0
+29,Female,Married,0,High School,Other,4.4,Private Company,32500.0,626,No,0.0,11900.0,174800.0,739000.0,2,Home Renovation,0
+33,Male,Married,2,Post Graduate,Business,11.3,MNC,29800.0,573,No,0.0,6700.0,196000.0,342000.0,5,Vehicle,1
+31,Female,Single,2,High School,Salaried,3.2,Private Company,68900.0,787,No,0.0,33600.0,80300.0,698000.0,2,Vehicle,0
+28,Male,Married,1,Graduate,Salaried,3.9,Private Company,30600.0,676,Yes,5300.0,11700.0,110600.0,128000.0,1,Personal,0
+50,Female,Single,0,Graduate,Business,31.6,Private Company,109900.0,551,No,0.0,49700.0,1114500.0,953000.0,3,Education,1
+41,Male,Married,2,Doctorate,Other,13.0,MNC,33800.0,560,Yes,11400.0,12900.0,105800.0,577000.0,4,Wedding,0
+23,Male,Married,1,Graduate,Business,2.3,Private Company,34600.0,791,Yes,3100.0,7100.0,156800.0,523000.0,3,Home Renovation,1
+54,Male,Married,2,Graduate,Self Employed,30.3,Self-Employed/Business,18000.0,675,No,0.0,8900.0,111000.0,168000.0,4,Other,1
+43,Male,Single,0,Graduate,Salaried,9.0,Self-Employed/Business,18000.0,834,Yes,1900.0,3800.0,44000.0,147000.0,2,Vehicle,1
+26,Male,Married,0,Graduate,Salaried,5.7,Private Company,53300.0,770,Yes,16600.0,25400.0,64100.0,391000.0,5,Education,1
+42,Male,Married,1,Post Graduate,Salaried,4.0,Private Company,40900.0,745,No,0.0,8600.0,428300.0,381000.0,3,Other,1
+45,Female,Single,1,Post Graduate,Salaried,14.7,Private Company,33100.0,521,Yes,8100.0,11400.0,238900.0,618000.0,4,Other,0
+61,Male,Married,1,Graduate,Salaried,11.9,Self-Employed/Business,36100.0,664,No,0.0,8200.0,352600.0,79000.0,5,Home Renovation,1
+51,Male,Divorced,0,Graduate,Other,28.6,MNC,27000.0,640,No,0.0,12900.0,186400.0,399000.0,3,Wedding,0
+40,Male,Single,1,Graduate,Salaried,3.8,Government,57000.0,631,Yes,5100.0,12500.0,677400.0,480000.0,5,Education,1
+57,Male,Single,1,Graduate,Self Employed,4.2,Self-Employed/Business,29500.0,792,No,0.0,14700.0,84300.0,298000.0,6,Other,1
+28,Female,Married,2,Post Graduate,Salaried,2.7,Government,46200.0,659,No,0.0,18700.0,263200.0,833000.0,6,Vehicle,1
+58,Male,Married,1,Graduate,Salaried,18.8,Private Company,45800.0,565,Yes,6900.0,19200.0,388300.0,216000.0,6,Education,1
+56,Other,Married,2,Post Graduate,Salaried,7.6,MNC,42000.0,803,Yes,8900.0,13200.0,241700.0,646000.0,4,Other,0
+25,Male,Married,2,High School,Salaried,4.2,MNC,76900.0,706,No,0.0,23300.0,239500.0,832000.0,3,Home Renovation,1
+38,Female,Single,3,Post Graduate,Salaried,14.1,Self-Employed/Business,21600.0,620,No,0.0,8300.0,116200.0,406000.0,6,Personal,1
+31,Male,Single,4,Post Graduate,Salaried,12.0,Self-Employed/Business,162200.0,719,Yes,10800.0,48800.0,1578700.0,39000.0,3,Business,1
+58,Male,Single,2,Graduate,Salaried,16.1,Private Company,35000.0,679,Yes,11400.0,10800.0,251200.0,564000.0,1,Vehicle,0
+27,Other,Married,1,Post Graduate,Salaried,2.1,Private Company,24900.0,559,Yes,7200.0,7600.0,146500.0,400000.0,3,Other,0
+34,Female,Married,1,Graduate,Salaried,12.4,Private Company,42600.0,637,No,0.0,12000.0,461000.0,575000.0,5,Business,1
+48,Female,Married,1,Graduate,Salaried,6.3,Government,18000.0,755,No,0.0,8400.0,124200.0,333000.0,5,Other,1
+63,Female,Divorced,0,Graduate,Salaried,3.5,Government,51200.0,731,Yes,16000.0,20100.0,440100.0,1168000.0,4,Home Renovation,0
+62,Female,Single,0,Post Graduate,Salaried,27.2,Private Company,32800.0,715,No,0.0,14200.0,59500.0,477000.0,7,Business,1
+37,Male,Married,1,Graduate,Salaried,15.9,Other,84100.0,583,Yes,4700.0,39900.0,155900.0,1166000.0,3,Education,0
+57,Female,Married,0,High School,Salaried,31.6,Self-Employed/Business,97900.0,797,No,0.0,24700.0,1078400.0,855000.0,3,Medical,1
+63,Male,Single,2,High School,Business,15.6,Self-Employed/Business,23300.0,736,No,0.0,7400.0,267300.0,105000.0,3,Medical,1
+56,Male,Single,2,Post Graduate,Other,5.8,Government,18000.0,653,Yes,3100.0,7400.0,132800.0,223000.0,1,Medical,0
+50,Male,Single,0,Post Graduate,Other,25.4,MNC,68500.0,614,No,0.0,29300.0,537600.0,1307000.0,5,Other,1
+26,Other,Married,1,Graduate,Salaried,5.5,Private Company,20200.0,850,Yes,1700.0,8500.0,54800.0,85000.0,3,Vehicle,1
+59,Male,Married,1,Graduate,Salaried,19.8,Government,38400.0,685,Yes,6600.0,14300.0,374200.0,531000.0,4,Vehicle,1
+38,Male,Married,3,Graduate,Salaried,19.8,Private Company,31500.0,591,No,0.0,7000.0,19200.0,70000.0,1,Personal,1
+64,Other,Married,1,Graduate,Self Employed,8.7,Private Company,32900.0,579,Yes,4000.0,7000.0,23200.0,813000.0,3,Education,0
+44,Male,Divorced,2,Graduate,Salaried,25.5,Self-Employed/Business,63400.0,695,No,0.0,26800.0,79100.0,654000.0,5,Personal,1
+30,Male,Single,0,Doctorate,Business,9.7,Government,154900.0,687,No,0.0,55400.0,541000.0,1045000.0,3,Education,1
+44,Female,Married,1,Post Graduate,Salaried,23.3,Self-Employed/Business,18000.0,614,Yes,3500.0,3800.0,185400.0,45000.0,3,Education,1
+44,Male,Single,2,High School,Salaried,25.0,Private Company,42500.0,748,No,0.0,16900.0,287000.0,923000.0,5,Other,1
+39,Female,Single,0,Graduate,Salaried,5.4,Self-Employed/Business,47800.0,632,Yes,15000.0,23300.0,279800.0,1054000.0,1,Other,0
+51,Male,Married,2,Graduate,Salaried,3.2,Private Company,25600.0,605,Yes,1300.0,11400.0,50600.0,203000.0,1,Education,0
+52,Female,Single,0,Post Graduate,Self Employed,6.3,MNC,60700.0,753,No,0.0,13200.0,82500.0,1298000.0,7,Business,1
+27,Male,Married,1,Post Graduate,Salaried,0.5,Private Company,30100.0,730,Yes,9200.0,10800.0,300900.0,246000.0,5,Business,1
+34,Male,Single,3,Doctorate,Salaried,11.8,Self-Employed/Business,33200.0,796,Yes,4900.0,13900.0,301400.0,190000.0,6,Other,1
+36,Male,Single,0,High School,Salaried,8.4,Government,33200.0,718,No,0.0,8500.0,193000.0,31000.0,4,Personal,1
+64,Male,Married,0,Graduate,Self Employed,11.7,Government,47200.0,676,Yes,8900.0,19100.0,238300.0,1151000.0,5,Home Renovation,0
+58,Female,Married,2,High School,Salaried,20.2,Private Company,50700.0,569,Yes,14300.0,24500.0,67600.0,691000.0,6,Personal,0
+53,Female,Single,0,Doctorate,Salaried,24.4,MNC,42400.0,659,No,0.0,10100.0,458200.0,643000.0,4,Business,1
+28,Female,Married,2,Graduate,Salaried,6.8,Government,48900.0,781,No,0.0,10400.0,116700.0,553000.0,5,Wedding,1
+43,Female,Married,1,Graduate,Salaried,18.7,Self-Employed/Business,29400.0,673,Yes,1700.0,11600.0,127100.0,412000.0,3,Wedding,0
+49,Male,Single,2,Graduate,Other,13.2,MNC,22900.0,783,No,0.0,8000.0,154500.0,309000.0,4,Medical,1
+54,Male,Married,3,Graduate,Salaried,20.9,Self-Employed/Business,53800.0,585,No,0.0,22600.0,108300.0,971000.0,6,Business,0
+22,Male,Married,1,Graduate,Business,2.1,Government,88800.0,766,Yes,14900.0,43600.0,308000.0,1324000.0,3,Other,0
+32,Male,Divorced,1,Graduate,Salaried,2.8,Government,69400.0,642,Yes,8600.0,26700.0,598800.0,315000.0,2,Education,1
+32,Male,Married,2,Graduate,Business,3.3,Private Company,77900.0,674,No,0.0,37500.0,74200.0,264000.0,3,Vehicle,1
+25,Male,Married,2,Graduate,Salaried,5.0,Private Company,18000.0,717,No,0.0,5500.0,119200.0,83000.0,2,Wedding,1
+28,Female,Single,2,Graduate,Business,2.2,MNC,57200.0,677,No,0.0,26400.0,403900.0,73000.0,6,Personal,1
+24,Female,Single,2,Graduate,Self Employed,1.1,MNC,38700.0,704,No,0.0,16800.0,271700.0,722000.0,6,Vehicle,1
+33,Female,Married,2,High School,Salaried,0.6,Private Company,37200.0,584,No,0.0,11800.0,210600.0,244000.0,3,Wedding,0
+58,Male,Married,2,Graduate,Salaried,13.6,Self-Employed/Business,18000.0,850,Yes,2700.0,5700.0,91600.0,274000.0,4,Business,1
+64,Female,Single,0,High School,Self Employed,31.5,Private Company,18000.0,665,Yes,3500.0,5000.0,68000.0,159000.0,5,Home Renovation,1
+28,Male,Married,2,Graduate,Salaried,1.7,Private Company,23600.0,721,No,0.0,9700.0,40800.0,348000.0,3,Wedding,0
+21,Male,Married,0,High School,Self Employed,1.8,Government,36900.0,723,Yes,5800.0,17400.0,345200.0,527000.0,3,Wedding,0
+44,Female,Married,2,High School,Self Employed,12.0,Government,53600.0,624,No,0.0,14200.0,85800.0,61000.0,4,Wedding,1
+29,Male,Married,1,Doctorate,Salaried,7.8,Private Company,20900.0,805,No,0.0,10400.0,41300.0,81000.0,5,Medical,1
+52,Male,Single,0,Post Graduate,Salaried,11.3,Private Company,29100.0,665,No,0.0,6400.0,282400.0,193000.0,4,Personal,1
+64,Male,Single,2,Doctorate,Self Employed,19.7,MNC,64800.0,627,No,0.0,31600.0,163000.0,1127000.0,2,Other,0
+62,Male,Married,2,Graduate,Self Employed,27.9,Self-Employed/Business,29900.0,574,Yes,10400.0,14300.0,200600.0,634000.0,4,Personal,0
+52,Male,Married,2,Post Graduate,Salaried,10.7,Private Company,27500.0,627,No,0.0,10100.0,110400.0,291000.0,3,Wedding,1
+38,Male,Married,1,Doctorate,Business,4.6,Self-Employed/Business,42000.0,672,Yes,13200.0,19300.0,410300.0,836000.0,3,Education,0
+34,Other,Married,2,High School,Business,14.8,Government,29800.0,784,Yes,6000.0,9500.0,65100.0,293000.0,1,Medical,0
+24,Male,Divorced,1,Doctorate,Salaried,2.2,Government,23900.0,669,No,0.0,6300.0,182200.0,399000.0,2,Home Renovation,0
+45,Male,Divorced,0,Graduate,Other,6.8,Private Company,46800.0,652,Yes,12100.0,10200.0,297600.0,1166000.0,5,Business,0
+49,Female,Married,1,High School,Business,14.2,Private Company,21100.0,544,No,0.0,8900.0,197200.0,35000.0,3,Home Renovation,1
+41,Female,Single,1,Graduate,Salaried,5.9,Other,32500.0,605,No,0.0,10900.0,331800.0,107000.0,3,Wedding,1
+54,Male,Married,1,Graduate,Salaried,16.4,MNC,27800.0,757,No,0.0,9200.0,95300.0,589000.0,1,Wedding,0
+54,Male,Married,0,Post Graduate,Salaried,30.9,Private Company,53100.0,677,Yes,3300.0,22500.0,429000.0,1071000.0,2,Education,0
+25,Male,Single,1,Doctorate,Other,6.6,MNC,22200.0,546,No,0.0,10000.0,28600.0,253000.0,1,Other,0
+22,Female,Single,0,Graduate,Salaried,3.9,Government,82500.0,656,Yes,15900.0,19300.0,502400.0,1843000.0,4,Other,0
+54,Male,Single,3,Graduate,Salaried,15.4,Private Company,55200.0,691,Yes,4800.0,14300.0,590600.0,902000.0,3,Other,0
+32,Female,Single,2,Graduate,Business,10.3,MNC,32900.0,602,No,0.0,16300.0,371100.0,64000.0,2,Vehicle,1
+41,Female,Married,0,Graduate,Business,17.0,Government,45800.0,850,Yes,10100.0,18600.0,482900.0,739000.0,5,Business,0
+28,Male,Married,4,High School,Salaried,8.1,Private Company,20700.0,805,No,0.0,5300.0,94900.0,412000.0,4,Personal,1
+62,Female,Single,2,Graduate,Other,13.2,Private Company,31300.0,618,No,0.0,15600.0,148200.0,368000.0,5,Other,1
+58,Male,Married,0,Graduate,Salaried,27.9,Private Company,33000.0,638,No,0.0,7200.0,236600.0,476000.0,4,Personal,1
+44,Female,Married,0,Post Graduate,Salaried,2.5,Private Company,74100.0,631,No,0.0,32400.0,477800.0,832000.0,2,Business,0
+48,Female,Divorced,3,Graduate,Salaried,19.3,MNC,61700.0,663,No,0.0,19400.0,436600.0,919000.0,2,Vehicle,0
+30,Male,Single,0,Post Graduate,Salaried,6.5,Private Company,70800.0,665,No,0.0,18100.0,688900.0,827000.0,3,Personal,1
+59,Male,Married,2,Post Graduate,Salaried,21.6,Private Company,43400.0,737,No,0.0,9600.0,50200.0,328000.0,3,Home Renovation,1
+48,Female,Divorced,1,Graduate,Business,8.4,Private Company,71600.0,832,Yes,10400.0,30900.0,107000.0,447000.0,5,Home Renovation,1
+27,Male,Married,2,Graduate,Salaried,8.8,Private Company,53300.0,617,Yes,7600.0,25800.0,619600.0,268000.0,1,Vehicle,0
+24,Male,Single,2,Graduate,Other,1.8,Private Company,88500.0,695,No,0.0,34000.0,274400.0,1698000.0,3,Vehicle,0
+59,Male,Single,1,Post Graduate,Salaried,2.3,MNC,121200.0,631,Yes,18100.0,51800.0,784500.0,434000.0,6,Personal,1
+48,Male,Divorced,1,Post Graduate,Salaried,16.8,Private Company,19800.0,610,Yes,5700.0,6200.0,112800.0,215000.0,1,Vehicle,0
+48,Female,Single,0,Graduate,Salaried,27.0,Government,44800.0,831,Yes,10500.0,13800.0,484600.0,214000.0,4,Wedding,1
+21,Male,Single,2,Post Graduate,Salaried,2.5,Other,25000.0,765,No,0.0,8600.0,47700.0,461000.0,3,Wedding,0
+47,Female,Single,0,Post Graduate,Salaried,11.3,Other,69000.0,585,No,0.0,16100.0,637200.0,1705000.0,6,Wedding,0
+64,Male,Single,2,Post Graduate,Salaried,8.9,Private Company,45900.0,645,Yes,14800.0,19400.0,123900.0,716000.0,3,Other,0
+31,Female,Single,0,Post Graduate,Salaried,4.4,Private Company,31700.0,610,No,0.0,15800.0,42300.0,89000.0,3,Medical,1
+45,Male,Single,0,Post Graduate,Salaried,20.6,Self-Employed/Business,58400.0,635,Yes,18700.0,23100.0,616300.0,30000.0,2,Medical,1
+56,Male,Single,1,Post Graduate,Salaried,1.1,Private Company,18000.0,709,No,0.0,8100.0,153800.0,383000.0,7,Personal,1
+29,Male,Married,0,Post Graduate,Salaried,7.9,Government,35500.0,653,Yes,6800.0,10300.0,262000.0,285000.0,3,Personal,1
+48,Female,Married,1,Post Graduate,Salaried,2.8,Private Company,43600.0,685,Yes,13100.0,16600.0,79400.0,129000.0,6,Wedding,1
+55,Female,Married,1,Graduate,Salaried,11.4,Private Company,53200.0,783,No,0.0,17700.0,398000.0,851000.0,4,Vehicle,1
+48,Male,Single,1,Graduate,Other,18.2,MNC,73900.0,850,Yes,9300.0,22800.0,438500.0,113000.0,2,Wedding,1
+62,Other,Single,1,Graduate,Self Employed,10.2,Private Company,35900.0,680,Yes,4200.0,7600.0,62500.0,324000.0,5,Education,1
+61,Male,Single,1,High School,Salaried,18.0,Self-Employed/Business,19200.0,822,No,0.0,4600.0,70300.0,208000.0,3,Wedding,1
+28,Female,Married,1,Graduate,Business,9.6,MNC,43500.0,633,No,0.0,10200.0,213800.0,512000.0,3,Home Renovation,1
+53,Male,Single,2,Graduate,Self Employed,22.8,Self-Employed/Business,134500.0,684,Yes,11400.0,33100.0,333100.0,1287000.0,5,Vehicle,1
+58,Female,Divorced,2,Graduate,Salaried,16.0,Private Company,62300.0,665,No,0.0,16500.0,365500.0,1278000.0,1,Vehicle,0
+55,Male,Married,3,Graduate,Salaried,13.8,Government,106600.0,792,Yes,33800.0,21700.0,506900.0,84000.0,3,Other,1
+59,Male,Single,1,High School,Self Employed,33.2,Private Company,18000.0,705,Yes,3000.0,7900.0,132400.0,73000.0,5,Other,1
+32,Female,Single,0,Doctorate,Salaried,13.7,Government,29000.0,547,Yes,2700.0,10000.0,57900.0,611000.0,3,Wedding,0
+57,Male,Married,4,Graduate,Salaried,21.4,Private Company,170800.0,544,Yes,21200.0,77100.0,785000.0,1659000.0,5,Medical,0
+64,Male,Married,1,Graduate,Salaried,35.0,Private Company,31000.0,640,No,0.0,13000.0,122600.0,273000.0,5,Home Renovation,1
+57,Female,Single,3,Post Graduate,Business,5.1,Government,18000.0,765,No,0.0,3800.0,163400.0,261000.0,1,Other,0
+32,Female,Divorced,1,High School,Self Employed,7.1,Private Company,32800.0,850,No,0.0,10900.0,244900.0,756000.0,3,Education,0
+34,Male,Married,1,Graduate,Business,7.9,Other,18700.0,752,Yes,2700.0,5200.0,16000.0,455000.0,2,Business,0
+49,Male,Married,1,Graduate,Self Employed,25.5,Private Company,32400.0,695,No,0.0,16100.0,91000.0,806000.0,1,Personal,0
+27,Male,Single,1,High School,Salaried,8.5,MNC,44300.0,690,No,0.0,10200.0,225500.0,809000.0,3,Wedding,0
+55,Male,Married,1,Graduate,Salaried,4.0,Self-Employed/Business,37100.0,626,No,0.0,10100.0,222600.0,160000.0,5,Other,1
+51,Male,Single,2,Post Graduate,Salaried,29.9,Private Company,18000.0,670,No,0.0,8900.0,133900.0,180000.0,4,Personal,1
+52,Male,Married,1,High School,Self Employed,8.6,MNC,25200.0,715,No,0.0,9000.0,54000.0,495000.0,3,Business,0
+51,Male,Single,1,High School,Self Employed,10.8,Private Company,28400.0,681,Yes,7400.0,6200.0,288300.0,33000.0,2,Education,1
+29,Female,Single,2,Post Graduate,Salaried,10.1,Private Company,43600.0,675,Yes,10500.0,17900.0,24000.0,207000.0,5,Vehicle,1
+57,Female,Married,4,Post Graduate,Salaried,4.1,MNC,31500.0,690,Yes,10600.0,11000.0,172500.0,377000.0,2,Personal,0
+57,Female,Married,0,Graduate,Salaried,30.9,Private Company,48100.0,752,Yes,4400.0,19000.0,432600.0,400000.0,4,Vehicle,1
+48,Female,Single,3,Graduate,Salaried,2.2,Private Company,18000.0,688,No,0.0,3700.0,87500.0,172000.0,1,Wedding,0
+32,Female,Single,1,Doctorate,Salaried,9.6,Private Company,77500.0,733,No,0.0,38200.0,150600.0,62000.0,5,Personal,1
+61,Male,Single,0,Graduate,Self Employed,18.4,Private Company,69100.0,578,No,0.0,31400.0,53300.0,1555000.0,5,Education,0
+24,Female,Married,3,Graduate,Salaried,0.8,MNC,27800.0,691,Yes,5800.0,11000.0,220000.0,403000.0,5,Education,0
+46,Male,Single,1,Post Graduate,Salaried,4.5,MNC,19700.0,798,No,0.0,5500.0,88100.0,454000.0,3,Wedding,0
+46,Male,Single,1,Graduate,Salaried,26.8,Government,41500.0,680,No,0.0,9200.0,151900.0,843000.0,3,Medical,0
+33,Male,Married,3,Graduate,Business,10.3,Private Company,40400.0,693,Yes,10000.0,9400.0,315900.0,518000.0,3,Home Renovation,0
+31,Male,Married,0,Graduate,Salaried,0.7,MNC,48200.0,618,No,0.0,15400.0,552300.0,1166000.0,3,Medical,0
+28,Female,Single,0,Graduate,Self Employed,9.6,MNC,47500.0,759,No,0.0,20700.0,229700.0,669000.0,5,Vehicle,1
+22,Male,Married,0,Graduate,Salaried,3.6,Private Company,22100.0,850,No,0.0,8600.0,34100.0,47000.0,1,Business,1
+47,Male,Married,4,Graduate,Salaried,12.3,MNC,52500.0,729,Yes,17700.0,12800.0,436500.0,318000.0,3,Other,1
+55,Male,Married,0,Graduate,Business,29.7,Private Company,18000.0,729,No,0.0,6500.0,51300.0,137000.0,3,Other,1
+59,Male,Married,1,Graduate,Business,16.4,Private Company,65800.0,735,Yes,19600.0,23300.0,383500.0,103000.0,3,Vehicle,1
+57,Female,Single,0,High School,Salaried,31.0,Private Company,18000.0,635,No,0.0,7100.0,95100.0,349000.0,4,Personal,0
+57,Female,Married,0,Graduate,Business,28.3,Other,28900.0,786,No,0.0,11500.0,40500.0,407000.0,5,Home Renovation,1
+37,Female,Single,0,Graduate,Salaried,13.7,MNC,18000.0,682,No,0.0,5600.0,202100.0,378000.0,4,Other,0
+59,Male,Divorced,2,Post Graduate,Business,10.0,MNC,29500.0,597,Yes,10100.0,13500.0,252600.0,544000.0,4,Business,0
+46,Male,Married,2,Graduate,Salaried,23.6,Private Company,52600.0,566,No,0.0,23400.0,356800.0,1273000.0,1,Education,0
+25,Female,Married,0,Post Graduate,Salaried,3.1,Private Company,21700.0,604,No,0.0,8700.0,209700.0,158000.0,4,Home Renovation,1
+28,Male,Married,0,Graduate,Salaried,6.4,Private Company,58400.0,632,Yes,16700.0,16700.0,319800.0,1010000.0,3,Medical,0
+50,Male,Divorced,1,Graduate,Self Employed,6.8,Private Company,32000.0,699,Yes,4300.0,10500.0,376800.0,82000.0,4,Education,1
+48,Male,Married,2,Graduate,Salaried,12.2,Private Company,23900.0,673,Yes,3300.0,9500.0,278200.0,373000.0,1,Vehicle,0
+58,Male,Married,2,Graduate,Salaried,19.6,Government,24400.0,789,No,0.0,8200.0,200800.0,368000.0,4,Home Renovation,1
+21,Male,Married,1,Graduate,Business,0.5,MNC,46600.0,571,Yes,11100.0,14700.0,525000.0,645000.0,6,Medical,0
+56,Female,Married,2,Graduate,Self Employed,17.7,MNC,59900.0,655,Yes,17500.0,27500.0,592900.0,782000.0,3,Home Renovation,0
+61,Male,Married,0,Graduate,Business,26.0,Private Company,85800.0,621,Yes,10700.0,18800.0,495700.0,1473000.0,4,Home Renovation,0
+36,Male,Divorced,2,Post Graduate,Business,16.8,Government,52300.0,587,No,0.0,22000.0,339800.0,117000.0,3,Education,1
+59,Male,Single,3,Graduate,Self Employed,16.2,Government,29100.0,742,Yes,5300.0,11500.0,327900.0,75000.0,5,Personal,1
+31,Female,Single,1,Graduate,Salaried,0.9,Private Company,68800.0,604,Yes,11900.0,32800.0,122900.0,903000.0,5,Wedding,0
+40,Male,Married,0,Post Graduate,Salaried,12.4,Private Company,48400.0,659,No,0.0,21700.0,144500.0,985000.0,5,Personal,0
+62,Male,Single,0,Graduate,Business,3.2,MNC,47600.0,518,No,0.0,22100.0,212500.0,566000.0,3,Business,0
+57,Male,Married,1,Graduate,Salaried,26.1,Self-Employed/Business,48900.0,789,Yes,10400.0,14800.0,257400.0,903000.0,6,Medical,0
+30,Female,Married,0,Graduate,Salaried,2.4,Private Company,24900.0,588,No,0.0,9300.0,294900.0,276000.0,5,Education,1
+62,Male,Married,1,Post Graduate,Self Employed,18.9,Private Company,49700.0,610,Yes,4600.0,20300.0,142700.0,505000.0,6,Business,1
+59,Male,Single,2,High School,Salaried,19.8,Government,22000.0,742,Yes,5900.0,7900.0,222500.0,457000.0,5,Home Renovation,0
+27,Male,Single,3,Post Graduate,Salaried,1.1,Private Company,27700.0,659,No,0.0,13600.0,35100.0,460000.0,1,Medical,0
+33,Female,Married,4,Graduate,Salaried,3.7,Private Company,28500.0,666,Yes,5400.0,11900.0,229500.0,514000.0,1,Home Renovation,0
+29,Male,Married,2,Graduate,Salaried,8.5,Government,47500.0,732,No,0.0,16900.0,100400.0,807000.0,4,Vehicle,1
+27,Female,Single,1,Graduate,Salaried,5.6,Private Company,53700.0,710,No,0.0,23000.0,216400.0,575000.0,5,Other,1
+60,Female,Married,3,Post Graduate,Self Employed,19.7,Government,23100.0,667,No,0.0,11300.0,126100.0,331000.0,4,Home Renovation,1
+58,Female,Single,1,Post Graduate,Salaried,10.1,MNC,56300.0,719,No,0.0,27900.0,537500.0,1096000.0,5,Education,0
+42,Male,Married,0,Graduate,Salaried,16.2,Private Company,38700.0,730,No,0.0,17300.0,395400.0,263000.0,4,Other,1
+58,Male,Divorced,0,Post Graduate,Business,30.1,Other,22900.0,661,Yes,3600.0,10000.0,160600.0,200000.0,4,Home Renovation,1
+56,Male,Married,1,Graduate,Self Employed,30.3,Government,52400.0,690,No,0.0,17400.0,452500.0,528000.0,2,Home Renovation,1
+43,Female,Divorced,0,Graduate,Salaried,24.9,Other,74200.0,721,No,0.0,28000.0,82600.0,860000.0,4,Business,1
+43,Female,Married,1,Graduate,Salaried,16.1,Government,57500.0,722,No,0.0,23000.0,582500.0,269000.0,1,Other,1
+53,Female,Married,2,Post Graduate,Other,19.0,Government,21900.0,656,No,0.0,6200.0,243000.0,332000.0,4,Other,1
+49,Male,Single,1,Post Graduate,Business,20.6,Private Company,60800.0,727,Yes,17700.0,30300.0,51400.0,1367000.0,4,Business,0
+28,Female,Married,0,Graduate,Salaried,4.3,MNC,33600.0,729,No,0.0,14700.0,177600.0,166000.0,3,Medical,1
+35,Male,Divorced,2,Doctorate,Salaried,5.1,MNC,34300.0,589,Yes,3000.0,9500.0,157300.0,588000.0,1,Vehicle,0
+46,Female,Single,0,Post Graduate,Salaried,2.8,Government,55000.0,546,No,0.0,13300.0,394800.0,710000.0,2,Home Renovation,0
+51,Male,Married,0,Graduate,Salaried,24.1,Government,70900.0,764,No,0.0,20900.0,474100.0,1494000.0,7,Education,1
+60,Male,Single,1,Post Graduate,Salaried,17.2,MNC,67700.0,652,Yes,10100.0,22800.0,627500.0,239000.0,2,Education,1
+33,Female,Married,1,Graduate,Salaried,5.9,MNC,84100.0,696,Yes,11200.0,22300.0,218900.0,1657000.0,3,Vehicle,0
+58,Female,Married,0,Graduate,Self Employed,13.2,Private Company,76800.0,694,No,0.0,19400.0,632600.0,447000.0,2,Medical,1
+24,Male,Married,2,Graduate,Self Employed,1.3,Government,56600.0,626,No,0.0,27000.0,54400.0,434000.0,2,Medical,1
+33,Male,Married,2,Graduate,Salaried,6.7,Government,76500.0,652,Yes,4500.0,20000.0,337700.0,991000.0,4,Education,1
+43,Female,Single,3,Post Graduate,Other,20.0,MNC,36400.0,631,No,0.0,15700.0,401200.0,196000.0,6,Wedding,1
+21,Female,Single,0,Graduate,Self Employed,1.0,Government,44900.0,696,No,0.0,13900.0,186700.0,849000.0,3,Other,0
+31,Male,Single,0,High School,Self Employed,8.0,MNC,60500.0,634,No,0.0,23000.0,382500.0,549000.0,6,Wedding,1
+33,Male,Married,2,Graduate,Other,5.0,Private Company,37800.0,620,Yes,5800.0,17000.0,425600.0,200000.0,3,Wedding,1
+36,Female,Single,0,Graduate,Business,3.8,Private Company,31700.0,581,Yes,4400.0,7400.0,359100.0,628000.0,3,Education,0
+64,Male,Married,3,Post Graduate,Business,11.3,MNC,25500.0,634,Yes,3900.0,8400.0,256400.0,103000.0,5,Education,1
+35,Male,Single,0,Graduate,Business,6.2,MNC,26800.0,720,No,0.0,9900.0,215900.0,605000.0,3,Education,0
+28,Female,Married,0,Graduate,Salaried,1.6,Other,92400.0,725,Yes,22900.0,33200.0,155900.0,370000.0,4,Business,1
+48,Other,Single,4,Graduate,Salaried,2.0,Private Company,49400.0,648,Yes,11600.0,13600.0,352900.0,463000.0,5,Education,1
+42,Male,Single,1,Post Graduate,Salaried,5.4,Private Company,18000.0,467,No,0.0,4800.0,87900.0,370000.0,5,Home Renovation,0
+55,Male,Married,0,Graduate,Self Employed,32.8,Private Company,65700.0,737,No,0.0,19700.0,734100.0,1392000.0,2,Wedding,0
+35,Female,Divorced,2,High School,Salaried,9.6,Private Company,50100.0,712,No,0.0,15600.0,172200.0,159000.0,3,Vehicle,1
+57,Male,Single,0,Graduate,Business,1.9,Private Company,117600.0,566,No,0.0,49300.0,1354600.0,464000.0,6,Other,0
+64,Female,Married,1,Graduate,Self Employed,18.8,MNC,98200.0,642,No,0.0,24000.0,989700.0,1094000.0,5,Personal,1
+26,Male,Married,1,Graduate,Salaried,4.8,Private Company,32700.0,672,No,0.0,9900.0,268700.0,664000.0,6,Wedding,1
+42,Female,Single,4,High School,Self Employed,16.0,MNC,51200.0,593,Yes,7300.0,18600.0,271200.0,230000.0,2,Other,1
+62,Male,Single,0,High School,Self Employed,21.3,Private Company,34600.0,651,No,0.0,16500.0,184300.0,72000.0,1,Education,1
+38,Female,Married,3,Post Graduate,Salaried,5.3,MNC,68000.0,532,Yes,4700.0,24500.0,476700.0,1285000.0,2,Business,0
+32,Male,Single,0,Graduate,Salaried,1.7,Private Company,41700.0,571,Yes,6200.0,16600.0,438400.0,799000.0,5,Business,0
+56,Female,Married,0,Graduate,Salaried,31.9,Government,25300.0,775,Yes,2200.0,6400.0,253400.0,382000.0,3,Medical,0
+49,Male,Single,0,High School,Salaried,20.3,Self-Employed/Business,21500.0,647,No,0.0,5000.0,21900.0,363000.0,4,Personal,1
+24,Male,Single,4,Graduate,Other,5.9,MNC,65600.0,817,No,0.0,18800.0,385600.0,1027000.0,3,Medical,1
+52,Female,Single,3,Graduate,Business,19.1,MNC,73700.0,729,Yes,22800.0,17000.0,143600.0,1805000.0,4,Vehicle,0
+23,Male,Married,1,Graduate,Self Employed,3.1,Private Company,66500.0,622,Yes,17100.0,18000.0,511500.0,1250000.0,2,Vehicle,0
+40,Female,Single,4,Graduate,Salaried,9.3,Private Company,56100.0,685,No,0.0,25400.0,339500.0,1097000.0,4,Wedding,0
+44,Male,Married,2,Graduate,Business,15.6,Private Company,38900.0,665,No,0.0,17600.0,76500.0,784000.0,6,Personal,1
+56,Female,Married,4,Graduate,Salaried,29.4,Government,26800.0,564,No,0.0,6000.0,298300.0,239000.0,2,Business,0
+51,Male,Married,3,Post Graduate,Salaried,4.6,MNC,38500.0,739,No,0.0,11400.0,415200.0,631000.0,3,Personal,1
+39,Male,Single,2,Post Graduate,Business,18.9,Government,84600.0,646,No,0.0,42000.0,261900.0,798000.0,3,Wedding,1
+43,Male,Married,4,Graduate,Salaried,2.1,Self-Employed/Business,18000.0,650,No,0.0,5300.0,110200.0,391000.0,4,Other,0
+55,Female,Single,1,Graduate,Business,15.2,Other,24000.0,688,No,0.0,10300.0,96900.0,310000.0,5,Home Renovation,1
+39,Male,Married,1,Graduate,Salaried,6.2,MNC,70300.0,714,No,0.0,24100.0,89100.0,113000.0,3,Home Renovation,1
+26,Male,Single,1,Post Graduate,Business,4.9,MNC,29000.0,784,No,0.0,7500.0,248500.0,417000.0,3,Vehicle,1
+57,Male,Single,0,Post Graduate,Self Employed,11.9,MNC,87900.0,636,No,0.0,28500.0,988800.0,524000.0,2,Wedding,1
+45,Male,Single,1,Graduate,Self Employed,26.9,Government,67400.0,593,Yes,21200.0,21900.0,333900.0,1122000.0,3,Wedding,0
+58,Male,Married,2,High School,Salaried,6.7,Private Company,23200.0,684,No,0.0,6700.0,55000.0,402000.0,1,Wedding,0
+29,Male,Single,0,Graduate,Salaried,7.6,Government,77200.0,659,No,0.0,28400.0,810900.0,736000.0,4,Business,1
+46,Male,Married,0,Graduate,Self Employed,25.7,Private Company,23600.0,634,No,0.0,7000.0,279900.0,212000.0,3,Wedding,1
+57,Male,Divorced,0,Post Graduate,Salaried,27.6,Government,30600.0,743,Yes,3600.0,11300.0,139000.0,479000.0,1,Wedding,0
+38,Female,Married,1,Graduate,Salaried,1.4,MNC,48000.0,770,Yes,13900.0,17600.0,479900.0,769000.0,5,Education,0
+52,Male,Married,1,Graduate,Salaried,20.7,MNC,42900.0,564,No,0.0,9600.0,239400.0,200000.0,2,Wedding,1
+49,Male,Single,1,Graduate,Salaried,12.2,MNC,40600.0,592,Yes,2900.0,15100.0,284600.0,895000.0,4,Vehicle,0
+42,Male,Married,0,Post Graduate,Business,7.5,Private Company,53600.0,673,Yes,11000.0,14700.0,247600.0,1326000.0,4,Home Renovation,0
+45,Male,Single,1,High School,Salaried,18.3,Government,34000.0,484,Yes,1900.0,10200.0,86200.0,111000.0,7,Other,1
+59,Male,Single,0,Graduate,Self Employed,23.9,Government,41400.0,741,Yes,5600.0,12600.0,393200.0,1027000.0,2,Personal,0
+34,Female,Single,1,Graduate,Other,3.3,MNC,78500.0,614,Yes,17500.0,35300.0,765200.0,1704000.0,1,Medical,0
+60,Male,Married,1,Doctorate,Salaried,23.8,Private Company,61800.0,636,No,0.0,21300.0,328200.0,572000.0,4,Business,1
+35,Male,Married,1,Graduate,Salaried,12.7,Private Company,77900.0,633,No,0.0,21700.0,661500.0,1118000.0,5,Medical,1
+43,Male,Married,0,Graduate,Salaried,8.3,Private Company,41000.0,664,Yes,6000.0,9500.0,81100.0,601000.0,1,Home Renovation,0
+38,Female,Single,0,Graduate,Self Employed,5.9,Government,45500.0,606,Yes,10800.0,20100.0,342800.0,358000.0,3,Medical,0
+64,Female,Single,1,Graduate,Salaried,2.8,MNC,26000.0,722,No,0.0,10800.0,186100.0,39000.0,3,Business,1
+35,Male,Married,0,Graduate,Salaried,6.0,Government,69200.0,774,No,0.0,32200.0,684000.0,62000.0,5,Vehicle,1
+29,Male,Single,3,High School,Salaried,4.9,Private Company,32900.0,830,No,0.0,12700.0,320600.0,96000.0,3,Medical,1
+25,Female,Married,4,Graduate,Salaried,4.9,MNC,18900.0,706,No,0.0,5600.0,102400.0,316000.0,5,Home Renovation,1
+44,Female,Married,0,Post Graduate,Salaried,17.3,Government,41200.0,659,No,0.0,9300.0,304900.0,516000.0,4,Vehicle,1
+33,Female,Married,0,Post Graduate,Salaried,12.9,Private Company,43700.0,649,Yes,5400.0,12800.0,53900.0,218000.0,1,Home Renovation,0
+59,Female,Married,3,Graduate,Business,5.0,MNC,48400.0,743,Yes,15100.0,12100.0,54100.0,877000.0,3,Personal,0
+27,Male,Single,2,Graduate,Salaried,6.6,Government,25000.0,850,No,0.0,11200.0,216400.0,93000.0,5,Business,1
+51,Female,Married,0,Graduate,Business,2.0,Other,45300.0,759,Yes,5600.0,21900.0,178000.0,885000.0,3,Other,0
+50,Female,Single,0,Graduate,Salaried,5.9,Private Company,30300.0,676,Yes,5300.0,6600.0,153400.0,375000.0,3,Education,0
+41,Male,Married,3,Post Graduate,Self Employed,3.6,Private Company,104800.0,771,Yes,31800.0,29100.0,54400.0,772000.0,4,Education,1
+25,Female,Single,1,Graduate,Salaried,5.8,MNC,55700.0,707,No,0.0,15000.0,479800.0,449000.0,2,Home Renovation,1
+48,Male,Married,3,High School,Salaried,22.6,Private Company,18000.0,627,No,0.0,7600.0,151100.0,372000.0,6,Medical,1
+43,Female,Single,1,High School,Business,8.4,Government,66200.0,626,No,0.0,21200.0,690000.0,464000.0,4,Education,1
+40,Female,Single,0,Graduate,Salaried,2.0,Private Company,29600.0,547,Yes,4800.0,13700.0,323000.0,380000.0,3,Medical,0
+21,Female,Single,0,Graduate,Salaried,0.9,MNC,47800.0,613,Yes,3400.0,22600.0,128400.0,987000.0,4,Vehicle,0
+41,Female,Single,3,High School,Salaried,17.8,Self-Employed/Business,19700.0,667,Yes,2700.0,6200.0,99000.0,282000.0,2,Home Renovation,0
+22,Male,Single,1,Post Graduate,Self Employed,2.8,Private Company,25100.0,687,Yes,4400.0,5300.0,91600.0,601000.0,7,Medical,0
+47,Female,Single,2,High School,Other,11.4,MNC,71900.0,769,Yes,6700.0,34600.0,794700.0,1599000.0,4,Medical,0
+63,Male,Single,0,Graduate,Salaried,5.6,Government,31500.0,768,Yes,3400.0,8500.0,124400.0,517000.0,4,Education,1
+48,Male,Married,2,Graduate,Salaried,26.6,Private Company,43900.0,596,Yes,10200.0,12000.0,217200.0,116000.0,2,Other,1
+53,Male,Married,0,Graduate,Salaried,11.1,Self-Employed/Business,57800.0,619,No,0.0,26900.0,397100.0,786000.0,2,Other,0
+37,Male,Married,0,Doctorate,Self Employed,11.6,Self-Employed/Business,18000.0,565,No,0.0,8600.0,96700.0,174000.0,7,Medical,1
+52,Male,Single,3,Graduate,Self Employed,27.7,Private Company,75600.0,663,Yes,21800.0,36500.0,579600.0,1409000.0,5,Vehicle,0
+45,Male,Married,1,Post Graduate,Salaried,17.3,Private Company,98000.0,702,Yes,13500.0,41600.0,592900.0,456000.0,7,Vehicle,1
+46,Female,Married,1,Post Graduate,Salaried,20.0,Private Company,22700.0,669,Yes,1100.0,4800.0,266500.0,160000.0,4,Personal,1
+40,Female,Married,2,Post Graduate,Other,12.8,Private Company,28300.0,637,No,0.0,6700.0,120800.0,583000.0,4,Home Renovation,1
+60,Male,Married,0,Post Graduate,Salaried,27.3,MNC,34400.0,584,Yes,9000.0,12400.0,268500.0,193000.0,2,Vehicle,0
+58,Female,Married,1,Doctorate,Self Employed,32.6,Government,52900.0,634,Yes,11100.0,19500.0,391800.0,245000.0,3,Personal,1
+24,Female,Single,0,Post Graduate,Salaried,2.3,Government,18000.0,630,Yes,4800.0,8000.0,62300.0,355000.0,3,Vehicle,0
+41,Female,Single,0,Post Graduate,Salaried,7.0,MNC,116200.0,691,Yes,35500.0,24700.0,124500.0,1258000.0,1,Home Renovation,0
+30,Female,Single,0,Graduate,Salaried,6.0,MNC,34400.0,801,No,0.0,8100.0,118200.0,717000.0,3,Medical,0
+54,Male,Married,1,Post Graduate,Salaried,33.1,Private Company,44800.0,663,No,0.0,20500.0,200800.0,743000.0,3,Other,0
+50,Male,Single,2,Doctorate,Other,27.7,Government,22400.0,754,No,0.0,7500.0,135400.0,432000.0,3,Education,0
+28,Male,Married,0,High School,Salaried,2.6,Government,25000.0,699,No,0.0,10600.0,165700.0,542000.0,4,Business,0
+57,Male,Married,0,High School,Self Employed,28.2,Private Company,18900.0,692,No,0.0,5300.0,78200.0,404000.0,3,Business,0
+35,Male,Married,1,Graduate,Self Employed,1.2,Private Company,74600.0,592,No,0.0,19600.0,149100.0,403000.0,5,Wedding,0
+60,Female,Single,0,Graduate,Business,31.0,Private Company,64400.0,685,Yes,19200.0,15500.0,725000.0,1217000.0,6,Other,0
+27,Female,Married,3,Graduate,Self Employed,6.8,Private Company,22200.0,567,Yes,7700.0,8700.0,194300.0,543000.0,3,Wedding,0
+57,Male,Married,0,Post Graduate,Salaried,11.8,MNC,94600.0,565,Yes,25800.0,25400.0,110900.0,621000.0,3,Business,0
+47,Female,Married,2,High School,Salaried,23.2,Private Company,48400.0,727,Yes,16000.0,11600.0,468000.0,629000.0,5,Other,0
+63,Male,Married,2,Graduate,Self Employed,30.3,Government,18000.0,641,No,0.0,7400.0,26200.0,392000.0,3,Education,0
+43,Male,Single,2,Graduate,Salaried,12.8,MNC,49400.0,769,Yes,10100.0,20500.0,577600.0,273000.0,1,Vehicle,0
+24,Male,Married,0,Graduate,Salaried,0.8,Government,26300.0,584,No,0.0,9400.0,50800.0,633000.0,4,Personal,0
+51,Male,Divorced,1,Graduate,Salaried,4.1,Government,48900.0,784,No,0.0,13500.0,311100.0,1114000.0,5,Home Renovation,1
+41,Female,Single,3,High School,Salaried,20.5,Private Company,18000.0,656,No,0.0,8000.0,155800.0,277000.0,5,Home Renovation,1
+40,Male,Single,0,Doctorate,Business,7.7,Government,18000.0,683,Yes,2300.0,6000.0,152400.0,338000.0,7,Vehicle,1
+27,Male,Married,0,Doctorate,Business,4.7,Government,45900.0,565,No,0.0,16300.0,545700.0,713000.0,3,Other,0
+47,Male,Married,0,Graduate,Salaried,7.9,Private Company,18000.0,692,Yes,6100.0,6700.0,187700.0,89000.0,4,Wedding,1
+28,Female,Married,1,High School,Salaried,4.2,Self-Employed/Business,60900.0,658,No,0.0,20300.0,255300.0,815000.0,4,Business,1
+24,Female,Single,2,High School,Business,4.4,Private Company,31700.0,686,No,0.0,11300.0,249500.0,630000.0,3,Education,0
+51,Female,Single,1,High School,Salaried,32.6,Private Company,97100.0,612,No,0.0,31600.0,394300.0,1878000.0,4,Home Renovation,1
+22,Male,Single,0,Graduate,Salaried,3.0,Private Company,18000.0,581,No,0.0,8800.0,174600.0,131000.0,1,Personal,0
+55,Male,Married,2,Post Graduate,Business,12.9,MNC,32300.0,667,No,0.0,6600.0,168100.0,286000.0,4,Medical,1
+23,Male,Married,2,Graduate,Other,1.5,MNC,36600.0,736,Yes,10100.0,13600.0,133900.0,450000.0,3,Home Renovation,0
+27,Male,Married,2,Graduate,Salaried,4.3,Private Company,31300.0,691,Yes,6800.0,9100.0,179500.0,153000.0,3,Personal,1
+42,Female,Married,0,Graduate,Self Employed,6.7,MNC,55300.0,733,Yes,17100.0,19300.0,216200.0,389000.0,3,Wedding,1
+38,Male,Single,1,Graduate,Salaried,13.5,Private Company,37300.0,743,Yes,10200.0,14700.0,154100.0,591000.0,2,Business,0
+58,Male,Married,4,Graduate,Salaried,20.2,Self-Employed/Business,28600.0,663,Yes,5400.0,12500.0,212600.0,478000.0,7,Home Renovation,0
+47,Male,Married,0,High School,Salaried,19.9,Self-Employed/Business,204800.0,760,Yes,57400.0,87200.0,1488100.0,449000.0,1,Personal,1
+25,Female,Married,2,Post Graduate,Salaried,3.1,Self-Employed/Business,110900.0,727,No,0.0,44200.0,1097300.0,1507000.0,4,Business,1
+64,Male,Single,2,High School,Salaried,5.3,MNC,73500.0,678,No,0.0,25700.0,520900.0,278000.0,6,Other,1
+58,Male,Married,2,Post Graduate,Salaried,29.6,Private Company,18000.0,724,Yes,5000.0,6700.0,47600.0,109000.0,2,Personal,0
+27,Female,Married,0,High School,Salaried,7.5,Private Company,73300.0,551,Yes,4300.0,30800.0,564000.0,1077000.0,5,Vehicle,0
+61,Male,Single,2,Post Graduate,Other,22.2,Private Company,57900.0,820,No,0.0,23800.0,584600.0,110000.0,5,Business,1
+44,Male,Married,0,Doctorate,Salaried,15.3,Private Company,25200.0,721,Yes,5000.0,12000.0,74000.0,117000.0,5,Wedding,1
+37,Male,Married,1,Graduate,Business,9.6,Self-Employed/Business,28200.0,668,Yes,8800.0,7300.0,321300.0,169000.0,4,Other,1
+24,Male,Married,0,Graduate,Salaried,0.9,MNC,63500.0,542,No,0.0,22500.0,110000.0,690000.0,3,Vehicle,0
+61,Male,Single,0,High School,Salaried,4.0,Private Company,72500.0,711,Yes,12900.0,21900.0,189200.0,42000.0,3,Education,1
+55,Male,Single,3,Graduate,Salaried,30.1,MNC,28700.0,459,Yes,2100.0,10700.0,46800.0,339000.0,6,Vehicle,0
+53,Male,Married,0,High School,Salaried,12.6,Private Company,55300.0,728,Yes,10400.0,12600.0,598800.0,1295000.0,7,Medical,0
+62,Male,Single,3,Graduate,Business,35.0,Private Company,64100.0,587,No,0.0,30400.0,402700.0,1280000.0,2,Business,0
+53,Male,Single,0,Post Graduate,Salaried,3.5,Private Company,36300.0,682,Yes,3600.0,18000.0,360800.0,277000.0,1,Education,0
+64,Male,Married,3,Graduate,Business,15.9,MNC,26300.0,721,Yes,6300.0,5800.0,122500.0,366000.0,7,Medical,1
+26,Female,Married,3,Graduate,Self Employed,5.2,Private Company,49000.0,625,No,0.0,14500.0,309700.0,224000.0,7,Wedding,1
+60,Female,Married,2,High School,Salaried,1.2,Government,75400.0,467,Yes,13300.0,31300.0,421600.0,1388000.0,2,Business,0
+28,Male,Married,2,Graduate,Salaried,8.7,MNC,31900.0,629,Yes,7600.0,9800.0,381200.0,399000.0,3,Personal,0
+22,Female,Married,1,Post Graduate,Salaried,2.2,Private Company,18000.0,662,No,0.0,5400.0,206100.0,254000.0,4,Personal,1
+60,Male,Married,1,Post Graduate,Salaried,6.2,Private Company,67100.0,694,Yes,13800.0,15100.0,793300.0,1128000.0,3,Education,0
+39,Male,Divorced,0,Graduate,Salaried,15.2,MNC,70800.0,797,No,0.0,15800.0,304800.0,462000.0,7,Home Renovation,1
+49,Male,Single,1,Graduate,Salaried,27.3,Other,40400.0,584,Yes,10300.0,18100.0,88300.0,186000.0,5,Education,0
+21,Male,Married,3,Graduate,Salaried,0.8,MNC,41600.0,594,Yes,3100.0,16700.0,350500.0,375000.0,2,Business,0
+42,Female,Single,3,Graduate,Salaried,9.4,Other,55600.0,629,No,0.0,20100.0,349200.0,381000.0,5,Home Renovation,1
+55,Male,Married,0,Doctorate,Business,25.1,MNC,25700.0,707,No,0.0,6800.0,108400.0,532000.0,4,Vehicle,1
+45,Male,Married,2,Graduate,Salaried,1.3,Private Company,68000.0,726,Yes,18400.0,31300.0,441300.0,1148000.0,5,Wedding,0
+32,Male,Single,4,Post Graduate,Self Employed,1.6,Private Company,51000.0,688,No,0.0,20900.0,82200.0,371000.0,3,Medical,1
+36,Male,Single,1,Post Graduate,Salaried,1.9,Private Company,70500.0,513,Yes,14700.0,26500.0,681300.0,621000.0,5,Personal,0
+53,Female,Married,0,Graduate,Salaried,8.7,MNC,18000.0,667,Yes,2200.0,8700.0,72200.0,101000.0,3,Business,1
+55,Male,Married,1,Graduate,Other,13.5,Private Company,23000.0,660,No,0.0,6000.0,199100.0,42000.0,3,Personal,1
+59,Male,Married,0,Post Graduate,Salaried,29.9,Private Company,33300.0,745,No,0.0,9800.0,363600.0,132000.0,2,Other,1
+44,Female,Divorced,1,Post Graduate,Salaried,7.4,MNC,33500.0,745,Yes,2800.0,6700.0,401800.0,678000.0,5,Wedding,1
+50,Male,Single,0,Graduate,Self Employed,17.5,Private Company,58500.0,669,No,0.0,25800.0,343000.0,548000.0,2,Vehicle,1
+34,Male,Married,3,Graduate,Salaried,1.3,Private Company,30800.0,745,Yes,9300.0,7600.0,122100.0,214000.0,3,Wedding,1
+48,Male,Married,4,High School,Salaried,2.1,Government,218000.0,782,No,0.0,54800.0,604600.0,658000.0,4,Education,1
+34,Male,Married,2,Graduate,Salaried,2.8,MNC,40100.0,770,No,0.0,16300.0,91900.0,267000.0,5,Education,1
+63,Male,Married,1,Post Graduate,Self Employed,3.6,Self-Employed/Business,25500.0,588,Yes,1700.0,8900.0,48900.0,274000.0,3,Vehicle,0
+28,Male,Single,0,Post Graduate,Self Employed,2.3,Private Company,30300.0,700,Yes,10500.0,13200.0,151100.0,451000.0,6,Home Renovation,0
+64,Male,Single,2,Graduate,Self Employed,30.4,Self-Employed/Business,100200.0,702,No,0.0,38300.0,242300.0,1601000.0,5,Wedding,1
+35,Male,Single,1,Graduate,Self Employed,11.4,MNC,43300.0,652,No,0.0,10700.0,507000.0,917000.0,4,Personal,0
+26,Male,Single,1,Graduate,Business,1.0,Government,105000.0,758,Yes,16700.0,47600.0,287900.0,1659000.0,4,Home Renovation,0
+60,Male,Single,1,High School,Salaried,26.2,Other,28700.0,599,No,0.0,11800.0,137000.0,42000.0,5,Business,1
+63,Female,Single,1,Graduate,Salaried,13.0,Government,105800.0,670,Yes,16200.0,27300.0,736600.0,650000.0,1,Personal,0
+21,Male,Married,1,Graduate,Salaried,2.2,Self-Employed/Business,149600.0,570,Yes,11700.0,35600.0,787800.0,1532000.0,6,Wedding,0
+55,Female,Married,2,Graduate,Salaried,9.9,Other,96700.0,735,Yes,19900.0,20400.0,681400.0,1844000.0,7,Other,1
+45,Male,Single,1,Graduate,Salaried,10.0,Private Company,27900.0,776,No,0.0,8400.0,314100.0,639000.0,2,Vehicle,0
+41,Female,Divorced,0,High School,Salaried,16.0,Government,47600.0,719,No,0.0,23700.0,169500.0,997000.0,3,Other,0
+37,Other,Single,1,Graduate,Salaried,16.4,MNC,30100.0,663,No,0.0,6600.0,322600.0,268000.0,3,Vehicle,1
+49,Female,Single,1,Post Graduate,Salaried,6.6,Private Company,60400.0,664,No,0.0,21200.0,716700.0,719000.0,1,Personal,0
+25,Female,Married,0,Graduate,Self Employed,6.6,Self-Employed/Business,44700.0,795,No,0.0,16400.0,81300.0,167000.0,4,Personal,1
+42,Male,Married,0,Graduate,Salaried,23.3,Government,42000.0,626,No,0.0,21000.0,228900.0,357000.0,6,Business,1
+58,Female,Divorced,2,Post Graduate,Business,17.3,MNC,35000.0,650,Yes,11700.0,14600.0,105900.0,409000.0,5,Education,0
+54,Female,Married,1,Post Graduate,Self Employed,22.2,Private Company,50000.0,674,Yes,6500.0,17400.0,506100.0,230000.0,3,Vehicle,1
+21,Male,Married,3,Graduate,Salaried,1.8,Other,18000.0,694,No,0.0,3800.0,145300.0,150000.0,4,Vehicle,1
+43,Male,Divorced,0,Post Graduate,Salaried,2.7,Self-Employed/Business,84300.0,733,Yes,17800.0,35500.0,650300.0,959000.0,7,Business,1
+22,Male,Single,0,Graduate,Business,3.5,Government,32100.0,690,No,0.0,15800.0,222400.0,290000.0,4,Education,1
+45,Female,Married,0,Post Graduate,Self Employed,8.9,Government,22800.0,614,Yes,3100.0,8300.0,11800.0,183000.0,6,Education,1
+42,Male,Single,2,Graduate,Salaried,10.4,Government,29600.0,714,Yes,4800.0,11000.0,314900.0,699000.0,5,Wedding,0
+30,Female,Married,1,High School,Salaried,9.6,Government,24600.0,565,No,0.0,10400.0,89300.0,99000.0,3,Vehicle,1
+41,Female,Single,2,Graduate,Salaried,3.4,Government,66100.0,666,No,0.0,28400.0,221400.0,89000.0,2,Personal,1
+61,Male,Single,1,Post Graduate,Salaried,14.5,Government,83000.0,692,Yes,24300.0,33900.0,572100.0,1408000.0,3,Wedding,0
+61,Female,Single,3,Graduate,Salaried,16.0,MNC,42100.0,677,No,0.0,11800.0,219800.0,949000.0,6,Business,1
+27,Male,Married,1,Graduate,Salaried,4.9,Private Company,43000.0,662,No,0.0,13200.0,421200.0,436000.0,5,Vehicle,1
+42,Male,Married,0,Graduate,Business,1.5,MNC,76400.0,825,No,0.0,35300.0,76400.0,521000.0,6,Home Renovation,1
+55,Male,Married,0,Graduate,Salaried,19.3,Private Company,28200.0,729,No,0.0,12400.0,196300.0,530000.0,4,Other,0
+37,Female,Married,1,Graduate,Salaried,15.6,Self-Employed/Business,89400.0,831,No,0.0,20500.0,283300.0,1427000.0,5,Home Renovation,1
+59,Male,Single,1,Graduate,Salaried,27.1,Private Company,34600.0,772,No,0.0,7900.0,151500.0,105000.0,7,Personal,1
+63,Female,Single,0,Graduate,Business,0.6,Private Company,39900.0,693,No,0.0,13700.0,476300.0,687000.0,1,Business,0
+55,Male,Single,1,Graduate,Salaried,0.5,Private Company,46200.0,769,No,0.0,13200.0,172100.0,210000.0,2,Business,1
+34,Male,Married,0,Graduate,Salaried,13.0,Private Company,51500.0,773,Yes,2800.0,15100.0,374100.0,204000.0,3,Vehicle,1
+21,Female,Single,1,Post Graduate,Business,2.7,Government,18000.0,610,Yes,1500.0,7300.0,62800.0,137000.0,7,Vehicle,1
+33,Female,Married,1,Graduate,Self Employed,12.4,Other,24100.0,698,Yes,1900.0,5200.0,196800.0,492000.0,4,Education,0
+24,Male,Divorced,1,Post Graduate,Business,5.6,MNC,25500.0,737,Yes,5200.0,6100.0,294900.0,206000.0,6,Business,1
+25,Male,Single,1,Graduate,Other,6.4,Private Company,40700.0,580,No,0.0,9000.0,126500.0,950000.0,6,Vehicle,0
+26,Male,Married,0,Post Graduate,Self Employed,1.0,Self-Employed/Business,18000.0,703,Yes,1900.0,6700.0,207300.0,241000.0,1,Vehicle,0
+61,Male,Single,1,Post Graduate,Salaried,0.8,Private Company,20800.0,766,Yes,6900.0,4800.0,211800.0,267000.0,4,Education,0
+23,Male,Married,2,Graduate,Salaried,1.0,MNC,18000.0,850,No,0.0,8200.0,139200.0,350000.0,5,Personal,1
+29,Male,Married,4,Graduate,Salaried,3.6,Private Company,28600.0,736,No,0.0,9300.0,321600.0,63000.0,2,Wedding,1
+24,Male,Married,1,Graduate,Self Employed,5.2,MNC,20300.0,683,Yes,3700.0,4400.0,143100.0,213000.0,5,Vehicle,1
+40,Male,Single,3,High School,Self Employed,21.4,MNC,46000.0,703,Yes,8800.0,21400.0,362200.0,493000.0,3,Personal,0
+63,Male,Single,4,Post Graduate,Business,15.1,MNC,24000.0,664,Yes,5400.0,9400.0,246600.0,197000.0,2,Personal,0
+39,Male,Married,3,Post Graduate,Business,6.7,Private Company,56400.0,588,Yes,18800.0,15400.0,183800.0,145000.0,6,Medical,1
+61,Male,Married,2,Graduate,Self Employed,14.0,Private Company,24200.0,796,Yes,7300.0,5600.0,200200.0,173000.0,1,Education,0
+43,Male,Single,3,High School,Business,6.1,MNC,28700.0,740,No,0.0,9200.0,39500.0,534000.0,4,Other,1
+56,Male,Married,0,Graduate,Salaried,30.3,Self-Employed/Business,31900.0,728,No,0.0,11200.0,22500.0,746000.0,1,Home Renovation,0
+28,Female,Single,1,Graduate,Salaried,8.9,Government,18100.0,521,No,0.0,3700.0,68100.0,214000.0,4,Business,1
+35,Male,Married,0,Graduate,Salaried,7.6,Government,40300.0,619,Yes,9000.0,15800.0,278200.0,752000.0,3,Other,0
+22,Female,Single,2,Graduate,Salaried,0.8,Private Company,18000.0,696,Yes,2800.0,6800.0,182000.0,48000.0,2,Education,1
+26,Male,Single,4,Graduate,Salaried,1.0,Private Company,52400.0,655,Yes,13900.0,24900.0,272100.0,275000.0,4,Other,0
+59,Female,Married,3,High School,Salaried,30.8,Private Company,20700.0,621,Yes,3100.0,10000.0,77600.0,255000.0,4,Business,0
+43,Male,Married,3,Graduate,Self Employed,3.6,Self-Employed/Business,48700.0,644,Yes,16100.0,20300.0,446500.0,290000.0,3,Education,0
+48,Female,Married,0,Post Graduate,Salaried,14.1,Private Company,19600.0,799,Yes,4700.0,8000.0,170100.0,54000.0,6,Personal,1
+34,Male,Single,1,Post Graduate,Salaried,12.1,Private Company,46000.0,679,No,0.0,12100.0,288300.0,292000.0,3,Vehicle,1
+45,Female,Married,1,Graduate,Self Employed,15.3,Government,18000.0,581,No,0.0,6500.0,36100.0,352000.0,6,Medical,0
+39,Male,Single,1,High School,Business,4.3,Private Company,18000.0,577,No,0.0,6100.0,44300.0,142000.0,4,Personal,1
+25,Female,Divorced,3,Post Graduate,Salaried,1.4,Private Company,44600.0,672,Yes,8100.0,9500.0,301300.0,397000.0,3,Home Renovation,1
+34,Female,Married,2,Post Graduate,Salaried,8.7,Private Company,43100.0,654,No,0.0,10700.0,424200.0,924000.0,6,Medical,1
+37,Male,Single,2,Graduate,Salaried,4.0,MNC,56900.0,655,Yes,8300.0,27800.0,448300.0,63000.0,3,Medical,1
+37,Male,Single,2,Graduate,Salaried,1.5,Private Company,20200.0,719,No,0.0,7300.0,76000.0,481000.0,5,Vehicle,1
+21,Male,Single,4,Graduate,Salaried,1.4,Government,54100.0,665,Yes,17100.0,11500.0,595500.0,1132000.0,3,Wedding,0
+37,Male,Divorced,1,Graduate,Salaried,1.7,Other,42600.0,656,Yes,14300.0,11700.0,282000.0,529000.0,5,Personal,0
+51,Male,Married,0,Post Graduate,Business,17.4,Private Company,61000.0,743,No,0.0,29500.0,308500.0,1067000.0,3,Vehicle,0
+31,Male,Married,1,Post Graduate,Business,4.6,Private Company,220600.0,660,Yes,61400.0,109300.0,2509600.0,418000.0,6,Other,1
+63,Female,Married,1,Graduate,Salaried,7.0,Self-Employed/Business,19900.0,762,Yes,4600.0,4700.0,28000.0,277000.0,3,Home Renovation,0
+27,Male,Married,0,Doctorate,Salaried,6.3,Private Company,28900.0,554,No,0.0,6000.0,283700.0,402000.0,3,Home Renovation,0
+46,Female,Single,0,Graduate,Salaried,11.6,Private Company,45300.0,729,No,0.0,11400.0,333700.0,498000.0,3,Wedding,1
+21,Female,Married,1,Graduate,Salaried,0.7,MNC,56200.0,606,Yes,9800.0,19200.0,265800.0,168000.0,3,Business,1
+21,Male,Single,0,High School,Business,1.0,Private Company,57300.0,630,No,0.0,12800.0,117100.0,934000.0,3,Home Renovation,0
+43,Female,Single,2,High School,Salaried,11.2,Private Company,68900.0,700,No,0.0,26300.0,355100.0,411000.0,3,Education,1
+34,Female,Married,3,Post Graduate,Business,11.3,Private Company,72600.0,585,Yes,16300.0,29700.0,749200.0,280000.0,4,Vehicle,0
+23,Male,Single,2,High School,Self Employed,1.6,Self-Employed/Business,50800.0,739,Yes,6700.0,13400.0,378000.0,654000.0,6,Vehicle,1
+54,Other,Single,2,Graduate,Self Employed,9.2,Self-Employed/Business,120000.0,581,Yes,23800.0,58600.0,1122100.0,992000.0,3,Medical,0
+32,Female,Married,0,Post Graduate,Self Employed,13.4,Self-Employed/Business,58500.0,746,Yes,17800.0,19200.0,212400.0,580000.0,5,Personal,1
+41,Female,Single,1,Graduate,Salaried,1.9,Government,40200.0,732,No,0.0,19400.0,209100.0,675000.0,3,Business,0
+57,Male,Single,1,Graduate,Business,25.9,MNC,48300.0,635,No,0.0,22600.0,535100.0,95000.0,5,Personal,1
+36,Male,Single,1,Post Graduate,Business,12.8,MNC,64800.0,687,No,0.0,21100.0,576900.0,860000.0,1,Personal,0
+61,Female,Married,3,High School,Other,7.7,Private Company,23200.0,718,No,0.0,10900.0,97000.0,399000.0,2,Other,0
+34,Male,Single,3,Graduate,Salaried,7.5,Private Company,45800.0,762,No,0.0,11300.0,386700.0,602000.0,4,Wedding,1
+29,Male,Married,2,Graduate,Self Employed,3.9,Other,33700.0,688,Yes,8000.0,7300.0,26100.0,396000.0,3,Medical,0
+42,Female,Married,0,Graduate,Salaried,2.2,Private Company,28900.0,741,No,0.0,11600.0,173000.0,475000.0,1,Other,0
+25,Male,Single,2,High School,Self Employed,5.9,Private Company,28100.0,719,Yes,9600.0,13900.0,179700.0,658000.0,4,Vehicle,0
+55,Female,Married,1,Graduate,Salaried,21.9,MNC,59700.0,800,Yes,18800.0,22400.0,116900.0,706000.0,5,Other,0
+56,Male,Married,0,High School,Salaried,24.5,MNC,33000.0,678,Yes,4900.0,10900.0,122600.0,493000.0,1,Business,0
+39,Male,Single,1,Post Graduate,Salaried,9.1,MNC,39300.0,783,Yes,13300.0,12400.0,174000.0,863000.0,4,Medical,0
+39,Female,Single,1,Graduate,Self Employed,6.7,Government,21100.0,706,No,0.0,6100.0,171300.0,109000.0,4,Education,1
+62,Female,Single,3,Post Graduate,Salaried,21.7,Private Company,69400.0,794,No,0.0,26900.0,260200.0,675000.0,2,Business,1
+43,Male,Married,0,Graduate,Salaried,1.1,Private Company,40800.0,681,No,0.0,13700.0,34900.0,900000.0,1,Other,0
+42,Male,Married,1,Graduate,Other,14.7,Self-Employed/Business,18000.0,647,No,0.0,7300.0,47600.0,143000.0,5,Vehicle,1
+61,Female,Single,1,Doctorate,Salaried,18.0,MNC,30800.0,569,No,0.0,10600.0,178200.0,298000.0,4,Medical,0
+37,Male,Married,1,Post Graduate,Business,3.9,Private Company,65500.0,569,Yes,19300.0,13800.0,430600.0,1094000.0,2,Personal,0
+37,Male,Married,0,Post Graduate,Salaried,13.1,MNC,52500.0,652,Yes,17000.0,12400.0,416100.0,351000.0,5,Home Renovation,1
+33,Female,Married,1,Graduate,Salaried,8.8,Private Company,37000.0,593,Yes,12800.0,10700.0,273700.0,725000.0,5,Other,0
+23,Female,Married,0,Graduate,Salaried,2.2,Private Company,32500.0,697,No,0.0,12000.0,200900.0,603000.0,3,Medical,0
+61,Male,Single,2,Graduate,Business,34.4,Private Company,18000.0,549,Yes,5100.0,7700.0,108100.0,49000.0,3,Other,0
+45,Female,Single,2,Graduate,Self Employed,12.0,MNC,85100.0,721,Yes,16300.0,33500.0,148300.0,889000.0,7,Personal,1
+47,Female,Single,0,Post Graduate,Salaried,28.4,Private Company,31400.0,606,Yes,11000.0,14700.0,33100.0,455000.0,4,Education,0
+37,Male,Single,1,Post Graduate,Business,5.7,Other,43600.0,631,Yes,13900.0,15600.0,357400.0,911000.0,2,Medical,0
+44,Male,Married,1,High School,Salaried,1.3,Private Company,89600.0,602,No,0.0,31800.0,203200.0,1846000.0,5,Medical,0
+33,Female,Single,0,Graduate,Salaried,6.9,MNC,35100.0,790,No,0.0,15900.0,281900.0,224000.0,3,Medical,1
+23,Male,Married,3,High School,Self Employed,3.6,Private Company,41700.0,689,Yes,11500.0,11600.0,353400.0,70000.0,5,Wedding,1
+33,Male,Married,1,Graduate,Business,4.4,MNC,27900.0,621,Yes,6300.0,9400.0,253000.0,173000.0,1,Vehicle,0
+64,Female,Single,0,Post Graduate,Salaried,9.9,Self-Employed/Business,42700.0,690,No,0.0,12000.0,41500.0,762000.0,3,Personal,0
+57,Female,Single,3,High School,Salaried,6.6,Other,68600.0,726,Yes,10400.0,18500.0,413500.0,960000.0,4,Wedding,1
+41,Female,Single,1,Graduate,Salaried,13.3,Private Company,19800.0,798,No,0.0,8900.0,66800.0,313000.0,4,Business,1
+62,Male,Single,0,Graduate,Salaried,24.1,MNC,36500.0,762,No,0.0,18000.0,241700.0,829000.0,1,Vehicle,0
+63,Female,Married,1,Doctorate,Business,33.7,Private Company,47700.0,717,No,0.0,11300.0,455300.0,51000.0,3,Wedding,1
+39,Female,Single,2,Graduate,Self Employed,20.8,MNC,26600.0,656,Yes,8000.0,5600.0,172400.0,390000.0,4,Personal,0
+25,Male,Married,2,Graduate,Business,3.2,Private Company,22700.0,684,No,0.0,5300.0,91100.0,450000.0,3,Home Renovation,0
+24,Male,Divorced,2,Graduate,Self Employed,2.6,Private Company,35600.0,603,No,0.0,11100.0,166500.0,75000.0,4,Home Renovation,1
+39,Male,Married,0,Graduate,Self Employed,1.3,Private Company,54700.0,622,Yes,18100.0,19500.0,256800.0,1198000.0,3,Vehicle,0
+38,Male,Single,0,Graduate,Salaried,11.8,Private Company,32600.0,584,No,0.0,10200.0,265300.0,230000.0,2,Business,1
+40,Other,Divorced,3,Post Graduate,Salaried,2.8,MNC,38200.0,642,Yes,3800.0,14300.0,447600.0,734000.0,3,Wedding,0
+35,Male,Married,0,High School,Salaried,4.7,Self-Employed/Business,79700.0,745,No,0.0,32300.0,369700.0,1341000.0,1,Home Renovation,0
+46,Male,Single,0,Graduate,Salaried,14.2,Government,107200.0,747,No,0.0,36900.0,1059200.0,154000.0,5,Home Renovation,1
+27,Male,Married,1,Graduate,Salaried,1.7,Government,29900.0,633,Yes,8000.0,13200.0,288900.0,122000.0,6,Medical,1
+30,Male,Married,0,Graduate,Business,10.0,Other,25800.0,606,Yes,5000.0,9100.0,84200.0,107000.0,4,Personal,1
+58,Other,Married,2,Graduate,Other,22.6,Self-Employed/Business,27300.0,665,Yes,1900.0,6300.0,71600.0,253000.0,4,Vehicle,1
+26,Male,Single,1,Graduate,Salaried,1.8,Private Company,74000.0,779,Yes,6500.0,15400.0,47600.0,1631000.0,1,Personal,0
+64,Female,Single,1,Doctorate,Business,17.4,MNC,31100.0,756,No,0.0,10600.0,204300.0,777000.0,5,Other,0
+41,Female,Married,4,Post Graduate,Salaried,1.9,Government,18000.0,747,No,0.0,6100.0,69800.0,146000.0,4,Business,1
+28,Male,Single,1,High School,Business,5.8,MNC,22500.0,756,No,0.0,11000.0,209600.0,546000.0,5,Home Renovation,1
+58,Male,Single,2,Graduate,Salaried,29.8,MNC,68100.0,758,No,0.0,22300.0,86100.0,33000.0,4,Wedding,1
+64,Male,Married,0,High School,Self Employed,20.2,MNC,45600.0,594,Yes,5400.0,9300.0,91200.0,373000.0,2,Vehicle,0
+23,Male,Married,2,High School,Self Employed,0.7,Government,38100.0,722,Yes,13200.0,11200.0,125100.0,287000.0,6,Education,1
+33,Female,Single,1,Graduate,Other,5.3,Other,34500.0,716,No,0.0,17200.0,117500.0,394000.0,4,Other,1
+42,Female,Married,4,High School,Salaried,22.3,Self-Employed/Business,76700.0,750,Yes,15700.0,20700.0,198200.0,1559000.0,2,Other,0
+49,Female,Single,0,Graduate,Salaried,1.2,Self-Employed/Business,129500.0,759,No,0.0,51700.0,1093600.0,1580000.0,2,Wedding,0
+41,Female,Married,3,High School,Salaried,9.8,Government,51900.0,620,Yes,10200.0,22700.0,420700.0,167000.0,3,Other,1
+29,Male,Single,1,Doctorate,Salaried,4.6,Private Company,21500.0,698,Yes,2900.0,10500.0,192300.0,366000.0,5,Personal,1
+27,Male,Married,2,Post Graduate,Salaried,8.7,Other,72900.0,637,Yes,25400.0,26900.0,335400.0,547000.0,3,Education,0
+29,Female,Married,1,Graduate,Business,9.9,Private Company,27100.0,567,Yes,3700.0,7600.0,281900.0,75000.0,4,Medical,0
+48,Male,Married,3,Graduate,Salaried,14.4,Self-Employed/Business,69100.0,685,No,0.0,31400.0,42100.0,714000.0,6,Home Renovation,1
+31,Male,Single,1,Graduate,Salaried,9.4,Self-Employed/Business,36600.0,590,Yes,9400.0,10100.0,287800.0,807000.0,3,Vehicle,0
+39,Male,Divorced,4,High School,Salaried,3.8,Other,18000.0,680,No,0.0,3700.0,134100.0,146000.0,6,Business,1
+28,Female,Married,0,High School,Salaried,3.2,MNC,36000.0,784,No,0.0,13700.0,360400.0,400000.0,3,Vehicle,1
+57,Female,Married,1,Graduate,Self Employed,33.6,Government,206900.0,668,No,0.0,97100.0,1042800.0,1908000.0,3,Home Renovation,1
+26,Male,Married,3,Doctorate,Salaried,1.8,MNC,41700.0,565,No,0.0,8800.0,102500.0,536000.0,4,Education,0
+40,Other,Divorced,3,Graduate,Self Employed,9.5,Government,42600.0,746,No,0.0,8800.0,408700.0,42000.0,3,Personal,1
+37,Male,Single,3,Graduate,Salaried,7.0,Government,56300.0,768,No,0.0,26600.0,587300.0,959000.0,2,Vehicle,0
+55,Female,Married,1,Graduate,Business,17.6,Private Company,65800.0,621,Yes,20400.0,27500.0,338500.0,377000.0,3,Wedding,0
+31,Male,Married,0,Graduate,Salaried,12.8,Private Company,101800.0,795,Yes,18300.0,22000.0,655600.0,1024000.0,2,Home Renovation,1
+39,Female,Single,0,Graduate,Other,18.0,Private Company,39400.0,599,No,0.0,8100.0,323900.0,530000.0,6,Medical,0
+63,Female,Married,0,Graduate,Salaried,9.3,Private Company,18000.0,780,No,0.0,4300.0,210600.0,127000.0,5,Wedding,1
+46,Male,Married,1,High School,Salaried,5.6,Private Company,30100.0,699,No,0.0,11700.0,138400.0,264000.0,1,Wedding,0
+38,Male,Married,2,Graduate,Salaried,19.8,MNC,34300.0,766,No,0.0,7300.0,65600.0,198000.0,3,Home Renovation,1
+53,Female,Married,1,Graduate,Salaried,3.4,Other,32200.0,652,No,0.0,9600.0,161100.0,233000.0,3,Wedding,1
+47,Male,Married,2,Graduate,Salaried,23.3,MNC,19200.0,605,No,0.0,3900.0,27900.0,87000.0,2,Medical,1
+41,Male,Married,1,High School,Business,10.4,Other,116900.0,818,Yes,21800.0,31800.0,1181700.0,1574000.0,5,Home Renovation,1
+34,Female,Single,1,Graduate,Self Employed,11.6,Private Company,21100.0,695,No,0.0,10000.0,51700.0,437000.0,6,Education,1
+36,Male,Single,0,Graduate,Salaried,3.7,Private Company,38900.0,703,Yes,8900.0,13600.0,42700.0,918000.0,4,Wedding,0
+22,Female,Married,2,Graduate,Self Employed,2.7,Government,47100.0,682,No,0.0,20400.0,496100.0,277000.0,1,Business,1
+64,Male,Single,1,Post Graduate,Salaried,21.0,Government,57700.0,675,Yes,5900.0,23100.0,433200.0,939000.0,1,Vehicle,0
+28,Male,Single,1,Graduate,Business,9.3,Private Company,48700.0,714,No,0.0,13300.0,347500.0,356000.0,5,Other,1
+24,Male,Married,0,Graduate,Self Employed,1.6,Government,59900.0,708,No,0.0,26400.0,396100.0,304000.0,3,Business,1
+24,Female,Single,0,Graduate,Salaried,2.3,MNC,18900.0,768,No,0.0,7500.0,148000.0,275000.0,1,Wedding,0
+52,Female,Married,0,Graduate,Salaried,16.5,Private Company,53100.0,585,No,0.0,12300.0,595600.0,1215000.0,4,Vehicle,0
+35,Female,Single,0,Graduate,Salaried,10.1,Private Company,27300.0,663,Yes,3400.0,6100.0,46200.0,560000.0,1,Business,0
+48,Male,Single,1,Graduate,Salaried,3.9,Other,57000.0,539,No,0.0,17600.0,574700.0,664000.0,5,Other,0
+37,Female,Married,4,High School,Salaried,8.4,Private Company,37300.0,838,No,0.0,12300.0,444000.0,867000.0,3,Home Renovation,0
+35,Female,Married,0,Graduate,Salaried,15.7,Self-Employed/Business,36300.0,640,No,0.0,12300.0,123900.0,473000.0,1,Education,0
+54,Male,Married,0,Graduate,Business,25.3,Government,70500.0,744,No,0.0,29900.0,392900.0,1301000.0,4,Personal,0
+38,Male,Married,3,High School,Salaried,18.3,MNC,119800.0,796,No,0.0,29600.0,231700.0,401000.0,3,Other,1
+37,Female,Married,1,Graduate,Self Employed,15.4,Private Company,42900.0,646,No,0.0,13800.0,339100.0,604000.0,3,Vehicle,1
+52,Male,Divorced,1,Graduate,Self Employed,32.3,Private Company,31700.0,690,Yes,9000.0,11600.0,256800.0,276000.0,3,Medical,0
+60,Male,Single,4,Graduate,Self Employed,14.7,Private Company,18000.0,555,No,0.0,6500.0,111900.0,87000.0,3,Vehicle,1
+25,Male,Single,1,High School,Business,2.7,Private Company,19600.0,545,No,0.0,6000.0,39600.0,152000.0,3,Other,1
+48,Female,Married,1,Graduate,Salaried,28.1,Private Company,32300.0,649,No,0.0,10900.0,384500.0,206000.0,3,Education,1
+47,Female,Married,0,Graduate,Salaried,25.5,Private Company,50000.0,682,Yes,4900.0,20500.0,557900.0,488000.0,2,Medical,0
+61,Female,Single,1,Graduate,Salaried,16.1,Private Company,54700.0,771,No,0.0,17400.0,210600.0,1130000.0,3,Home Renovation,0
+32,Male,Single,0,Post Graduate,Salaried,1.3,MNC,35400.0,708,Yes,3100.0,11500.0,23700.0,749000.0,4,Wedding,0
+41,Male,Married,0,Graduate,Salaried,19.2,Private Company,57300.0,708,Yes,16700.0,24500.0,263900.0,1418000.0,3,Wedding,0
+23,Male,Single,2,Post Graduate,Salaried,4.8,Private Company,18000.0,731,No,0.0,4800.0,24900.0,370000.0,7,Other,1
+37,Male,Single,1,Post Graduate,Self Employed,2.1,MNC,59100.0,790,No,0.0,19000.0,180100.0,771000.0,4,Medical,1
+25,Female,Married,3,High School,Salaried,3.7,MNC,126100.0,805,Yes,15900.0,52900.0,301900.0,722000.0,3,Personal,1
+52,Female,Single,1,High School,Business,12.9,Government,24800.0,731,No,0.0,9500.0,134700.0,138000.0,6,Personal,1
+58,Female,Married,2,Graduate,Self Employed,13.8,Private Company,48900.0,695,Yes,9200.0,19700.0,329000.0,1036000.0,5,Medical,0
+63,Female,Married,0,Graduate,Salaried,19.8,Private Company,29500.0,745,No,0.0,10400.0,213500.0,157000.0,5,Medical,1
+58,Female,Single,0,Post Graduate,Business,9.0,Government,41900.0,833,No,0.0,9400.0,395800.0,532000.0,4,Home Renovation,1
+47,Female,Single,0,Graduate,Salaried,11.2,Government,34500.0,552,No,0.0,16700.0,413500.0,226000.0,5,Personal,1
+24,Male,Single,2,Graduate,Salaried,2.2,Private Company,26100.0,573,No,0.0,6800.0,165600.0,128000.0,4,Education,1
+62,Male,Married,1,Post Graduate,Salaried,29.3,Private Company,53400.0,583,Yes,18400.0,11200.0,639900.0,844000.0,4,Wedding,0
+59,Male,Married,4,Graduate,Salaried,24.5,Private Company,50200.0,669,Yes,13300.0,11100.0,586300.0,47000.0,4,Other,1
+46,Male,Single,2,Post Graduate,Salaried,12.5,Private Company,45100.0,640,No,0.0,13100.0,536100.0,113000.0,4,Wedding,1
+24,Male,Married,2,Graduate,Business,2.2,MNC,104000.0,744,No,0.0,33200.0,145100.0,766000.0,4,Home Renovation,1
+44,Male,Single,2,High School,Salaried,0.6,Private Company,139900.0,684,Yes,36800.0,35100.0,1408500.0,1157000.0,4,Personal,1
+41,Female,Single,4,Doctorate,Salaried,21.9,Private Company,38200.0,630,No,0.0,9300.0,153000.0,791000.0,2,Wedding,0
+30,Female,Single,0,Graduate,Salaried,11.6,MNC,24800.0,576,No,0.0,12200.0,61600.0,241000.0,5,Medical,1
+55,Male,Single,1,Graduate,Self Employed,3.0,Private Company,55500.0,629,No,0.0,13800.0,55900.0,565000.0,3,Medical,1
+62,Female,Single,2,Graduate,Salaried,32.7,Private Company,19200.0,743,No,0.0,8400.0,204300.0,407000.0,4,Wedding,0
+64,Male,Married,2,Graduate,Salaried,30.6,Private Company,57000.0,728,Yes,15000.0,14100.0,193900.0,249000.0,7,Other,1
+26,Male,Single,0,Graduate,Salaried,4.3,Government,59200.0,768,Yes,6900.0,24700.0,511500.0,252000.0,6,Vehicle,1
+33,Female,Married,2,Graduate,Salaried,5.7,MNC,26800.0,682,No,0.0,8600.0,151900.0,652000.0,6,Vehicle,1
+58,Male,Divorced,1,Graduate,Salaried,32.2,Private Company,84700.0,701,Yes,10200.0,42200.0,974100.0,1692000.0,4,Medical,0
+23,Female,Married,1,Post Graduate,Self Employed,1.4,MNC,68000.0,681,Yes,11900.0,30600.0,806000.0,561000.0,4,Education,1
+28,Female,Married,2,Post Graduate,Salaried,9.1,Self-Employed/Business,37000.0,700,Yes,11500.0,11400.0,273900.0,136000.0,1,Wedding,0
+49,Female,Married,2,Graduate,Salaried,13.5,Private Company,23600.0,850,No,0.0,7000.0,207700.0,72000.0,6,Wedding,1
+33,Female,Married,1,Graduate,Salaried,4.5,Private Company,19900.0,764,No,0.0,5200.0,216000.0,274000.0,2,Education,0
+31,Female,Married,4,Post Graduate,Business,6.7,Private Company,56700.0,726,Yes,5300.0,19500.0,39700.0,1048000.0,1,Education,0
+31,Female,Single,1,Post Graduate,Salaried,2.5,Private Company,127300.0,794,Yes,23800.0,35700.0,1296300.0,648000.0,5,Home Renovation,1
+57,Female,Single,2,Graduate,Salaried,18.4,MNC,65900.0,586,No,0.0,25900.0,738500.0,1391000.0,4,Medical,0
+55,Female,Married,4,Graduate,Salaried,2.9,Government,65200.0,775,No,0.0,20000.0,647800.0,102000.0,5,Business,1
+63,Male,Single,2,Graduate,Salaried,9.4,Private Company,27900.0,612,No,0.0,5900.0,152400.0,65000.0,1,Education,1
+56,Female,Single,0,High School,Self Employed,20.7,Private Company,110900.0,672,No,0.0,53300.0,473100.0,298000.0,2,Education,1
+34,Male,Married,0,Graduate,Salaried,0.7,Private Company,34400.0,665,Yes,4700.0,15900.0,319800.0,48000.0,4,Medical,1
+56,Female,Married,3,Graduate,Other,34.3,Self-Employed/Business,18000.0,784,Yes,1000.0,4900.0,157800.0,284000.0,6,Wedding,1
+52,Other,Married,1,Post Graduate,Self Employed,27.0,MNC,24300.0,696,Yes,1500.0,11500.0,159600.0,455000.0,5,Business,0
+58,Female,Married,0,Graduate,Salaried,13.1,Government,63600.0,779,Yes,3800.0,18200.0,593800.0,350000.0,5,Personal,1
+33,Male,Married,2,Post Graduate,Salaried,12.4,Government,19400.0,615,Yes,2000.0,7100.0,57800.0,121000.0,7,Home Renovation,1
+48,Female,Married,4,Graduate,Salaried,25.9,MNC,26200.0,492,Yes,8600.0,7900.0,303400.0,599000.0,4,Personal,0
+54,Male,Divorced,1,Post Graduate,Salaried,19.2,Private Company,134100.0,847,Yes,30000.0,52900.0,1126300.0,1560000.0,3,Education,0
+53,Other,Married,4,Graduate,Self Employed,21.9,Private Company,53700.0,752,Yes,4000.0,24200.0,75600.0,150000.0,3,Wedding,1
+22,Female,Divorced,1,Graduate,Self Employed,2.0,Private Company,18000.0,744,No,0.0,8900.0,171800.0,353000.0,6,Other,1
+58,Male,Married,1,Graduate,Salaried,12.1,Government,57500.0,715,No,0.0,18200.0,288400.0,897000.0,2,Other,0
+59,Female,Married,0,Graduate,Self Employed,11.7,Private Company,65300.0,724,No,0.0,30800.0,659700.0,266000.0,5,Education,1
+57,Male,Married,2,Graduate,Business,26.4,Self-Employed/Business,50300.0,667,Yes,3300.0,21600.0,432100.0,764000.0,3,Medical,0
+58,Male,Divorced,1,Post Graduate,Business,20.9,Private Company,40200.0,724,Yes,5300.0,14100.0,471100.0,631000.0,6,Medical,1
+48,Male,Single,2,Post Graduate,Salaried,29.8,Private Company,66200.0,569,No,0.0,15600.0,313100.0,71000.0,4,Education,1
+25,Male,Married,0,Graduate,Salaried,5.8,Self-Employed/Business,84800.0,810,Yes,19700.0,34800.0,483900.0,509000.0,6,Wedding,1
+22,Female,Married,4,Graduate,Salaried,1.7,Private Company,138700.0,709,No,0.0,38500.0,1519000.0,72000.0,3,Other,1
+34,Male,Married,0,High School,Self Employed,5.3,Private Company,40100.0,711,No,0.0,13000.0,142500.0,324000.0,3,Medical,1
+43,Female,Divorced,0,Post Graduate,Salaried,6.9,Government,24100.0,642,Yes,1500.0,9900.0,148400.0,84000.0,2,Medical,1
+41,Female,Single,0,Post Graduate,Self Employed,2.1,MNC,44400.0,770,No,0.0,18000.0,529500.0,281000.0,4,Wedding,1
+61,Male,Single,0,Graduate,Salaried,19.6,Private Company,62300.0,675,Yes,14800.0,27000.0,592800.0,823000.0,6,Wedding,0
+58,Male,Married,1,Graduate,Salaried,15.5,Private Company,38400.0,781,No,0.0,12400.0,248300.0,61000.0,4,Business,1
+21,Male,Married,1,High School,Salaried,1.7,Private Company,43100.0,764,No,0.0,14700.0,239500.0,497000.0,3,Medical,1
+60,Male,Single,0,High School,Salaried,7.0,Private Company,18500.0,830,Yes,3500.0,7800.0,219000.0,319000.0,2,Medical,0
+63,Male,Single,0,Graduate,Salaried,27.7,Private Company,41900.0,658,No,0.0,12500.0,78100.0,610000.0,6,Business,1
+40,Male,Single,2,Post Graduate,Other,6.1,Private Company,114900.0,815,No,0.0,29700.0,403300.0,1040000.0,3,Home Renovation,1
+55,Female,Married,2,Graduate,Business,10.0,Government,37400.0,568,Yes,4900.0,18300.0,87500.0,743000.0,7,Other,0
+44,Male,Married,3,High School,Salaried,13.3,Self-Employed/Business,52500.0,698,No,0.0,21000.0,595200.0,1086000.0,1,Business,0
+57,Male,Single,1,Graduate,Salaried,34.3,Private Company,39300.0,741,No,0.0,17600.0,182600.0,440000.0,3,Business,1
+45,Male,Single,1,High School,Self Employed,4.3,Government,34200.0,666,No,0.0,15800.0,158300.0,68000.0,5,Other,1
+31,Female,Single,4,Graduate,Self Employed,11.9,Private Company,34500.0,723,No,0.0,9800.0,395500.0,75000.0,5,Home Renovation,1
+53,Male,Married,0,Doctorate,Salaried,7.4,Private Company,18000.0,571,No,0.0,8300.0,156400.0,274000.0,1,Medical,0
+39,Male,Married,0,Graduate,Salaried,18.1,Private Company,21800.0,695,No,0.0,10300.0,119900.0,281000.0,6,Personal,1
+21,Female,Single,2,Graduate,Salaried,2.5,Private Company,25700.0,699,No,0.0,12000.0,295900.0,561000.0,1,Personal,0
+30,Female,Single,1,Graduate,Salaried,10.9,Government,42400.0,679,No,0.0,10700.0,271400.0,868000.0,5,Education,1
+42,Female,Married,0,High School,Other,20.9,Self-Employed/Business,66400.0,688,No,0.0,24100.0,72300.0,1245000.0,4,Other,1
+60,Male,Married,0,Graduate,Salaried,7.3,Other,30900.0,626,No,0.0,11800.0,70200.0,619000.0,5,Vehicle,1
+56,Female,Married,0,Graduate,Salaried,7.0,Private Company,31900.0,556,No,0.0,14400.0,134700.0,674000.0,2,Vehicle,0
+24,Male,Single,1,Graduate,Business,2.5,Private Company,18000.0,683,Yes,4600.0,7700.0,185600.0,439000.0,3,Home Renovation,0
+61,Male,Single,1,Graduate,Business,11.8,Private Company,18300.0,628,No,0.0,4600.0,98500.0,227000.0,1,Other,0
+59,Male,Married,3,Graduate,Salaried,2.3,Private Company,72200.0,708,No,0.0,19000.0,419500.0,1646000.0,3,Home Renovation,0
+39,Female,Single,1,High School,Self Employed,2.6,MNC,36000.0,690,Yes,2100.0,15800.0,266500.0,649000.0,3,Medical,0
+54,Female,Single,0,High School,Salaried,26.0,Private Company,33700.0,783,No,0.0,11900.0,293200.0,252000.0,2,Medical,1
+35,Female,Married,1,Graduate,Self Employed,12.1,Government,24900.0,738,Yes,4300.0,10700.0,179300.0,72000.0,6,Vehicle,1
+58,Female,Married,4,High School,Salaried,15.3,Private Company,43100.0,615,No,0.0,10000.0,325100.0,803000.0,5,Education,1
+41,Female,Single,0,Graduate,Salaried,13.5,Government,19800.0,684,Yes,6100.0,5800.0,231100.0,85000.0,7,Medical,1
+51,Male,Single,2,Post Graduate,Salaried,30.7,Government,70800.0,709,Yes,11100.0,33400.0,769000.0,1729000.0,6,Other,0
+64,Other,Married,1,Graduate,Salaried,3.1,Self-Employed/Business,29100.0,651,No,0.0,11300.0,151500.0,207000.0,6,Home Renovation,1
+42,Male,Married,0,Graduate,Salaried,5.4,MNC,36200.0,739,Yes,8900.0,16700.0,329600.0,790000.0,4,Business,0
+57,Male,Married,3,Post Graduate,Salaried,6.5,Private Company,37900.0,742,No,0.0,18500.0,303800.0,799000.0,4,Other,0
+32,Male,Married,2,Graduate,Salaried,5.4,Other,95400.0,654,No,0.0,26700.0,675100.0,1792000.0,3,Other,0
+42,Female,Married,4,Graduate,Business,19.9,MNC,46100.0,532,No,0.0,15200.0,308700.0,531000.0,4,Medical,1
+30,Female,Married,2,Graduate,Self Employed,3.5,Private Company,22600.0,502,Yes,6100.0,5000.0,69200.0,430000.0,3,Business,0
+27,Female,Single,1,High School,Business,1.4,Private Company,51100.0,721,Yes,17800.0,10800.0,100900.0,310000.0,5,Vehicle,1
+32,Male,Married,0,High School,Salaried,1.2,Private Company,36400.0,635,No,0.0,10800.0,322900.0,113000.0,4,Business,1
+45,Other,Single,0,Graduate,Salaried,6.9,MNC,37400.0,683,No,0.0,15300.0,188400.0,367000.0,3,Business,1
+53,Female,Single,3,Post Graduate,Self Employed,13.1,Private Company,38500.0,795,Yes,4200.0,9600.0,363300.0,244000.0,4,Vehicle,1
+41,Male,Married,1,Graduate,Self Employed,4.0,Government,49600.0,722,Yes,13000.0,10600.0,257400.0,883000.0,2,Home Renovation,0
+27,Female,Single,3,Graduate,Other,4.7,MNC,65300.0,589,No,0.0,16300.0,365000.0,821000.0,3,Vehicle,0
+45,Female,Married,0,Post Graduate,Business,14.0,Private Company,52200.0,790,No,0.0,13500.0,429200.0,352000.0,1,Vehicle,0
+42,Male,Married,0,Post Graduate,Other,2.6,Private Company,81100.0,635,No,0.0,31900.0,747000.0,262000.0,5,Personal,1
+51,Female,Single,1,Graduate,Salaried,31.5,Private Company,52400.0,684,Yes,17200.0,23900.0,342100.0,323000.0,2,Home Renovation,0
+57,Male,Married,4,Graduate,Business,23.0,Government,38100.0,767,No,0.0,11000.0,75500.0,819000.0,4,Medical,0
+34,Female,Married,0,Graduate,Self Employed,2.6,MNC,111100.0,721,Yes,9200.0,39100.0,165200.0,1940000.0,1,Vehicle,0
+52,Male,Single,0,Graduate,Salaried,9.9,Self-Employed/Business,30900.0,541,No,0.0,7100.0,346700.0,308000.0,1,Wedding,0
+55,Female,Single,0,Post Graduate,Salaried,30.0,Private Company,31500.0,647,No,0.0,7700.0,39700.0,194000.0,2,Education,1
+39,Male,Married,2,Graduate,Self Employed,8.9,Government,75400.0,658,Yes,3900.0,29800.0,213300.0,1681000.0,6,Wedding,0
+64,Male,Married,1,Graduate,Salaried,26.4,Private Company,41400.0,658,No,0.0,19100.0,431900.0,403000.0,2,Home Renovation,0
+52,Female,Single,1,Post Graduate,Salaried,0.6,Private Company,42700.0,676,No,0.0,20700.0,426800.0,395000.0,6,Home Renovation,1
+48,Male,Divorced,3,Graduate,Salaried,25.0,MNC,59200.0,789,No,0.0,28300.0,287500.0,282000.0,6,Personal,1
+48,Male,Single,3,Graduate,Self Employed,22.3,Private Company,41700.0,689,No,0.0,15500.0,353000.0,630000.0,6,Vehicle,1
+24,Male,Married,0,Post Graduate,Salaried,4.3,Private Company,25100.0,766,No,0.0,10700.0,162000.0,562000.0,4,Education,0
+48,Male,Married,0,Graduate,Salaried,26.2,MNC,52500.0,654,Yes,10000.0,24100.0,341300.0,278000.0,6,Vehicle,1
+51,Female,Single,2,High School,Business,15.6,Private Company,43700.0,672,Yes,2400.0,14200.0,64900.0,130000.0,3,Personal,1
+64,Female,Married,1,Graduate,Business,25.1,Private Company,18500.0,552,Yes,1100.0,4400.0,148500.0,377000.0,7,Medical,0
+60,Male,Married,2,High School,Business,28.6,Private Company,18400.0,688,No,0.0,5200.0,202100.0,188000.0,1,Personal,0
+35,Male,Married,0,High School,Business,16.9,Private Company,90500.0,568,No,0.0,28700.0,987100.0,1133000.0,3,Other,0
+32,Male,Single,1,Graduate,Self Employed,11.7,MNC,64400.0,705,Yes,17400.0,14900.0,616800.0,871000.0,3,Education,0
+36,Male,Married,4,Graduate,Salaried,14.8,Private Company,88400.0,583,Yes,28000.0,34700.0,698400.0,1807000.0,4,Education,0
+23,Female,Divorced,1,Graduate,Salaried,3.5,Private Company,67900.0,652,Yes,7600.0,15300.0,518100.0,276000.0,2,Home Renovation,1
+42,Female,Married,0,Post Graduate,Salaried,6.1,Government,54300.0,628,Yes,18300.0,12000.0,389000.0,1228000.0,1,Medical,0
+37,Male,Married,0,Post Graduate,Self Employed,18.0,MNC,18000.0,686,No,0.0,8900.0,141900.0,43000.0,5,Education,1
+56,Female,Married,2,Doctorate,Salaried,23.5,Private Company,79500.0,801,Yes,8900.0,30700.0,157000.0,549000.0,5,Home Renovation,1
+38,Male,Single,1,Post Graduate,Business,18.4,MNC,69400.0,604,No,0.0,27600.0,69800.0,1456000.0,2,Education,0
+41,Male,Divorced,0,Graduate,Salaried,11.6,MNC,24100.0,601,No,0.0,4900.0,188400.0,255000.0,3,Education,1
+23,Male,Married,1,Graduate,Self Employed,0.6,Government,25200.0,547,No,0.0,6800.0,104600.0,608000.0,3,Personal,0
+26,Female,Divorced,4,Graduate,Salaried,7.3,Government,72800.0,646,Yes,4400.0,32500.0,493400.0,635000.0,3,Wedding,1
+34,Female,Married,1,Post Graduate,Self Employed,10.8,Private Company,59000.0,666,Yes,7300.0,25400.0,76400.0,243000.0,4,Other,1
+58,Female,Single,0,Graduate,Salaried,21.6,Private Company,38900.0,748,Yes,11900.0,10700.0,156600.0,816000.0,3,Personal,0
+52,Male,Married,1,Graduate,Salaried,32.2,Other,18400.0,785,No,0.0,5300.0,21600.0,91000.0,5,Home Renovation,1
+35,Male,Married,2,Post Graduate,Salaried,11.8,Private Company,66600.0,785,Yes,18600.0,14700.0,666200.0,458000.0,4,Wedding,1
+46,Male,Single,3,Graduate,Salaried,5.2,Private Company,53300.0,654,No,0.0,25800.0,115500.0,261000.0,6,Education,1
+62,Male,Single,1,Post Graduate,Salaried,4.3,Self-Employed/Business,53800.0,791,No,0.0,17700.0,496200.0,519000.0,2,Business,1
+21,Male,Divorced,3,Graduate,Self Employed,1.6,Self-Employed/Business,25200.0,802,No,0.0,6800.0,70400.0,285000.0,5,Medical,1
+42,Female,Single,1,High School,Business,23.8,Private Company,76300.0,799,No,0.0,21100.0,708200.0,1322000.0,3,Vehicle,1
+47,Female,Married,0,Graduate,Salaried,11.9,Private Company,34600.0,625,Yes,6000.0,10100.0,385600.0,344000.0,5,Vehicle,1
+23,Female,Single,3,Graduate,Business,2.1,Private Company,18700.0,671,No,0.0,9200.0,109200.0,388000.0,4,Business,0
+57,Male,Single,0,Doctorate,Self Employed,19.6,MNC,25800.0,791,Yes,7700.0,7200.0,95200.0,351000.0,3,Personal,0
+24,Male,Single,1,Graduate,Salaried,3.6,Private Company,18000.0,624,No,0.0,7300.0,63300.0,301000.0,5,Home Renovation,1
+37,Female,Single,2,Graduate,Salaried,10.8,Government,55000.0,654,Yes,9400.0,23600.0,332700.0,1295000.0,3,Medical,0
+41,Female,Married,1,High School,Salaried,6.6,Other,58900.0,653,No,0.0,17800.0,397600.0,1242000.0,6,Education,1
+43,Male,Married,3,Graduate,Self Employed,15.9,Private Company,18000.0,712,No,0.0,7300.0,12700.0,121000.0,1,Education,0
+38,Female,Single,2,Graduate,Self Employed,19.4,Private Company,72000.0,655,No,0.0,25300.0,527900.0,1283000.0,5,Wedding,1
+45,Male,Divorced,1,Doctorate,Salaried,19.7,MNC,33000.0,751,No,0.0,15100.0,328300.0,127000.0,5,Education,1
+61,Male,Married,1,Post Graduate,Salaried,0.6,Government,46000.0,650,Yes,8400.0,10400.0,174600.0,905000.0,2,Education,0
+34,Male,Married,0,Graduate,Self Employed,8.4,Private Company,56300.0,744,No,0.0,20200.0,650700.0,472000.0,3,Vehicle,1
+24,Male,Single,2,Graduate,Business,1.2,Private Company,42900.0,660,No,0.0,16800.0,484100.0,164000.0,1,Home Renovation,1
+57,Female,Single,0,Post Graduate,Salaried,14.2,MNC,48200.0,745,Yes,13900.0,18300.0,341700.0,569000.0,3,Education,0
+56,Male,Married,0,High School,Salaried,24.6,Private Company,51000.0,740,No,0.0,23000.0,97500.0,1054000.0,4,Business,0
+59,Male,Married,0,Post Graduate,Salaried,20.5,Private Company,66800.0,720,No,0.0,20800.0,262900.0,1438000.0,7,Home Renovation,1
+61,Male,Single,0,Graduate,Other,3.2,Private Company,48000.0,717,No,0.0,15300.0,253700.0,232000.0,2,Home Renovation,1
+22,Female,Single,2,Graduate,Business,0.9,MNC,44300.0,671,No,0.0,11200.0,167700.0,962000.0,6,Business,0
+59,Male,Single,0,Doctorate,Salaried,16.6,Other,117500.0,731,Yes,19300.0,44500.0,153000.0,534000.0,2,Home Renovation,1
+31,Male,Married,0,Graduate,Salaried,4.4,Private Company,27100.0,678,No,0.0,10000.0,141500.0,155000.0,5,Medical,1
+21,Male,Married,0,Graduate,Salaried,1.6,MNC,91400.0,775,No,0.0,26300.0,384500.0,893000.0,3,Home Renovation,1
+53,Male,Married,2,Post Graduate,Business,18.1,MNC,31700.0,692,Yes,5700.0,12400.0,109500.0,70000.0,1,Education,1
+63,Male,Single,0,Graduate,Other,11.1,Private Company,74800.0,690,No,0.0,21600.0,520500.0,1345000.0,5,Education,1
+40,Female,Married,1,Post Graduate,Salaried,21.8,Private Company,31300.0,760,Yes,6000.0,7500.0,157900.0,163000.0,3,Business,1
+44,Female,Married,1,Graduate,Self Employed,18.4,Other,70900.0,619,Yes,15400.0,31500.0,216500.0,627000.0,5,Other,1
+58,Female,Married,0,Post Graduate,Salaried,8.9,Private Company,35400.0,662,No,0.0,12000.0,424400.0,747000.0,5,Business,1
+27,Female,Married,0,High School,Self Employed,4.2,Private Company,18000.0,711,No,0.0,3800.0,209800.0,418000.0,6,Other,1
+33,Male,Married,2,Graduate,Self Employed,12.5,MNC,93900.0,850,No,0.0,35700.0,895300.0,1461000.0,5,Medical,1
+40,Male,Married,1,High School,Salaried,3.8,Self-Employed/Business,27600.0,648,Yes,7200.0,5600.0,163400.0,108000.0,5,Education,1
+62,Male,Married,0,High School,Salaried,12.1,Private Company,22800.0,625,Yes,7800.0,9200.0,120900.0,409000.0,5,Wedding,0
+42,Male,Single,1,Post Graduate,Self Employed,21.3,Government,42100.0,635,Yes,11400.0,17100.0,175100.0,211000.0,2,Vehicle,0
+44,Male,Married,2,Graduate,Salaried,10.2,MNC,32200.0,821,No,0.0,15300.0,118900.0,176000.0,3,Personal,1
+40,Female,Single,0,Graduate,Self Employed,21.9,Private Company,42600.0,661,No,0.0,19300.0,353700.0,1017000.0,4,Medical,0
+41,Male,Married,0,Graduate,Self Employed,2.6,Private Company,22500.0,795,Yes,6900.0,7500.0,248500.0,279000.0,3,Vehicle,0
+28,Male,Married,1,Graduate,Other,7.4,Private Company,65700.0,716,No,0.0,21100.0,56400.0,1590000.0,7,Medical,1
+40,Male,Single,2,Graduate,Business,9.7,Self-Employed/Business,50400.0,708,No,0.0,15100.0,538700.0,1073000.0,2,Home Renovation,0
+29,Male,Married,0,High School,Salaried,6.6,Self-Employed/Business,39000.0,711,Yes,10700.0,14400.0,220400.0,322000.0,4,Personal,1
+50,Female,Single,1,Graduate,Business,14.8,MNC,27400.0,664,No,0.0,12100.0,64100.0,212000.0,3,Business,1
+30,Female,Married,1,Graduate,Salaried,0.7,Government,28300.0,632,Yes,3000.0,5900.0,233600.0,302000.0,4,Business,1
+42,Male,Divorced,1,Post Graduate,Salaried,13.4,Private Company,18000.0,713,No,0.0,3900.0,52700.0,61000.0,3,Home Renovation,1
+53,Female,Married,1,Graduate,Salaried,5.2,MNC,20900.0,713,Yes,6500.0,8800.0,168900.0,230000.0,3,Education,0
+35,Female,Married,0,Graduate,Salaried,2.3,MNC,23600.0,738,No,0.0,5300.0,140200.0,479000.0,5,Home Renovation,1
+31,Male,Married,4,Graduate,Business,3.9,Other,31700.0,830,No,0.0,8900.0,115800.0,117000.0,2,Home Renovation,1
+29,Female,Divorced,2,Graduate,Salaried,7.3,Private Company,78700.0,646,No,0.0,19000.0,648800.0,1185000.0,3,Business,1
+22,Male,Single,0,Graduate,Self Employed,2.4,Private Company,75500.0,561,No,0.0,32200.0,518200.0,703000.0,3,Other,1
+61,Female,Married,0,Graduate,Salaried,4.1,Private Company,18000.0,689,Yes,1300.0,7500.0,154500.0,288000.0,4,Business,1
+25,Female,Single,3,Graduate,Salaried,3.4,MNC,30400.0,618,No,0.0,9000.0,292300.0,125000.0,5,Other,1
+27,Male,Divorced,4,Graduate,Salaried,4.7,MNC,66900.0,657,Yes,4800.0,17300.0,406800.0,1319000.0,3,Other,0
+60,Female,Single,1,Doctorate,Salaried,7.8,Government,34100.0,733,No,0.0,7900.0,37800.0,734000.0,6,Wedding,1
+21,Male,Single,4,Graduate,Self Employed,2.4,Government,71400.0,711,Yes,15600.0,25700.0,711800.0,1753000.0,3,Medical,0
+55,Male,Married,1,High School,Salaried,21.6,Private Company,44500.0,709,Yes,7400.0,18800.0,330100.0,757000.0,3,Home Renovation,0
+48,Male,Married,2,Graduate,Salaried,0.8,Private Company,24800.0,692,No,0.0,6900.0,266600.0,320000.0,4,Home Renovation,1
+32,Male,Divorced,1,Graduate,Self Employed,12.8,Private Company,55400.0,680,Yes,14700.0,21300.0,460700.0,506000.0,3,Vehicle,0
+43,Male,Single,4,Graduate,Other,3.9,Government,39600.0,724,No,0.0,9300.0,435200.0,217000.0,4,Wedding,1
+38,Male,Single,2,Post Graduate,Salaried,14.0,Private Company,39000.0,692,No,0.0,18900.0,407300.0,93000.0,4,Home Renovation,1
+53,Male,Married,4,Graduate,Salaried,17.2,MNC,22000.0,792,Yes,2800.0,6600.0,30700.0,289000.0,2,Education,0
+61,Male,Married,4,Post Graduate,Other,20.1,Private Company,50300.0,738,No,0.0,10300.0,457900.0,142000.0,3,Medical,1
+21,Female,Married,2,Graduate,Other,0.8,MNC,35700.0,657,No,0.0,15000.0,19400.0,255000.0,4,Education,1
+55,Female,Single,1,Graduate,Salaried,20.4,MNC,18000.0,715,Yes,3100.0,4600.0,9300.0,388000.0,5,Medical,0
+25,Male,Married,2,Post Graduate,Salaried,4.4,Private Company,39100.0,560,No,0.0,13500.0,168700.0,202000.0,2,Medical,1
+32,Female,Married,0,High School,Salaried,7.4,Other,22000.0,763,No,0.0,9600.0,14900.0,455000.0,3,Wedding,0
+23,Other,Divorced,2,Graduate,Self Employed,2.4,Government,35200.0,580,No,0.0,11800.0,103500.0,202000.0,6,Education,0
+39,Male,Married,1,High School,Salaried,16.8,Private Company,37600.0,677,No,0.0,7800.0,265400.0,491000.0,5,Vehicle,1
+40,Female,Single,1,Post Graduate,Salaried,14.0,MNC,54900.0,816,Yes,7800.0,22000.0,472800.0,1288000.0,2,Home Renovation,0
+58,Male,Married,0,Doctorate,Salaried,18.3,MNC,21000.0,492,No,0.0,6900.0,156400.0,57000.0,5,Home Renovation,1
+38,Female,Divorced,0,Graduate,Salaried,19.1,Private Company,53500.0,530,Yes,5800.0,19300.0,549300.0,95000.0,6,Home Renovation,1
+25,Female,Married,0,Graduate,Self Employed,2.5,Government,61700.0,489,Yes,21400.0,17900.0,481400.0,909000.0,5,Home Renovation,0
+43,Female,Married,1,Post Graduate,Self Employed,2.0,Government,50900.0,675,Yes,11600.0,15400.0,45900.0,703000.0,3,Vehicle,0
+57,Male,Single,2,Post Graduate,Salaried,22.4,MNC,122900.0,710,Yes,24200.0,39000.0,188200.0,1262000.0,3,Business,1
+53,Male,Married,1,Graduate,Business,16.1,Government,108100.0,656,Yes,13900.0,30700.0,1184500.0,1309000.0,1,Wedding,0
+41,Male,Married,2,Post Graduate,Business,5.0,Private Company,27400.0,584,No,0.0,10200.0,246300.0,351000.0,1,Vehicle,0
+57,Male,Married,2,Graduate,Self Employed,14.4,MNC,34500.0,604,Yes,3800.0,14100.0,381100.0,359000.0,2,Other,0
+53,Female,Married,2,Post Graduate,Salaried,9.0,Private Company,57200.0,708,Yes,12000.0,27400.0,99300.0,1237000.0,2,Other,0
+57,Female,Married,2,Graduate,Business,6.3,Private Company,25100.0,667,No,0.0,6900.0,120400.0,536000.0,4,Home Renovation,0
+35,Male,Married,2,Graduate,Business,12.4,Government,45900.0,660,No,0.0,11100.0,280700.0,319000.0,5,Medical,1
+63,Male,Married,1,Graduate,Salaried,6.3,MNC,28700.0,602,Yes,2100.0,12100.0,249300.0,70000.0,4,Education,1
+25,Female,Married,2,Post Graduate,Business,5.9,Government,23000.0,627,Yes,5500.0,5800.0,79900.0,285000.0,2,Other,0
+37,Male,Married,0,Graduate,Salaried,2.5,MNC,49100.0,713,No,0.0,21500.0,403400.0,832000.0,4,Medical,1
+60,Male,Married,0,Graduate,Salaried,10.0,Other,24900.0,597,Yes,7400.0,9400.0,188000.0,516000.0,3,Vehicle,0
+25,Female,Single,0,High School,Self Employed,0.5,Private Company,33800.0,797,No,0.0,11100.0,285500.0,455000.0,7,Personal,1
+25,Male,Single,2,Graduate,Salaried,2.9,Private Company,23300.0,486,No,0.0,10000.0,54100.0,358000.0,6,Home Renovation,1
+60,Female,Single,1,Graduate,Other,6.7,Other,30800.0,588,Yes,7200.0,8100.0,118600.0,662000.0,7,Personal,0
+42,Male,Single,0,Graduate,Salaried,9.3,Private Company,70300.0,582,No,0.0,22500.0,190600.0,498000.0,6,Business,1
+21,Male,Married,1,Graduate,Business,2.2,Private Company,89700.0,582,No,0.0,25800.0,165800.0,1318000.0,6,Vehicle,0
+46,Male,Married,2,Graduate,Salaried,16.6,MNC,57100.0,706,Yes,4100.0,27800.0,314200.0,901000.0,4,Business,0
+28,Female,Married,1,High School,Salaried,3.7,Private Company,22600.0,697,Yes,7800.0,7100.0,39100.0,294000.0,6,Business,0
+30,Male,Single,3,High School,Business,3.8,Self-Employed/Business,49600.0,782,No,0.0,14800.0,352300.0,384000.0,3,Education,1
+51,Female,Single,1,Post Graduate,Salaried,14.4,Self-Employed/Business,77500.0,536,Yes,16000.0,30200.0,752400.0,892000.0,5,Business,0
+48,Male,Married,2,Graduate,Salaried,5.5,Private Company,67900.0,590,Yes,18800.0,19000.0,276000.0,910000.0,2,Vehicle,0
+26,Female,Married,0,Graduate,Self Employed,7.8,Self-Employed/Business,20400.0,644,Yes,2500.0,6700.0,181600.0,330000.0,2,Education,0
+61,Female,Married,0,Doctorate,Self Employed,2.7,Private Company,53700.0,622,Yes,10900.0,12200.0,595500.0,481000.0,6,Wedding,1
+34,Male,Single,0,Graduate,Business,11.2,Self-Employed/Business,27200.0,648,No,0.0,5600.0,310000.0,270000.0,1,Medical,0
+42,Other,Divorced,0,Graduate,Salaried,15.5,MNC,69600.0,710,No,0.0,22600.0,816900.0,1025000.0,6,Home Renovation,1
+31,Male,Single,0,Graduate,Salaried,4.3,Private Company,66800.0,614,Yes,16800.0,24100.0,374600.0,1070000.0,5,Business,0
+31,Female,Divorced,2,Graduate,Self Employed,2.7,Government,40500.0,708,No,0.0,13000.0,485500.0,599000.0,1,Wedding,0
+56,Female,Married,0,Graduate,Self Employed,34.1,Private Company,92300.0,667,Yes,18600.0,25900.0,608300.0,1769000.0,6,Medical,0
+56,Male,Divorced,0,Graduate,Salaried,12.8,Private Company,65100.0,638,Yes,5200.0,27800.0,479100.0,468000.0,3,Wedding,1
+24,Male,Married,2,Graduate,Salaried,5.1,Private Company,18000.0,630,No,0.0,7500.0,126300.0,113000.0,4,Business,1
+55,Female,Single,2,Post Graduate,Salaried,13.0,Private Company,34300.0,754,No,0.0,15600.0,165700.0,505000.0,1,Vehicle,0
+35,Male,Married,0,Graduate,Self Employed,15.8,MNC,35500.0,636,Yes,2900.0,12100.0,234200.0,256000.0,4,Education,1
+60,Male,Single,0,High School,Salaried,7.0,Government,47800.0,823,Yes,7900.0,21600.0,144500.0,885000.0,5,Home Renovation,0
+34,Male,Single,0,Graduate,Salaried,13.7,Private Company,41500.0,632,No,0.0,15300.0,426400.0,1033000.0,4,Home Renovation,0
+23,Male,Single,1,Graduate,Business,2.8,Self-Employed/Business,71800.0,709,Yes,22000.0,28900.0,176500.0,365000.0,6,Personal,1
+61,Female,Married,1,Graduate,Other,27.5,Self-Employed/Business,38600.0,566,Yes,10200.0,9000.0,139400.0,74000.0,3,Medical,1
+50,Male,Married,3,Graduate,Self Employed,31.2,Other,33300.0,663,Yes,8700.0,13900.0,274800.0,300000.0,2,Education,0
+28,Male,Single,0,Graduate,Salaried,1.4,Private Company,18000.0,618,No,0.0,7500.0,129300.0,433000.0,1,Vehicle,0
+30,Female,Married,0,Graduate,Salaried,7.4,MNC,50500.0,534,No,0.0,16500.0,521200.0,981000.0,1,Medical,0
+34,Female,Single,1,Post Graduate,Salaried,15.1,MNC,34800.0,638,No,0.0,16500.0,169300.0,734000.0,3,Medical,0
+45,Male,Married,2,Graduate,Self Employed,14.8,Self-Employed/Business,40600.0,737,Yes,7600.0,10400.0,317400.0,523000.0,2,Medical,0
+38,Female,Married,0,Graduate,Salaried,13.4,Private Company,22700.0,538,Yes,7700.0,5800.0,92600.0,304000.0,6,Vehicle,0
+49,Female,Married,0,Graduate,Salaried,25.9,Private Company,73400.0,592,No,0.0,24300.0,492500.0,387000.0,3,Medical,1
+47,Female,Married,0,Post Graduate,Salaried,28.9,Self-Employed/Business,117500.0,602,Yes,18400.0,36600.0,488800.0,1254000.0,2,Personal,0
+60,Female,Married,1,Post Graduate,Salaried,30.1,Private Company,30400.0,715,No,0.0,14700.0,132600.0,417000.0,4,Medical,1
+33,Female,Single,1,Graduate,Salaried,5.3,Private Company,18000.0,694,No,0.0,3800.0,10500.0,445000.0,4,Wedding,0
+56,Male,Single,0,Graduate,Business,6.9,MNC,34400.0,652,Yes,3200.0,16300.0,199000.0,94000.0,7,Medical,1
+33,Male,Married,2,Post Graduate,Self Employed,5.5,MNC,35100.0,615,Yes,11600.0,10100.0,227700.0,362000.0,7,Home Renovation,1
+60,Female,Married,1,Graduate,Self Employed,32.0,MNC,49300.0,660,Yes,11000.0,22200.0,131500.0,973000.0,4,Business,0
+38,Female,Single,0,Doctorate,Salaried,19.5,Private Company,37500.0,777,No,0.0,14000.0,247300.0,795000.0,2,Wedding,0
+31,Female,Single,0,Graduate,Salaried,1.6,MNC,72300.0,664,No,0.0,14600.0,548900.0,197000.0,5,Wedding,1
+39,Male,Married,3,Graduate,Salaried,9.6,MNC,24400.0,728,Yes,3900.0,10100.0,75600.0,411000.0,2,Wedding,0
+52,Male,Divorced,1,Post Graduate,Salaried,20.4,Government,18000.0,850,No,0.0,5000.0,64900.0,203000.0,2,Personal,1
+59,Female,Married,0,Graduate,Salaried,32.1,Private Company,50800.0,561,No,0.0,14000.0,244400.0,1022000.0,5,Medical,0
+26,Female,Single,3,Graduate,Self Employed,4.9,Government,53500.0,523,No,0.0,14200.0,520800.0,553000.0,2,Vehicle,0
+30,Male,Single,1,Graduate,Salaried,5.4,Private Company,42300.0,725,No,0.0,10300.0,35600.0,989000.0,4,Business,0
+32,Male,Married,4,Graduate,Salaried,2.3,Private Company,26300.0,754,Yes,8800.0,6600.0,16000.0,179000.0,2,Personal,0
+49,Male,Divorced,0,Graduate,Salaried,15.5,Private Company,97000.0,653,No,0.0,26000.0,520400.0,1128000.0,6,Home Renovation,1
+41,Other,Married,2,Doctorate,Salaried,6.2,Private Company,69500.0,697,No,0.0,27900.0,521700.0,113000.0,6,Other,1
+41,Female,Married,1,Graduate,Self Employed,6.5,Private Company,37500.0,627,No,0.0,13000.0,183200.0,198000.0,3,Wedding,1
+36,Male,Married,4,High School,Business,5.5,Government,130200.0,811,No,0.0,40900.0,542900.0,1710000.0,2,Personal,0
+62,Male,Married,0,High School,Self Employed,26.7,Other,66400.0,716,Yes,15700.0,14400.0,709200.0,815000.0,4,Medical,0
+39,Male,Single,0,Graduate,Salaried,10.1,Government,36800.0,762,Yes,12800.0,13700.0,218400.0,471000.0,5,Vehicle,0
+63,Female,Married,1,Graduate,Salaried,19.8,Private Company,33300.0,596,No,0.0,7900.0,89200.0,200000.0,4,Home Renovation,1
+38,Female,Single,0,Post Graduate,Salaried,3.8,Government,18600.0,648,No,0.0,7200.0,30600.0,433000.0,4,Personal,0
+24,Male,Married,0,Graduate,Self Employed,3.5,MNC,65300.0,693,Yes,12100.0,29900.0,130800.0,552000.0,4,Medical,1
+58,Male,Single,1,Graduate,Business,6.8,Government,39900.0,655,Yes,13700.0,17400.0,244800.0,114000.0,4,Vehicle,1
+24,Female,Single,0,Graduate,Salaried,1.1,MNC,93000.0,627,Yes,26100.0,30500.0,922800.0,1576000.0,6,Vehicle,0
+30,Female,Divorced,4,High School,Self Employed,2.8,Private Company,73200.0,702,Yes,4500.0,27700.0,364000.0,1632000.0,3,Other,0
+28,Female,Married,1,Post Graduate,Salaried,8.3,Private Company,32700.0,653,No,0.0,15800.0,96000.0,76000.0,4,Home Renovation,1
+55,Male,Married,1,High School,Self Employed,34.8,Private Company,49900.0,687,No,0.0,16900.0,448200.0,186000.0,4,Education,1
+27,Male,Married,1,Graduate,Salaried,1.7,Government,38600.0,731,Yes,12100.0,13800.0,200500.0,320000.0,3,Other,0
+30,Female,Married,2,Post Graduate,Salaried,7.6,Government,27400.0,756,No,0.0,12700.0,140400.0,74000.0,4,Medical,1
+55,Male,Married,2,High School,Salaried,32.2,MNC,23500.0,761,No,0.0,6800.0,263400.0,338000.0,4,Business,1
+31,Male,Divorced,0,Graduate,Business,8.2,MNC,18000.0,702,No,0.0,3800.0,186200.0,127000.0,5,Personal,1
+58,Female,Married,3,Graduate,Salaried,2.1,Private Company,23400.0,693,Yes,1400.0,4900.0,235500.0,358000.0,3,Other,0
+45,Male,Divorced,1,Graduate,Self Employed,20.7,Private Company,30700.0,660,Yes,3700.0,14600.0,42900.0,345000.0,4,Education,1
+47,Other,Married,4,Post Graduate,Salaried,12.0,Government,62100.0,582,No,0.0,29800.0,56000.0,1201000.0,5,Wedding,0
+35,Female,Married,1,Graduate,Salaried,13.1,Self-Employed/Business,28800.0,723,No,0.0,8600.0,17400.0,168000.0,2,Other,1
+27,Male,Single,0,High School,Salaried,5.5,Private Company,52600.0,750,Yes,17100.0,18400.0,267600.0,994000.0,1,Home Renovation,0
+23,Female,Married,2,Post Graduate,Salaried,3.2,Government,35800.0,706,No,0.0,10000.0,103800.0,847000.0,1,Other,0
+58,Male,Single,0,Graduate,Salaried,23.2,Private Company,29600.0,775,No,0.0,8100.0,210300.0,576000.0,3,Home Renovation,0
+62,Male,Married,1,Graduate,Business,28.2,Private Company,88300.0,763,No,0.0,24700.0,379600.0,1111000.0,2,Personal,0
+45,Male,Divorced,2,Doctorate,Salaried,13.1,MNC,78000.0,758,Yes,16700.0,19800.0,350600.0,1818000.0,2,Business,0
+29,Male,Single,1,Graduate,Business,10.7,Private Company,36100.0,579,No,0.0,10300.0,26300.0,502000.0,7,Other,0
+60,Female,Married,1,Doctorate,Self Employed,31.4,MNC,53800.0,612,Yes,15300.0,15500.0,375100.0,358000.0,5,Personal,1
+41,Female,Married,0,Graduate,Salaried,7.8,Private Company,41500.0,667,Yes,10100.0,12700.0,342300.0,765000.0,4,Education,0
+42,Male,Married,1,Graduate,Self Employed,7.8,Private Company,18000.0,692,No,0.0,5500.0,155000.0,256000.0,3,Home Renovation,1
+58,Female,Married,0,High School,Salaried,22.6,Self-Employed/Business,20900.0,655,No,0.0,9400.0,222100.0,329000.0,6,Home Renovation,1
+41,Female,Single,1,Graduate,Salaried,20.1,Private Company,77800.0,770,Yes,19600.0,34600.0,873000.0,1708000.0,3,Personal,0
+27,Male,Single,0,Post Graduate,Salaried,5.3,Private Company,52400.0,676,Yes,12500.0,17100.0,63000.0,656000.0,5,Home Renovation,1
+56,Female,Married,1,Graduate,Business,27.0,MNC,27300.0,717,No,0.0,12500.0,304400.0,46000.0,1,Home Renovation,1
+48,Male,Married,1,High School,Salaried,5.1,Private Company,114200.0,671,No,0.0,38000.0,737600.0,1058000.0,4,Home Renovation,1
+42,Male,Single,2,Graduate,Business,22.3,Other,74500.0,672,No,0.0,18800.0,728000.0,1658000.0,6,Wedding,1
+29,Female,Single,0,Post Graduate,Salaried,11.0,Private Company,38700.0,767,No,0.0,17200.0,427000.0,309000.0,6,Medical,1
+43,Male,Married,1,Graduate,Salaried,10.0,MNC,48100.0,721,No,0.0,16900.0,321800.0,901000.0,2,Education,0
+24,Female,Single,0,Graduate,Self Employed,3.5,Private Company,28400.0,580,Yes,2000.0,7600.0,188500.0,503000.0,5,Vehicle,0
+42,Male,Married,1,Post Graduate,Business,15.5,Self-Employed/Business,23400.0,753,No,0.0,8400.0,206600.0,41000.0,4,Home Renovation,1
+56,Female,Single,1,Post Graduate,Other,13.3,MNC,31200.0,747,No,0.0,11300.0,253500.0,585000.0,3,Education,0
+58,Male,Married,0,Doctorate,Business,25.0,MNC,40900.0,800,Yes,12400.0,16700.0,383200.0,817000.0,1,Home Renovation,0
+60,Female,Single,1,Graduate,Salaried,1.9,MNC,53800.0,850,No,0.0,13600.0,186500.0,1025000.0,5,Vehicle,1
+52,Male,Single,2,Graduate,Salaried,26.8,Government,47600.0,577,No,0.0,17400.0,136900.0,425000.0,4,Business,1
+31,Female,Single,2,Post Graduate,Business,7.6,Private Company,32300.0,699,Yes,7500.0,16000.0,106200.0,532000.0,3,Personal,0
+38,Male,Single,2,Graduate,Self Employed,2.6,Government,40800.0,629,No,0.0,9200.0,408800.0,656000.0,4,Education,1
+35,Female,Single,1,Post Graduate,Self Employed,1.2,Government,83400.0,613,Yes,20600.0,25200.0,351100.0,866000.0,2,Personal,0
+23,Female,Married,1,Doctorate,Business,1.3,Government,33700.0,673,Yes,3700.0,7900.0,303800.0,656000.0,7,Medical,1
+29,Male,Single,4,Graduate,Salaried,10.0,Government,47500.0,663,No,0.0,10700.0,494800.0,482000.0,4,Medical,1
+52,Female,Married,1,High School,Self Employed,33.5,Self-Employed/Business,47500.0,637,Yes,5000.0,14600.0,152400.0,313000.0,4,Vehicle,1
+25,Female,Divorced,1,Post Graduate,Self Employed,2.6,Private Company,38300.0,667,No,0.0,18100.0,441500.0,54000.0,7,Business,1
+22,Female,Single,0,Post Graduate,Business,0.5,MNC,33300.0,607,No,0.0,10900.0,213900.0,497000.0,3,Home Renovation,0
+31,Female,Married,0,Graduate,Self Employed,8.5,Government,57700.0,587,Yes,18800.0,22900.0,213400.0,698000.0,5,Medical,0
+26,Male,Married,3,Doctorate,Self Employed,7.9,Government,18000.0,817,Yes,3100.0,6100.0,184700.0,349000.0,4,Other,0
+50,Male,Single,2,Graduate,Salaried,12.7,MNC,48700.0,730,Yes,8800.0,11800.0,118500.0,225000.0,2,Medical,1
+31,Female,Divorced,3,High School,Salaried,11.2,Private Company,39600.0,702,No,0.0,18300.0,328100.0,662000.0,2,Home Renovation,0
+41,Male,Single,0,Graduate,Business,0.9,Private Company,49400.0,476,Yes,16800.0,18500.0,321300.0,41000.0,3,Wedding,0
+47,Other,Single,3,Graduate,Salaried,19.9,Private Company,112800.0,537,Yes,33800.0,24100.0,903800.0,649000.0,2,Business,0
+43,Female,Single,1,Graduate,Business,8.2,Private Company,26500.0,574,No,0.0,12900.0,231600.0,342000.0,4,Personal,0
+29,Male,Married,1,Post Graduate,Self Employed,7.7,Private Company,45900.0,631,No,0.0,11100.0,307200.0,193000.0,4,Personal,1
+39,Male,Married,3,High School,Self Employed,4.0,Private Company,54900.0,629,Yes,17100.0,19600.0,41500.0,992000.0,2,Personal,0
+42,Female,Divorced,1,Post Graduate,Salaried,19.5,MNC,50500.0,634,Yes,8300.0,13200.0,399300.0,1256000.0,1,Personal,0
+29,Female,Married,1,Graduate,Salaried,3.3,Private Company,29000.0,670,No,0.0,8500.0,192500.0,123000.0,6,Other,1
+54,Male,Married,3,Graduate,Salaried,32.6,Self-Employed/Business,39100.0,715,No,0.0,8000.0,47400.0,871000.0,6,Personal,1
+38,Female,Married,2,Graduate,Salaried,9.0,Government,23800.0,689,No,0.0,6500.0,66200.0,328000.0,4,Business,1
+36,Female,Married,0,Graduate,Salaried,10.4,Private Company,37200.0,680,No,0.0,15400.0,225900.0,232000.0,4,Education,1
+30,Male,Married,4,Post Graduate,Self Employed,9.0,Self-Employed/Business,18600.0,794,Yes,3100.0,9000.0,199600.0,258000.0,4,Education,0
+43,Male,Married,0,Doctorate,Salaried,22.8,Private Company,27500.0,713,No,0.0,10200.0,86400.0,55000.0,4,Other,1
+42,Other,Single,1,Graduate,Salaried,14.4,Private Company,18000.0,619,Yes,3700.0,5400.0,9300.0,159000.0,3,Wedding,1
+46,Female,Single,3,Graduate,Self Employed,7.9,Private Company,18000.0,688,No,0.0,7600.0,125800.0,402000.0,4,Other,0
+27,Female,Married,2,Graduate,Other,5.5,Private Company,53200.0,736,No,0.0,13800.0,313100.0,1150000.0,4,Personal,0
+37,Male,Married,0,Graduate,Self Employed,1.3,MNC,35100.0,605,Yes,3800.0,11400.0,172700.0,656000.0,5,Home Renovation,1
+49,Male,Divorced,2,High School,Business,6.6,Government,18000.0,603,No,0.0,6000.0,24600.0,428000.0,6,Education,0
+64,Female,Single,0,Graduate,Salaried,0.8,Private Company,42800.0,671,Yes,4800.0,17700.0,419600.0,501000.0,4,Personal,1
+40,Female,Single,3,Graduate,Self Employed,5.8,MNC,42500.0,527,No,0.0,16000.0,302900.0,98000.0,2,Wedding,1
+42,Male,Single,1,Graduate,Business,9.6,Self-Employed/Business,38100.0,730,No,0.0,15500.0,175100.0,252000.0,2,Other,1
+21,Female,Married,3,Post Graduate,Salaried,2.1,Private Company,30500.0,673,Yes,7700.0,10000.0,321200.0,274000.0,2,Personal,0
+32,Female,Married,0,Graduate,Self Employed,6.3,Private Company,91800.0,809,No,0.0,31900.0,266000.0,351000.0,1,Medical,1
+46,Male,Single,2,Post Graduate,Salaried,10.0,Other,83500.0,631,No,0.0,36600.0,780200.0,1345000.0,6,Education,1
+53,Male,Married,2,Graduate,Salaried,24.1,Private Company,20500.0,806,No,0.0,4600.0,54000.0,136000.0,3,Home Renovation,1
+42,Male,Single,0,Graduate,Other,11.5,Self-Employed/Business,41000.0,769,No,0.0,10600.0,345100.0,301000.0,5,Education,1
+62,Female,Married,1,Graduate,Business,1.9,Self-Employed/Business,51200.0,772,Yes,9800.0,23600.0,269900.0,698000.0,1,Education,0
+62,Female,Married,1,High School,Salaried,12.8,Government,48300.0,713,Yes,15300.0,16500.0,437300.0,195000.0,4,Other,1
+25,Male,Single,2,High School,Self Employed,1.4,Self-Employed/Business,25500.0,655,No,0.0,9100.0,25400.0,238000.0,1,Vehicle,0
+61,Female,Married,1,High School,Salaried,4.0,MNC,46500.0,602,Yes,5500.0,18200.0,267600.0,483000.0,4,Business,1
+42,Male,Single,0,Graduate,Business,21.2,Private Company,43300.0,809,Yes,12100.0,18300.0,471500.0,39000.0,2,Wedding,1
+49,Female,Single,0,Graduate,Salaried,3.9,Private Company,20600.0,632,No,0.0,10000.0,59400.0,375000.0,5,Education,0
+31,Female,Single,0,Post Graduate,Salaried,9.1,Private Company,24100.0,629,No,0.0,9500.0,115600.0,455000.0,3,Personal,0
+21,Male,Married,4,Graduate,Salaried,2.3,Private Company,38600.0,599,No,0.0,12100.0,405100.0,392000.0,3,Business,1
+27,Female,Single,0,Post Graduate,Salaried,5.3,Private Company,31200.0,693,Yes,3500.0,7100.0,71500.0,607000.0,5,Home Renovation,1
+41,Male,Single,0,Graduate,Salaried,18.9,Self-Employed/Business,44900.0,574,No,0.0,16000.0,246600.0,240000.0,3,Vehicle,1
+32,Female,Married,3,High School,Salaried,7.8,Self-Employed/Business,19700.0,663,Yes,6100.0,9500.0,234800.0,474000.0,1,Wedding,0
+40,Male,Single,2,Post Graduate,Salaried,13.8,Self-Employed/Business,23800.0,673,No,0.0,7400.0,170000.0,278000.0,1,Vehicle,0
+53,Female,Single,0,Post Graduate,Salaried,28.1,Private Company,32100.0,681,Yes,8900.0,12600.0,357000.0,635000.0,2,Education,0
+46,Female,Married,2,Graduate,Salaried,18.0,Private Company,50900.0,591,Yes,3800.0,10200.0,381500.0,480000.0,5,Education,1
+51,Male,Single,0,Graduate,Salaried,13.3,Government,81200.0,696,Yes,15800.0,40000.0,362200.0,1307000.0,3,Education,0
+30,Male,Married,3,Graduate,Self Employed,5.0,Other,18000.0,670,Yes,4400.0,4000.0,133900.0,421000.0,6,Medical,0
+55,Male,Single,0,Post Graduate,Salaried,8.5,MNC,18000.0,784,No,0.0,3900.0,193700.0,125000.0,4,Business,1
+58,Male,Divorced,1,High School,Business,20.7,MNC,80200.0,687,Yes,10500.0,27300.0,110800.0,1421000.0,3,Business,0
+59,Male,Divorced,1,Graduate,Salaried,23.6,Private Company,39000.0,569,No,0.0,13800.0,258600.0,482000.0,4,Business,1
+21,Female,Single,3,Graduate,Salaried,1.5,Private Company,91400.0,757,No,0.0,19400.0,735400.0,1689000.0,5,Home Renovation,1
+53,Male,Single,2,Post Graduate,Self Employed,8.5,Private Company,22900.0,750,Yes,6800.0,6600.0,224400.0,529000.0,3,Personal,0
+30,Female,Married,2,Graduate,Salaried,10.2,Private Company,39200.0,685,No,0.0,11200.0,162900.0,325000.0,5,Education,1
+50,Female,Married,0,Graduate,Salaried,11.7,Private Company,28500.0,602,No,0.0,13700.0,199500.0,447000.0,1,Wedding,0
+34,Female,Divorced,1,Post Graduate,Salaried,1.4,MNC,41300.0,587,No,0.0,13900.0,182500.0,499000.0,3,Medical,0
+53,Male,Married,3,High School,Self Employed,19.4,Private Company,45400.0,644,Yes,13500.0,17800.0,491700.0,726000.0,5,Business,0
+57,Male,Married,1,High School,Salaried,3.3,MNC,56000.0,684,Yes,13000.0,14800.0,423500.0,1020000.0,5,Medical,0
+28,Female,Married,0,Graduate,Salaried,4.2,MNC,23100.0,652,Yes,7100.0,11300.0,194400.0,229000.0,6,Medical,0
+49,Female,Single,1,Post Graduate,Business,3.7,Private Company,33600.0,687,No,0.0,12000.0,128300.0,690000.0,3,Home Renovation,0
+55,Female,Single,1,Graduate,Other,30.0,Self-Employed/Business,32300.0,663,Yes,3600.0,7900.0,219200.0,745000.0,7,Medical,1
+60,Male,Single,2,Post Graduate,Self Employed,22.7,Private Company,18000.0,673,Yes,1200.0,5500.0,175600.0,416000.0,6,Business,1
+26,Male,Single,3,Graduate,Salaried,1.9,Other,55400.0,746,Yes,17600.0,18500.0,448000.0,1330000.0,2,Home Renovation,0
+29,Male,Married,0,Post Graduate,Salaried,7.2,Self-Employed/Business,40200.0,707,No,0.0,9000.0,26000.0,624000.0,1,Personal,0
+22,Male,Single,0,Graduate,Self Employed,2.1,MNC,80700.0,683,No,0.0,19300.0,633300.0,970000.0,7,Business,1
+58,Male,Married,0,Graduate,Self Employed,35.0,Private Company,76300.0,661,No,0.0,32000.0,444600.0,638000.0,4,Vehicle,1
+24,Male,Divorced,2,Graduate,Salaried,3.6,Private Company,146600.0,717,No,0.0,48200.0,1586100.0,598000.0,2,Business,1
+59,Female,Married,0,Graduate,Salaried,27.0,MNC,29300.0,636,Yes,10000.0,13000.0,136200.0,369000.0,3,Personal,0
+40,Male,Single,1,Graduate,Business,8.9,Private Company,36000.0,708,Yes,12500.0,10500.0,132900.0,782000.0,1,Other,0
+39,Female,Single,4,Graduate,Salaried,3.8,Private Company,67100.0,842,No,0.0,18800.0,537900.0,509000.0,4,Other,1
+61,Male,Married,0,Post Graduate,Salaried,32.9,Private Company,61400.0,733,Yes,3700.0,26900.0,451500.0,803000.0,1,Education,0
+54,Male,Divorced,2,Post Graduate,Salaried,30.9,Government,31500.0,731,No,0.0,11700.0,33300.0,337000.0,2,Personal,1
+35,Female,Single,2,Post Graduate,Salaried,3.5,Government,58400.0,756,No,0.0,14200.0,591200.0,639000.0,2,Education,1
+36,Female,Single,1,Post Graduate,Business,12.1,Private Company,33600.0,634,No,0.0,7400.0,69400.0,177000.0,4,Personal,1
+35,Male,Married,3,Graduate,Salaried,4.3,Government,99000.0,681,Yes,23600.0,41600.0,497300.0,1451000.0,3,Home Renovation,0
+36,Male,Divorced,2,Graduate,Salaried,14.7,Private Company,29400.0,588,No,0.0,7000.0,56000.0,378000.0,3,Personal,0
+51,Male,Single,2,Post Graduate,Salaried,4.2,Private Company,24500.0,794,Yes,6200.0,10100.0,275800.0,68000.0,2,Personal,1
+45,Female,Married,1,High School,Salaried,8.4,Government,35200.0,669,No,0.0,10200.0,200700.0,139000.0,5,Business,1
+43,Female,Married,1,Post Graduate,Salaried,9.5,Private Company,79700.0,799,No,0.0,19500.0,446900.0,377000.0,4,Business,1
+61,Female,Single,0,Post Graduate,Salaried,1.3,Government,18000.0,721,No,0.0,4000.0,174600.0,419000.0,6,Personal,1
+46,Male,Married,2,Graduate,Self Employed,24.8,MNC,36900.0,568,Yes,5700.0,12800.0,195200.0,149000.0,2,Vehicle,0
+59,Female,Married,1,Post Graduate,Self Employed,15.3,Private Company,18000.0,723,Yes,6200.0,5600.0,138500.0,236000.0,2,Vehicle,0
+24,Male,Single,0,Graduate,Salaried,0.6,Private Company,26400.0,699,No,0.0,5600.0,101400.0,291000.0,4,Vehicle,1
+57,Male,Divorced,0,Doctorate,Salaried,10.4,Government,73400.0,530,No,0.0,31000.0,617500.0,638000.0,2,Personal,0
+58,Female,Married,2,Post Graduate,Salaried,12.0,Private Company,18000.0,706,No,0.0,6200.0,120300.0,55000.0,4,Business,1
+22,Female,Single,2,Graduate,Salaried,2.2,Private Company,56200.0,706,Yes,18600.0,19900.0,481000.0,1206000.0,3,Wedding,0
+37,Female,Married,3,Graduate,Salaried,6.6,Other,28300.0,765,No,0.0,10800.0,142200.0,684000.0,4,Medical,0
+62,Male,Married,2,Post Graduate,Business,0.7,Private Company,30800.0,677,No,0.0,8200.0,182800.0,75000.0,4,Wedding,1
+45,Male,Divorced,0,Graduate,Other,21.5,Other,70900.0,679,No,0.0,16500.0,395100.0,1440000.0,4,Personal,1
+58,Male,Single,0,Doctorate,Salaried,15.3,Self-Employed/Business,57100.0,720,No,0.0,18100.0,231900.0,73000.0,2,Vehicle,1
+39,Male,Married,2,Post Graduate,Salaried,13.3,MNC,18900.0,715,Yes,6600.0,6200.0,14800.0,190000.0,2,Medical,0
+46,Male,Single,2,High School,Salaried,3.1,Private Company,52900.0,558,No,0.0,24500.0,559300.0,258000.0,3,Personal,1
+56,Female,Single,0,Doctorate,Self Employed,29.4,Government,36300.0,706,No,0.0,10300.0,266700.0,636000.0,3,Wedding,0
+47,Other,Married,1,Graduate,Business,18.9,Private Company,33100.0,682,No,0.0,9900.0,196200.0,667000.0,1,Other,0
+55,Male,Divorced,2,Post Graduate,Business,12.3,Private Company,107100.0,727,No,0.0,29000.0,517900.0,1028000.0,4,Wedding,1
+61,Male,Married,1,Post Graduate,Business,31.8,Private Company,37700.0,571,Yes,9100.0,18200.0,67600.0,442000.0,2,Other,0
+52,Male,Married,2,Graduate,Business,33.2,Government,39500.0,548,No,0.0,13100.0,157000.0,94000.0,3,Other,1
+45,Male,Married,1,Graduate,Salaried,22.6,Government,39400.0,699,No,0.0,8500.0,315700.0,843000.0,6,Education,1
+56,Other,Single,0,Graduate,Salaried,27.8,Self-Employed/Business,57400.0,595,Yes,9500.0,25800.0,258300.0,78000.0,3,Home Renovation,1
+61,Female,Married,2,Graduate,Salaried,12.5,Government,32400.0,726,Yes,7100.0,8200.0,243600.0,236000.0,2,Personal,0
+58,Male,Married,0,Graduate,Salaried,25.2,Other,38700.0,707,Yes,5700.0,13700.0,39700.0,916000.0,2,Home Renovation,0
+46,Male,Married,0,High School,Self Employed,8.2,MNC,23700.0,690,No,0.0,8000.0,212000.0,312000.0,4,Vehicle,1
+42,Male,Single,2,Graduate,Salaried,8.5,Private Company,57300.0,664,Yes,20000.0,24100.0,86300.0,58000.0,5,Education,1
+43,Female,Divorced,1,Graduate,Self Employed,23.9,Government,21600.0,774,Yes,5800.0,10300.0,167000.0,433000.0,2,Other,0
+34,Female,Single,2,Post Graduate,Salaried,3.3,Government,41500.0,603,No,0.0,18800.0,144200.0,358000.0,2,Home Renovation,1
+63,Female,Single,2,Graduate,Salaried,6.1,Self-Employed/Business,32900.0,660,No,0.0,10900.0,317800.0,713000.0,5,Home Renovation,1
+41,Male,Single,1,High School,Other,18.4,Private Company,28700.0,774,Yes,8900.0,11800.0,21900.0,232000.0,4,Wedding,0
+64,Male,Married,0,Post Graduate,Self Employed,13.3,Private Company,18000.0,616,No,0.0,6100.0,164200.0,105000.0,1,Education,1
+49,Female,Married,0,Post Graduate,Salaried,8.7,Private Company,35500.0,720,Yes,5600.0,15100.0,404100.0,354000.0,6,Other,1
+55,Male,Married,2,Graduate,Salaried,3.5,Private Company,38700.0,589,No,0.0,18800.0,51900.0,592000.0,4,Home Renovation,0
+24,Male,Married,0,High School,Salaried,2.2,Government,44100.0,655,No,0.0,14900.0,516000.0,79000.0,7,Personal,1
+40,Male,Single,0,Post Graduate,Salaried,8.3,Private Company,21800.0,701,Yes,3000.0,8300.0,104500.0,290000.0,4,Business,1
+61,Female,Divorced,1,Graduate,Salaried,31.3,Private Company,59600.0,684,No,0.0,19200.0,566500.0,1251000.0,3,Vehicle,0
+44,Male,Divorced,2,Post Graduate,Salaried,8.4,Private Company,72600.0,679,Yes,6400.0,16000.0,409900.0,323000.0,3,Home Renovation,1
+35,Male,Married,0,Post Graduate,Self Employed,5.0,Private Company,45600.0,710,No,0.0,14300.0,197400.0,980000.0,6,Other,1
+32,Male,Married,2,Graduate,Salaried,10.9,Private Company,66900.0,693,No,0.0,32000.0,305800.0,1220000.0,3,Wedding,0
+34,Male,Divorced,0,High School,Salaried,6.6,Private Company,20400.0,668,Yes,1800.0,5900.0,218200.0,175000.0,5,Wedding,1
+24,Male,Married,1,Graduate,Salaried,5.3,Private Company,36400.0,850,No,0.0,13300.0,219500.0,844000.0,5,Medical,1
+32,Female,Married,1,Post Graduate,Business,12.4,Private Company,24100.0,766,No,0.0,9000.0,16900.0,587000.0,3,Business,0
+59,Male,Married,0,Graduate,Other,13.2,Government,42300.0,769,Yes,8800.0,9900.0,84400.0,743000.0,6,Business,0
+29,Male,Married,0,Post Graduate,Salaried,0.5,Government,18600.0,715,No,0.0,4000.0,93900.0,464000.0,5,Education,0
+62,Female,Single,4,Post Graduate,Business,2.2,Government,50000.0,819,No,0.0,22300.0,240200.0,1065000.0,2,Education,0
+63,Female,Divorced,2,Graduate,Self Employed,13.7,Other,70100.0,601,Yes,4400.0,18300.0,222800.0,745000.0,2,Education,0
+37,Male,Single,1,Post Graduate,Salaried,8.2,Government,26200.0,583,Yes,5800.0,10700.0,216100.0,189000.0,5,Business,1
+60,Female,Single,1,Post Graduate,Salaried,16.0,Private Company,36600.0,670,No,0.0,11900.0,350300.0,156000.0,5,Personal,1
+47,Female,Single,2,Graduate,Salaried,28.3,Self-Employed/Business,23900.0,652,Yes,1400.0,4900.0,120700.0,564000.0,6,Medical,1
+63,Male,Single,2,High School,Business,22.7,Private Company,24200.0,709,No,0.0,10100.0,109100.0,368000.0,3,Personal,0
+37,Female,Married,1,Graduate,Salaried,1.0,Private Company,44400.0,727,Yes,14000.0,12500.0,146700.0,351000.0,4,Business,1
+32,Female,Single,2,Graduate,Self Employed,7.0,MNC,20300.0,798,Yes,6600.0,10000.0,151600.0,260000.0,5,Other,0
+31,Male,Married,4,Post Graduate,Salaried,3.4,Private Company,18000.0,636,Yes,4300.0,7700.0,161300.0,372000.0,1,Education,0
+29,Female,Single,0,Graduate,Business,10.1,Government,88200.0,773,No,0.0,31300.0,962100.0,1586000.0,6,Business,1
+45,Male,Married,0,Post Graduate,Salaried,21.9,Government,37600.0,575,No,0.0,14700.0,203500.0,848000.0,4,Education,0
+25,Male,Married,0,Graduate,Salaried,5.4,Government,37000.0,778,No,0.0,11700.0,294300.0,843000.0,3,Wedding,0
+63,Male,Married,0,Graduate,Salaried,21.3,Private Company,74800.0,691,No,0.0,30300.0,102100.0,856000.0,1,Personal,0
+31,Male,Married,1,Graduate,Business,4.8,Private Company,66500.0,729,No,0.0,29900.0,612200.0,876000.0,4,Home Renovation,1
+37,Male,Married,2,Graduate,Salaried,15.1,MNC,38100.0,725,Yes,3300.0,16500.0,48700.0,867000.0,3,Other,0
+24,Male,Married,0,Graduate,Salaried,4.6,Private Company,46200.0,627,No,0.0,11200.0,493200.0,626000.0,6,Education,1
+44,Female,Married,1,Post Graduate,Salaried,18.6,Private Company,35200.0,617,No,0.0,17400.0,176600.0,783000.0,4,Medical,0
+39,Male,Single,1,Post Graduate,Salaried,19.7,MNC,27500.0,653,No,0.0,13200.0,326100.0,532000.0,4,Education,0
+23,Male,Single,2,Post Graduate,Other,2.0,MNC,48900.0,756,Yes,11500.0,18400.0,365500.0,768000.0,5,Vehicle,0
+38,Other,Single,1,Post Graduate,Salaried,16.5,Government,30700.0,681,Yes,2200.0,14300.0,285700.0,175000.0,4,Home Renovation,1
+62,Female,Married,3,Graduate,Self Employed,34.3,Private Company,30900.0,604,Yes,4200.0,13100.0,185100.0,308000.0,3,Medical,1
+47,Male,Divorced,1,Post Graduate,Salaried,22.4,Government,32800.0,708,No,0.0,12700.0,312400.0,723000.0,5,Wedding,1
+35,Male,Married,1,Graduate,Salaried,8.7,MNC,19300.0,843,Yes,2800.0,7900.0,59400.0,311000.0,4,Home Renovation,0
+52,Male,Married,0,Post Graduate,Salaried,12.1,Private Company,28400.0,656,Yes,3200.0,11000.0,279100.0,255000.0,2,Vehicle,0
+54,Female,Single,3,High School,Salaried,3.5,MNC,49000.0,688,Yes,5600.0,18100.0,327600.0,736000.0,3,Business,0
+61,Male,Married,1,High School,Other,18.2,Government,22400.0,594,No,0.0,10300.0,110900.0,378000.0,5,Other,1
+26,Female,Single,3,Post Graduate,Self Employed,2.9,Government,18000.0,629,No,0.0,6200.0,181400.0,74000.0,2,Home Renovation,1
+25,Male,Single,2,High School,Salaried,4.2,Self-Employed/Business,64300.0,595,No,0.0,14600.0,182800.0,79000.0,4,Medical,1
+53,Male,Divorced,1,High School,Salaried,15.6,Private Company,53000.0,686,Yes,6700.0,10600.0,66900.0,88000.0,5,Home Renovation,1
+25,Female,Married,0,Graduate,Salaried,6.6,Government,50100.0,746,No,0.0,10300.0,327700.0,1035000.0,1,Vehicle,0
+39,Female,Single,3,Post Graduate,Self Employed,5.2,Private Company,49500.0,755,Yes,3600.0,21100.0,438300.0,1132000.0,5,Personal,0
+63,Female,Single,0,Graduate,Salaried,10.0,Private Company,38000.0,584,No,0.0,13100.0,269800.0,166000.0,3,Wedding,1
+40,Female,Married,0,Graduate,Salaried,21.7,Other,106900.0,722,No,0.0,44500.0,913800.0,1918000.0,4,Personal,1
+41,Male,Single,1,Graduate,Other,14.3,MNC,22000.0,753,No,0.0,9000.0,85500.0,315000.0,4,Home Renovation,1
+38,Female,Married,4,Graduate,Other,16.7,Private Company,18000.0,648,Yes,1900.0,3600.0,158000.0,209000.0,3,Medical,1
+46,Female,Single,0,Post Graduate,Salaried,5.9,Private Company,18000.0,656,Yes,1200.0,5200.0,70200.0,79000.0,3,Personal,1
+22,Female,Married,0,Graduate,Salaried,2.7,Other,88600.0,567,No,0.0,29700.0,169000.0,774000.0,2,Business,0
+23,Male,Married,1,Graduate,Salaried,1.6,Private Company,30400.0,656,No,0.0,6800.0,347200.0,470000.0,6,Home Renovation,1
+52,Female,Married,2,High School,Salaried,6.1,Private Company,50800.0,807,No,0.0,14000.0,115700.0,286000.0,3,Home Renovation,1
+54,Male,Married,0,Graduate,Salaried,25.8,Private Company,53700.0,723,Yes,10500.0,24200.0,335100.0,886000.0,4,Vehicle,0
+23,Male,Married,0,Graduate,Salaried,4.4,Government,19600.0,626,Yes,4000.0,8300.0,37100.0,132000.0,3,Other,1
+40,Male,Married,1,Graduate,Self Employed,12.3,Private Company,30000.0,635,No,0.0,11000.0,225200.0,660000.0,5,Education,1
+33,Male,Married,1,Post Graduate,Salaried,4.8,Private Company,27700.0,772,No,0.0,8800.0,242500.0,652000.0,4,Medical,0
+45,Female,Single,2,High School,Salaried,17.1,Private Company,41800.0,717,No,0.0,16700.0,252600.0,388000.0,3,Wedding,1
+43,Male,Married,0,Doctorate,Salaried,7.0,Private Company,69300.0,729,Yes,12700.0,27600.0,385100.0,1217000.0,4,Business,0
+57,Male,Married,1,Post Graduate,Business,22.2,MNC,52500.0,529,Yes,3800.0,11200.0,123900.0,69000.0,5,Education,1
+46,Male,Single,2,Graduate,Business,10.4,Government,67500.0,741,Yes,13500.0,20600.0,632900.0,1062000.0,3,Other,0
+47,Female,Married,2,Graduate,Other,11.3,Government,78800.0,756,Yes,22000.0,34100.0,648200.0,596000.0,3,Wedding,1
+32,Male,Single,0,Graduate,Salaried,1.5,Self-Employed/Business,18000.0,732,No,0.0,7000.0,199800.0,105000.0,3,Home Renovation,1
+58,Male,Single,4,Graduate,Business,34.9,Government,75200.0,490,No,0.0,24900.0,845400.0,1019000.0,4,Medical,1
+32,Male,Single,0,High School,Salaried,4.8,Private Company,24200.0,687,Yes,5000.0,11700.0,121000.0,67000.0,3,Wedding,1
+29,Male,Married,1,Graduate,Salaried,10.8,Private Company,40800.0,628,No,0.0,12900.0,181100.0,52000.0,3,Vehicle,1
+34,Female,Single,1,Post Graduate,Self Employed,2.8,Self-Employed/Business,31700.0,541,No,0.0,14400.0,355500.0,739000.0,1,Business,0
+53,Female,Married,3,Graduate,Salaried,32.3,Private Company,31100.0,798,No,0.0,12700.0,77300.0,667000.0,2,Other,0
+49,Male,Married,2,Post Graduate,Self Employed,17.0,Self-Employed/Business,176800.0,608,No,0.0,57100.0,1793200.0,395000.0,4,Education,1
+61,Male,Married,3,Post Graduate,Business,5.3,Self-Employed/Business,41600.0,668,No,0.0,18000.0,289700.0,1033000.0,3,Medical,0
+37,Male,Single,0,Graduate,Self Employed,10.3,Private Company,34200.0,677,No,0.0,7300.0,343300.0,476000.0,4,Other,1
+44,Male,Single,3,High School,Business,17.9,Self-Employed/Business,128700.0,608,Yes,23700.0,29500.0,1141700.0,1939000.0,4,Medical,0
+55,Female,Married,2,Graduate,Business,6.1,Self-Employed/Business,56000.0,648,No,0.0,21200.0,569300.0,71000.0,3,Vehicle,1
+55,Female,Single,1,High School,Salaried,3.1,Government,54900.0,568,Yes,8700.0,23400.0,260400.0,990000.0,3,Personal,0
+58,Female,Divorced,0,High School,Self Employed,33.2,Other,18000.0,571,No,0.0,6600.0,140300.0,397000.0,5,Personal,0
+43,Male,Married,0,High School,Business,5.5,Government,70400.0,645,Yes,6600.0,15100.0,745300.0,50000.0,1,Home Renovation,1
+41,Male,Married,0,Graduate,Salaried,22.7,Private Company,30400.0,671,Yes,9800.0,7000.0,314800.0,160000.0,6,Vehicle,1
+33,Female,Married,1,Post Graduate,Self Employed,13.2,Private Company,58800.0,755,Yes,11500.0,28700.0,349600.0,394000.0,3,Business,1
+38,Female,Divorced,2,Graduate,Salaried,2.9,Private Company,47100.0,779,No,0.0,22900.0,378400.0,563000.0,2,Medical,0
+27,Female,Single,0,Graduate,Self Employed,2.1,Private Company,24800.0,671,Yes,3400.0,10700.0,263600.0,184000.0,1,Other,0
+30,Male,Single,0,Graduate,Business,7.9,Private Company,34100.0,594,Yes,9400.0,10900.0,151600.0,449000.0,5,Personal,0
+26,Female,Married,0,High School,Business,7.6,MNC,22500.0,608,No,0.0,11200.0,232800.0,192000.0,3,Vehicle,1
+37,Male,Single,1,High School,Self Employed,14.2,MNC,45500.0,768,No,0.0,15800.0,520600.0,241000.0,6,Vehicle,1
+55,Female,Single,1,Post Graduate,Salaried,20.5,Private Company,53900.0,833,Yes,18800.0,19900.0,538000.0,985000.0,6,Home Renovation,0
+40,Male,Married,3,Graduate,Other,3.2,Private Company,47500.0,591,No,0.0,13100.0,325800.0,233000.0,4,Business,0
+30,Male,Married,2,Post Graduate,Business,11.7,Private Company,35900.0,832,No,0.0,10100.0,230000.0,604000.0,4,Business,1
+55,Female,Single,3,Doctorate,Salaried,13.5,MNC,31100.0,676,No,0.0,10200.0,88300.0,445000.0,2,Other,0
+38,Female,Divorced,3,High School,Salaried,12.4,Government,50800.0,702,Yes,9700.0,22500.0,564500.0,324000.0,4,Personal,1
+34,Male,Single,3,Graduate,Business,16.0,Private Company,58300.0,705,No,0.0,22800.0,302500.0,993000.0,3,Medical,0
+30,Male,Single,0,Post Graduate,Self Employed,9.6,Self-Employed/Business,96900.0,726,No,0.0,28800.0,146100.0,1244000.0,3,Business,1
+59,Female,Married,3,Graduate,Self Employed,31.3,Government,91200.0,739,No,0.0,20700.0,398900.0,813000.0,6,Medical,1
+42,Male,Married,3,High School,Salaried,9.2,MNC,149700.0,723,Yes,49700.0,55100.0,1209000.0,754000.0,5,Business,1
+43,Male,Married,0,Post Graduate,Salaried,13.4,Private Company,44000.0,648,No,0.0,18200.0,394900.0,142000.0,4,Medical,1
+59,Female,Married,2,Doctorate,Salaried,33.8,Government,114200.0,719,No,0.0,46900.0,477700.0,1851000.0,2,Home Renovation,0
+43,Male,Single,0,High School,Salaried,12.0,Private Company,33400.0,630,Yes,3200.0,13700.0,157600.0,394000.0,2,Education,0
+44,Male,Single,2,Graduate,Self Employed,12.7,Government,19600.0,714,Yes,2700.0,9000.0,13900.0,281000.0,5,Business,0
+45,Male,Single,1,Graduate,Salaried,0.6,Government,36000.0,718,No,0.0,11100.0,75900.0,377000.0,3,Home Renovation,1
+57,Male,Married,0,High School,Salaried,9.8,MNC,58000.0,685,No,0.0,19500.0,543700.0,1227000.0,5,Wedding,1
+56,Female,Married,0,Post Graduate,Other,16.6,MNC,63700.0,772,No,0.0,29600.0,360700.0,125000.0,5,Other,1
+40,Male,Divorced,0,Post Graduate,Business,15.7,Private Company,28600.0,736,Yes,5000.0,9500.0,41400.0,641000.0,6,Other,0
+32,Female,Single,2,Graduate,Business,11.7,Self-Employed/Business,18000.0,786,Yes,4600.0,5400.0,105800.0,316000.0,6,Wedding,1
+53,Male,Single,0,Doctorate,Salaried,4.9,Private Company,36700.0,806,Yes,12300.0,10400.0,25200.0,98000.0,4,Business,1
+56,Male,Single,1,High School,Salaried,14.9,Private Company,25000.0,680,Yes,5100.0,6900.0,39900.0,282000.0,6,Personal,1
+64,Female,Single,0,Graduate,Other,16.6,MNC,72600.0,468,Yes,14600.0,22500.0,661500.0,1591000.0,6,Other,0
+50,Female,Single,0,Post Graduate,Salaried,2.2,Private Company,24000.0,769,No,0.0,9600.0,214500.0,541000.0,3,Other,0
+58,Female,Married,2,Post Graduate,Self Employed,15.7,Other,58700.0,577,Yes,15100.0,28000.0,150000.0,148000.0,6,Personal,0
+62,Male,Single,2,Graduate,Business,4.2,Private Company,27700.0,611,Yes,1900.0,11800.0,66200.0,635000.0,3,Business,0
+60,Male,Married,1,High School,Other,5.0,Private Company,26600.0,833,Yes,2900.0,11900.0,124400.0,153000.0,3,Wedding,1
+56,Male,Married,2,Graduate,Self Employed,2.3,Private Company,24000.0,787,No,0.0,10800.0,247300.0,128000.0,3,Medical,1
+48,Male,Single,1,Post Graduate,Salaried,3.6,MNC,32600.0,615,Yes,4700.0,12300.0,150700.0,46000.0,1,Education,1
+27,Female,Single,0,Graduate,Salaried,8.6,MNC,29800.0,739,No,0.0,13700.0,179200.0,337000.0,5,Medical,1
+45,Male,Married,0,Graduate,Salaried,25.7,Self-Employed/Business,26400.0,656,No,0.0,11400.0,79700.0,68000.0,4,Home Renovation,1
+39,Male,Married,4,High School,Salaried,1.7,Private Company,36200.0,619,No,0.0,13500.0,110800.0,65000.0,4,Education,1
+50,Male,Married,0,Graduate,Salaried,26.1,Government,18000.0,585,Yes,3800.0,8400.0,115600.0,340000.0,3,Medical,0
+37,Male,Single,1,Post Graduate,Salaried,12.5,MNC,71200.0,633,Yes,9000.0,19000.0,199300.0,1320000.0,6,Other,1
+32,Male,Married,1,Doctorate,Salaried,13.7,Private Company,58700.0,702,No,0.0,26000.0,261300.0,1368000.0,2,Vehicle,0
+34,Male,Married,2,Graduate,Salaried,1.4,Private Company,115200.0,649,No,0.0,55800.0,190600.0,693000.0,3,Other,1
+29,Female,Single,0,Post Graduate,Self Employed,2.1,Private Company,83300.0,819,Yes,16000.0,24300.0,933800.0,462000.0,5,Home Renovation,1
+57,Male,Married,0,Graduate,Salaried,0.9,Private Company,26800.0,747,No,0.0,7900.0,297400.0,373000.0,4,Other,1
+21,Male,Married,1,Graduate,Self Employed,0.9,Private Company,24200.0,695,No,0.0,7100.0,115600.0,77000.0,6,Medical,1
+24,Male,Married,1,Post Graduate,Salaried,0.7,Private Company,57900.0,625,No,0.0,22300.0,618100.0,380000.0,6,Home Renovation,1
+48,Female,Single,2,Graduate,Salaried,15.5,Private Company,82800.0,627,No,0.0,37500.0,298700.0,1537000.0,2,Medical,0
+64,Female,Single,3,Graduate,Salaried,31.4,Private Company,41900.0,652,No,0.0,17800.0,59200.0,997000.0,5,Vehicle,0
+48,Female,Single,4,Graduate,Salaried,27.6,Other,18000.0,626,No,0.0,8600.0,133300.0,296000.0,5,Business,1
+35,Other,Single,1,Graduate,Salaried,12.1,Other,74100.0,725,Yes,21700.0,21500.0,145000.0,237000.0,4,Vehicle,1
+43,Male,Married,0,Graduate,Self Employed,24.2,Private Company,20900.0,720,No,0.0,9600.0,62100.0,229000.0,7,Personal,1
+49,Female,Single,1,Post Graduate,Salaried,25.1,Private Company,34000.0,598,No,0.0,15400.0,196900.0,517000.0,5,Wedding,0
+62,Female,Single,0,Doctorate,Salaried,14.5,Self-Employed/Business,47000.0,712,No,0.0,23300.0,175700.0,391000.0,6,Education,1
+54,Male,Married,0,Post Graduate,Self Employed,2.1,Private Company,28900.0,625,No,0.0,6600.0,131000.0,661000.0,4,Personal,0
+44,Female,Married,2,Post Graduate,Salaried,21.3,MNC,63900.0,589,No,0.0,22800.0,669000.0,1012000.0,4,Business,0
+42,Male,Married,1,Graduate,Self Employed,15.9,MNC,67700.0,576,Yes,13100.0,19000.0,330400.0,620000.0,1,Vehicle,0
+36,Female,Married,0,High School,Salaried,14.2,Private Company,28800.0,648,No,0.0,11800.0,142700.0,374000.0,3,Business,1
+27,Male,Married,1,Post Graduate,Self Employed,2.9,Private Company,103000.0,660,Yes,34500.0,37400.0,414400.0,1396000.0,1,Home Renovation,0
+23,Female,Married,0,Graduate,Salaried,4.3,Private Company,39800.0,539,Yes,10900.0,16900.0,256900.0,665000.0,4,Medical,0
+29,Male,Single,2,Post Graduate,Salaried,4.4,Private Company,49500.0,705,Yes,13000.0,20800.0,125500.0,554000.0,4,Wedding,0
+59,Male,Divorced,1,Graduate,Salaried,19.1,Government,88400.0,673,No,0.0,29800.0,910200.0,456000.0,4,Vehicle,1
+59,Female,Married,2,Graduate,Self Employed,21.8,Private Company,27400.0,712,No,0.0,8400.0,187200.0,493000.0,4,Vehicle,1
+56,Male,Single,2,Graduate,Business,11.8,MNC,54500.0,670,Yes,16100.0,26700.0,316100.0,1129000.0,4,Home Renovation,0
+41,Female,Single,2,Graduate,Salaried,6.2,Self-Employed/Business,40600.0,566,No,0.0,18600.0,308000.0,944000.0,4,Wedding,0
+54,Male,Single,2,Doctorate,Salaried,31.5,Private Company,56600.0,599,No,0.0,12200.0,388600.0,438000.0,2,Business,1
+61,Male,Single,0,Graduate,Self Employed,1.1,Private Company,18000.0,622,No,0.0,7900.0,138600.0,172000.0,5,Home Renovation,1
+57,Female,Married,0,Post Graduate,Salaried,30.4,Private Company,28800.0,652,Yes,1700.0,6800.0,162000.0,595000.0,5,Wedding,1
+55,Male,Single,3,High School,Salaried,3.6,Government,28800.0,622,Yes,7000.0,6200.0,41200.0,160000.0,6,Wedding,1
+27,Female,Married,1,Graduate,Salaried,2.7,Self-Employed/Business,42700.0,447,Yes,10600.0,14400.0,203400.0,304000.0,1,Education,0
+24,Male,Married,2,Graduate,Self Employed,1.9,MNC,61900.0,624,Yes,6600.0,19000.0,37500.0,1187000.0,4,Vehicle,0
+21,Female,Single,2,Graduate,Business,1.8,Private Company,21700.0,712,No,0.0,6300.0,154400.0,337000.0,1,Other,0
+39,Female,Married,0,Post Graduate,Salaried,6.9,Private Company,96300.0,759,No,0.0,25600.0,707500.0,1814000.0,3,Business,0
+25,Female,Divorced,0,Graduate,Salaried,3.7,Government,62100.0,757,No,0.0,23200.0,112300.0,756000.0,3,Vehicle,1
+38,Female,Married,0,Graduate,Business,15.7,Government,35400.0,557,No,0.0,17700.0,279900.0,624000.0,3,Home Renovation,0
+43,Female,Married,2,Graduate,Salaried,15.1,MNC,24000.0,699,No,0.0,4800.0,155500.0,256000.0,3,Education,1
+27,Female,Married,2,Post Graduate,Business,1.5,Government,40100.0,676,No,0.0,10400.0,315100.0,657000.0,2,Medical,0
+42,Male,Single,1,High School,Business,8.6,Self-Employed/Business,57200.0,755,Yes,6800.0,18400.0,44500.0,1316000.0,3,Education,0
+23,Female,Single,2,Graduate,Salaried,1.7,Self-Employed/Business,126000.0,679,Yes,26100.0,38400.0,528300.0,517000.0,3,Vehicle,1
+28,Male,Married,1,Post Graduate,Salaried,2.7,Private Company,36900.0,772,Yes,4100.0,8100.0,52200.0,708000.0,3,Other,0
+24,Female,Single,0,Post Graduate,Self Employed,2.6,Private Company,23300.0,664,Yes,7400.0,8800.0,262000.0,221000.0,4,Vehicle,0
+45,Male,Divorced,1,Post Graduate,Salaried,9.2,Private Company,100000.0,721,No,0.0,20800.0,864400.0,681000.0,2,Other,1
+64,Male,Single,0,Graduate,Salaried,11.5,Private Company,39600.0,731,No,0.0,15900.0,51200.0,143000.0,6,Wedding,1
+28,Male,Single,0,Graduate,Salaried,1.6,Private Company,27400.0,531,No,0.0,9000.0,216800.0,644000.0,2,Vehicle,0
+32,Female,Married,2,Graduate,Business,13.0,Government,57800.0,738,Yes,16700.0,14000.0,176700.0,847000.0,3,Wedding,0
+36,Male,Married,1,Post Graduate,Salaried,6.6,Other,43000.0,569,Yes,15000.0,18300.0,223600.0,894000.0,4,Vehicle,0
+38,Female,Married,1,High School,Salaried,15.9,MNC,66300.0,716,No,0.0,31100.0,147800.0,661000.0,3,Home Renovation,1
+49,Male,Divorced,1,Graduate,Self Employed,8.7,Private Company,19800.0,730,No,0.0,5900.0,12300.0,486000.0,3,Business,0
+35,Male,Married,2,Graduate,Self Employed,9.2,MNC,32400.0,711,No,0.0,7000.0,54200.0,556000.0,1,Home Renovation,0
+59,Male,Single,2,Graduate,Business,2.2,MNC,43500.0,600,No,0.0,18100.0,251500.0,758000.0,3,Personal,0
+28,Male,Married,1,Graduate,Self Employed,7.7,MNC,82100.0,479,No,0.0,34400.0,826000.0,1303000.0,4,Medical,0
+50,Male,Married,2,High School,Business,25.6,MNC,23400.0,681,Yes,5000.0,9700.0,44500.0,416000.0,3,Medical,0
+47,Male,Single,0,Post Graduate,Salaried,12.1,Private Company,69600.0,650,No,0.0,18500.0,365400.0,366000.0,7,Wedding,1
+22,Female,Single,4,Post Graduate,Salaried,3.4,MNC,84100.0,632,No,0.0,17500.0,862400.0,1904000.0,4,Business,0
+32,Female,Single,1,Post Graduate,Salaried,2.4,MNC,67900.0,667,Yes,4300.0,26800.0,568200.0,953000.0,4,Other,1
+23,Male,Divorced,0,Graduate,Salaried,2.5,Self-Employed/Business,79100.0,636,Yes,13800.0,38700.0,584600.0,1268000.0,5,Education,0
+64,Male,Married,2,Post Graduate,Other,28.2,MNC,177300.0,674,Yes,53500.0,76000.0,1558500.0,1994000.0,3,Education,0
+40,Male,Married,1,Post Graduate,Salaried,5.2,Private Company,31400.0,703,Yes,10900.0,15500.0,375400.0,390000.0,7,Wedding,0
+23,Male,Single,3,High School,Salaried,0.8,Private Company,64300.0,694,No,0.0,31600.0,409200.0,1038000.0,4,Education,0
+59,Male,Single,1,Graduate,Salaried,20.9,Self-Employed/Business,18000.0,650,No,0.0,4800.0,69200.0,416000.0,6,Vehicle,1
+43,Male,Single,1,Post Graduate,Salaried,10.7,Private Company,29500.0,726,Yes,2800.0,10000.0,98400.0,392000.0,3,Education,1
+58,Female,Single,3,Graduate,Business,31.0,Private Company,56700.0,480,Yes,18100.0,24700.0,110900.0,877000.0,7,Wedding,0
+51,Male,Married,1,Graduate,Salaried,21.6,Private Company,18000.0,475,Yes,5600.0,6400.0,188400.0,140000.0,2,Personal,0
+24,Male,Single,3,Graduate,Self Employed,5.6,Government,44100.0,447,Yes,8100.0,13700.0,361700.0,1036000.0,1,Business,0
+35,Male,Single,1,Post Graduate,Salaried,4.1,Private Company,40300.0,739,No,0.0,12700.0,107500.0,248000.0,5,Home Renovation,1
+29,Female,Married,0,Graduate,Self Employed,6.5,Other,25700.0,612,No,0.0,9900.0,161500.0,552000.0,5,Vehicle,1
+33,Male,Single,1,Doctorate,Salaried,1.0,Private Company,86500.0,695,No,0.0,42300.0,821800.0,618000.0,4,Vehicle,1
+25,Male,Married,0,Post Graduate,Other,5.8,Private Company,24000.0,571,No,0.0,11400.0,127600.0,404000.0,2,Other,0
+32,Male,Single,0,Post Graduate,Business,13.6,MNC,18000.0,706,No,0.0,6800.0,150000.0,317000.0,5,Home Renovation,1
+55,Male,Married,2,Graduate,Salaried,32.4,Government,38600.0,632,Yes,12100.0,8300.0,246700.0,480000.0,5,Home Renovation,0
+57,Male,Divorced,1,High School,Salaried,35.0,Private Company,19300.0,818,No,0.0,8200.0,142100.0,35000.0,6,Vehicle,1
+32,Female,Single,2,Graduate,Salaried,2.1,Private Company,43000.0,638,No,0.0,13400.0,379700.0,116000.0,4,Vehicle,1
+38,Other,Married,1,Post Graduate,Salaried,11.5,Private Company,20800.0,630,No,0.0,7200.0,190100.0,282000.0,1,Home Renovation,0
+58,Female,Married,2,Graduate,Salaried,2.9,Private Company,24800.0,687,Yes,6600.0,10100.0,70700.0,65000.0,4,Other,1
+52,Other,Single,3,Graduate,Self Employed,20.5,Private Company,84700.0,626,Yes,19600.0,24300.0,818700.0,1603000.0,5,Other,0
+23,Male,Single,0,Graduate,Self Employed,3.4,Private Company,66500.0,486,No,0.0,17100.0,134600.0,692000.0,2,Medical,0
+34,Female,Married,1,Graduate,Other,2.2,MNC,21900.0,699,Yes,4300.0,8900.0,72100.0,307000.0,4,Other,0
+49,Male,Single,1,Graduate,Self Employed,15.0,Private Company,31400.0,700,No,0.0,12600.0,255500.0,481000.0,2,Education,0
+26,Male,Single,4,Post Graduate,Salaried,5.1,Self-Employed/Business,40300.0,610,No,0.0,13000.0,407400.0,402000.0,1,Wedding,0
+32,Male,Married,0,High School,Salaried,4.6,MNC,53800.0,509,Yes,12400.0,24100.0,398100.0,833000.0,4,Wedding,0
+38,Male,Divorced,2,Graduate,Salaried,10.2,MNC,116600.0,653,Yes,20200.0,53500.0,499300.0,1930000.0,2,Other,0
+63,Female,Single,0,Graduate,Salaried,15.1,Government,75800.0,568,Yes,12900.0,17000.0,497100.0,1596000.0,2,Medical,0
+43,Male,Married,0,Doctorate,Salaried,8.6,Private Company,101400.0,806,No,0.0,29700.0,480500.0,661000.0,3,Medical,1
+51,Male,Single,2,Graduate,Business,30.6,Private Company,20700.0,499,No,0.0,6200.0,158600.0,75000.0,4,Business,1
+34,Female,Single,1,Graduate,Business,7.5,MNC,34000.0,658,No,0.0,12900.0,264200.0,641000.0,3,Home Renovation,0
+36,Male,Married,1,Graduate,Salaried,6.7,MNC,65500.0,643,No,0.0,14600.0,557000.0,733000.0,2,Other,1
+39,Male,Married,0,Graduate,Self Employed,0.5,Government,47700.0,731,Yes,11800.0,22900.0,126900.0,648000.0,2,Home Renovation,0
+31,Male,Single,1,Graduate,Salaried,11.6,Other,18000.0,789,No,0.0,7400.0,18100.0,96000.0,1,Home Renovation,1
+49,Male,Single,0,High School,Salaried,8.8,MNC,45200.0,688,Yes,15700.0,19500.0,400300.0,427000.0,4,Wedding,0
+59,Male,Single,1,Graduate,Salaried,5.3,Private Company,76600.0,624,No,0.0,32900.0,682100.0,356000.0,4,Business,1
+50,Other,Married,1,Post Graduate,Salaried,1.0,MNC,24900.0,749,No,0.0,11800.0,103100.0,159000.0,2,Medical,1
+44,Male,Single,2,Post Graduate,Self Employed,14.0,Private Company,56700.0,611,Yes,17200.0,17100.0,170700.0,1239000.0,6,Wedding,0
+21,Male,Single,3,Graduate,Salaried,2.7,Private Company,33000.0,634,No,0.0,15500.0,276100.0,113000.0,4,Other,1
+55,Female,Married,1,Graduate,Salaried,17.1,Government,25200.0,726,No,0.0,9600.0,49700.0,628000.0,5,Other,0
+31,Male,Married,0,Graduate,Business,2.5,Private Company,24600.0,750,No,0.0,10100.0,103400.0,507000.0,4,Business,1
+56,Male,Single,0,Graduate,Business,16.6,MNC,20700.0,591,No,0.0,6800.0,198400.0,145000.0,6,Education,0
+33,Female,Single,1,Post Graduate,Business,1.2,Private Company,20100.0,663,No,0.0,5100.0,90200.0,343000.0,3,Home Renovation,0
+36,Female,Single,2,Graduate,Salaried,4.0,MNC,80000.0,656,Yes,4600.0,38700.0,669100.0,1915000.0,6,Business,0
+39,Male,Married,0,High School,Salaried,14.1,Government,55300.0,546,Yes,15300.0,22900.0,165300.0,850000.0,4,Wedding,0
+22,Male,Married,2,Graduate,Salaried,3.6,Private Company,26400.0,775,No,0.0,13200.0,257000.0,444000.0,6,Home Renovation,1
+29,Other,Married,0,Post Graduate,Salaried,3.8,Private Company,37100.0,709,No,0.0,13800.0,64400.0,534000.0,4,Personal,1
+25,Female,Single,0,Graduate,Self Employed,2.4,Government,33900.0,654,Yes,1900.0,9700.0,161000.0,491000.0,6,Medical,1
+24,Male,Married,0,Graduate,Salaried,5.7,Self-Employed/Business,38500.0,850,No,0.0,15500.0,410800.0,746000.0,4,Personal,1
+57,Male,Married,4,High School,Salaried,2.6,MNC,38600.0,679,Yes,12400.0,9300.0,415100.0,397000.0,4,Business,0
+47,Female,Divorced,4,Post Graduate,Salaried,10.0,Government,41200.0,748,No,0.0,20400.0,304200.0,907000.0,7,Education,1
+34,Female,Divorced,0,Graduate,Business,1.7,Private Company,38500.0,728,Yes,4100.0,13000.0,290900.0,262000.0,3,Other,1
+58,Female,Married,2,Graduate,Salaried,16.2,MNC,77100.0,668,No,0.0,17100.0,78800.0,314000.0,3,Business,1
+28,Male,Single,3,Graduate,Business,9.7,Government,42100.0,628,Yes,11100.0,8900.0,45900.0,652000.0,4,Personal,0
+25,Male,Married,1,High School,Self Employed,6.7,Private Company,34400.0,496,Yes,10700.0,9800.0,327000.0,587000.0,4,Business,0
+54,Male,Single,2,Graduate,Self Employed,15.7,MNC,44800.0,704,No,0.0,17700.0,240800.0,279000.0,1,Home Renovation,0
+29,Other,Married,0,Post Graduate,Self Employed,3.5,Private Company,30400.0,742,Yes,8800.0,14600.0,287600.0,472000.0,2,Other,0
+41,Male,Married,1,Post Graduate,Salaried,10.4,Government,42000.0,701,No,0.0,19300.0,273300.0,976000.0,1,Medical,0
+49,Male,Married,0,Graduate,Self Employed,20.7,Private Company,21800.0,665,No,0.0,5100.0,174900.0,343000.0,3,Vehicle,1
+21,Male,Married,3,Graduate,Salaried,2.6,MNC,60400.0,685,No,0.0,18000.0,139000.0,1079000.0,4,Wedding,1
+51,Male,Married,4,Post Graduate,Business,20.7,Government,39600.0,697,No,0.0,17000.0,170500.0,513000.0,3,Home Renovation,1
+51,Male,Married,1,Graduate,Self Employed,15.7,Private Company,69400.0,514,Yes,10300.0,23000.0,742300.0,1282000.0,4,Other,0
+63,Male,Single,2,Graduate,Salaried,7.6,Self-Employed/Business,33000.0,694,No,0.0,8400.0,71800.0,33000.0,6,Other,1
+28,Male,Married,0,Graduate,Salaried,2.3,Government,25200.0,670,Yes,2200.0,7600.0,207700.0,193000.0,1,Medical,0
+38,Male,Married,2,High School,Salaried,5.7,Self-Employed/Business,26300.0,659,Yes,3400.0,6700.0,209700.0,561000.0,3,Home Renovation,0
+34,Female,Married,0,Graduate,Self Employed,8.0,MNC,31800.0,632,No,0.0,7400.0,148100.0,535000.0,3,Education,0
+48,Male,Married,1,Post Graduate,Salaried,11.2,Government,18000.0,537,Yes,6200.0,4600.0,168100.0,262000.0,3,Education,0
+58,Male,Married,1,Graduate,Salaried,21.8,Government,18000.0,601,No,0.0,7900.0,53300.0,140000.0,2,Wedding,1
+31,Female,Single,2,High School,Salaried,12.0,Self-Employed/Business,35500.0,791,Yes,11200.0,14100.0,138400.0,427000.0,6,Vehicle,0
+57,Male,Single,0,Graduate,Salaried,15.6,MNC,34000.0,812,Yes,5200.0,15400.0,51400.0,734000.0,3,Wedding,0
+48,Male,Married,2,Graduate,Other,3.0,Private Company,94900.0,730,No,0.0,30500.0,75100.0,1218000.0,3,Medical,1
+43,Male,Single,0,Graduate,Self Employed,24.9,MNC,27000.0,570,Yes,8700.0,13200.0,167700.0,217000.0,5,Business,0
+45,Female,Married,0,Doctorate,Other,25.3,Government,52500.0,566,Yes,5900.0,17200.0,427100.0,121000.0,3,Medical,1
+39,Female,Single,1,Post Graduate,Self Employed,1.2,Self-Employed/Business,48200.0,688,No,0.0,10300.0,335600.0,511000.0,5,Home Renovation,1
+32,Female,Single,0,High School,Salaried,7.8,MNC,81600.0,822,No,0.0,24600.0,380500.0,649000.0,5,Education,1
+49,Female,Married,2,Graduate,Salaried,22.4,MNC,147000.0,628,Yes,27300.0,68400.0,657100.0,768000.0,6,Vehicle,1
+29,Male,Married,1,Graduate,Salaried,2.4,Private Company,53800.0,679,No,0.0,24500.0,222200.0,1298000.0,4,Home Renovation,0
+58,Female,Single,1,Post Graduate,Self Employed,14.2,Private Company,32700.0,593,No,0.0,15200.0,243500.0,576000.0,3,Vehicle,0
+37,Female,Divorced,3,Post Graduate,Business,13.2,MNC,23000.0,700,Yes,7900.0,7000.0,241000.0,81000.0,3,Business,1
+51,Male,Single,0,Graduate,Self Employed,21.5,Private Company,31100.0,730,No,0.0,7500.0,189700.0,216000.0,2,Education,1
+61,Male,Single,0,Doctorate,Business,30.9,Government,18100.0,789,Yes,3100.0,6800.0,68800.0,388000.0,2,Medical,0
+25,Male,Single,1,Graduate,Salaried,2.3,Government,18000.0,530,No,0.0,6500.0,77800.0,428000.0,5,Wedding,0
+63,Female,Single,1,Post Graduate,Salaried,5.8,Private Company,22900.0,701,Yes,7800.0,5900.0,20400.0,262000.0,4,Vehicle,0
+49,Male,Single,1,Graduate,Salaried,19.3,Other,18000.0,747,Yes,4200.0,6000.0,118800.0,258000.0,2,Business,0
+33,Female,Single,3,High School,Self Employed,6.0,Government,23100.0,591,Yes,6200.0,9500.0,185400.0,511000.0,6,Education,0
+30,Female,Married,0,Graduate,Business,2.6,Private Company,29300.0,592,Yes,3900.0,8500.0,306400.0,277000.0,3,Business,0
+23,Male,Divorced,2,Graduate,Salaried,3.4,Private Company,37600.0,637,No,0.0,9600.0,247000.0,38000.0,2,Wedding,1
+63,Female,Single,3,High School,Self Employed,21.7,Private Company,72900.0,748,No,0.0,22600.0,611600.0,1110000.0,4,Other,1
+26,Male,Single,1,Graduate,Business,5.4,Government,35800.0,779,No,0.0,7200.0,168500.0,150000.0,4,Medical,1
+55,Male,Divorced,0,Post Graduate,Salaried,21.9,Private Company,33200.0,687,No,0.0,13600.0,96300.0,354000.0,3,Vehicle,1
+41,Female,Married,0,Post Graduate,Salaried,22.9,Other,44200.0,567,Yes,5700.0,16900.0,42900.0,1072000.0,6,Business,0
+60,Female,Married,0,Graduate,Salaried,33.6,Private Company,37700.0,839,No,0.0,8300.0,277200.0,42000.0,3,Medical,1
+24,Male,Divorced,0,Graduate,Self Employed,4.7,Government,35200.0,749,No,0.0,14100.0,88800.0,810000.0,2,Personal,0
+46,Male,Married,2,High School,Salaried,20.1,Self-Employed/Business,35900.0,617,Yes,9400.0,17900.0,322100.0,44000.0,3,Other,1
+52,Female,Married,1,Graduate,Business,23.8,Private Company,54200.0,662,No,0.0,17400.0,51000.0,94000.0,3,Vehicle,1
+55,Female,Single,0,Graduate,Salaried,3.1,Government,56800.0,723,No,0.0,22700.0,508700.0,408000.0,7,Personal,1
+25,Male,Married,2,High School,Salaried,4.8,Private Company,24200.0,710,Yes,2000.0,6900.0,36700.0,588000.0,3,Education,0
+62,Male,Married,0,High School,Business,1.6,Other,54700.0,617,Yes,14600.0,20200.0,474700.0,589000.0,1,Business,0
+48,Male,Single,0,Graduate,Self Employed,18.9,Private Company,100000.0,766,No,0.0,35600.0,475200.0,273000.0,3,Wedding,1
+24,Male,Married,2,Graduate,Business,0.9,Self-Employed/Business,18000.0,644,No,0.0,8500.0,61900.0,351000.0,5,Other,0
+37,Male,Married,0,Post Graduate,Business,13.8,Other,34200.0,620,No,0.0,8200.0,122300.0,592000.0,7,Business,1
+25,Other,Married,1,Post Graduate,Salaried,6.8,Private Company,18700.0,611,No,0.0,8600.0,13600.0,54000.0,6,Personal,1
+59,Male,Married,1,Doctorate,Salaried,29.7,Private Company,20600.0,489,Yes,3400.0,7800.0,147700.0,339000.0,3,Other,0
+46,Male,Single,0,Graduate,Salaried,7.2,MNC,88700.0,672,No,0.0,38800.0,355900.0,1852000.0,3,Home Renovation,0
+49,Other,Married,1,Graduate,Self Employed,6.4,Private Company,64900.0,675,Yes,18500.0,14100.0,389400.0,1046000.0,4,Business,0
+39,Male,Single,2,Graduate,Salaried,11.5,Self-Employed/Business,67300.0,661,No,0.0,19100.0,517900.0,709000.0,2,Business,1
+27,Male,Married,0,Graduate,Salaried,2.0,Private Company,20200.0,590,No,0.0,9200.0,103500.0,413000.0,2,Medical,0
+54,Male,Married,2,High School,Salaried,12.0,Government,22000.0,777,No,0.0,4500.0,56200.0,148000.0,3,Wedding,1
+35,Female,Single,1,Graduate,Salaried,4.1,Self-Employed/Business,56400.0,688,No,0.0,13400.0,139000.0,1395000.0,5,Wedding,0
+24,Male,Single,2,High School,Salaried,2.2,Private Company,73900.0,656,Yes,24400.0,21700.0,343300.0,890000.0,4,Wedding,0
+23,Male,Married,2,Post Graduate,Salaried,0.6,Government,45900.0,759,Yes,3500.0,18800.0,403900.0,223000.0,1,Business,0
+49,Female,Married,0,Graduate,Other,28.1,Self-Employed/Business,44300.0,758,No,0.0,17900.0,149800.0,1058000.0,3,Personal,0
+34,Male,Married,1,High School,Self Employed,12.9,MNC,56900.0,605,Yes,8100.0,18200.0,575000.0,574000.0,1,Business,0
+48,Male,Married,0,Graduate,Salaried,15.7,Private Company,27400.0,738,Yes,9000.0,9500.0,211900.0,451000.0,4,Home Renovation,0
+32,Female,Married,0,Post Graduate,Self Employed,7.9,Private Company,31300.0,668,No,0.0,14800.0,16500.0,231000.0,5,Home Renovation,1
+49,Female,Married,2,Graduate,Business,0.9,Private Company,93900.0,606,Yes,21200.0,33400.0,391900.0,1506000.0,5,Home Renovation,0
+43,Male,Single,0,Post Graduate,Salaried,4.2,Private Company,33400.0,689,No,0.0,15800.0,203700.0,678000.0,5,Medical,0
+29,Male,Divorced,0,Doctorate,Salaried,5.3,MNC,30500.0,649,Yes,8000.0,14800.0,234500.0,168000.0,2,Vehicle,0
+26,Male,Married,0,Graduate,Salaried,2.1,MNC,20700.0,582,No,0.0,9700.0,174200.0,60000.0,1,Medical,0
+64,Male,Married,1,Graduate,Salaried,6.6,Private Company,46100.0,682,No,0.0,13700.0,493600.0,782000.0,7,Medical,1
+62,Male,Married,2,High School,Salaried,19.7,Government,58400.0,619,No,0.0,27900.0,142700.0,1104000.0,1,Personal,0
+51,Female,Single,1,High School,Salaried,4.1,Other,59200.0,745,Yes,14300.0,17300.0,323600.0,1296000.0,7,Medical,0
+53,Female,Married,4,Graduate,Other,31.3,Private Company,22200.0,620,No,0.0,9800.0,205000.0,412000.0,3,Business,0
+49,Male,Married,0,Post Graduate,Salaried,6.9,Government,45100.0,737,No,0.0,15600.0,208900.0,387000.0,3,Business,1
+63,Female,Single,0,Graduate,Salaried,24.7,Government,18000.0,677,No,0.0,4100.0,189100.0,188000.0,6,Home Renovation,1
+35,Female,Single,0,Graduate,Self Employed,12.8,MNC,26300.0,768,No,0.0,7300.0,289100.0,41000.0,3,Wedding,1
+32,Male,Single,0,Graduate,Other,8.0,Government,21500.0,616,Yes,2800.0,7200.0,59700.0,74000.0,5,Home Renovation,1
+47,Male,Married,2,Post Graduate,Other,21.5,MNC,18000.0,701,Yes,5800.0,5300.0,35900.0,377000.0,1,Personal,0
+44,Male,Married,2,Graduate,Salaried,2.0,MNC,31700.0,597,No,0.0,10900.0,88300.0,137000.0,2,Vehicle,1
+38,Female,Single,1,Post Graduate,Salaried,16.1,Private Company,29500.0,654,No,0.0,6900.0,308800.0,415000.0,1,Wedding,0
+35,Female,Married,1,Post Graduate,Salaried,15.5,MNC,65000.0,723,No,0.0,26200.0,451500.0,597000.0,4,Medical,1
+47,Female,Single,0,Post Graduate,Salaried,19.7,Private Company,35300.0,659,No,0.0,9700.0,139500.0,634000.0,2,Medical,0
+55,Female,Single,1,Post Graduate,Self Employed,27.1,Other,72300.0,670,Yes,20800.0,18500.0,714100.0,1122000.0,1,Personal,0
+23,Female,Divorced,4,Post Graduate,Other,4.4,MNC,58800.0,677,No,0.0,17300.0,298300.0,1038000.0,6,Medical,1
+57,Female,Married,0,Graduate,Salaried,1.0,Government,45700.0,766,No,0.0,11700.0,458400.0,996000.0,4,Medical,0
+49,Female,Single,0,High School,Salaried,5.3,Self-Employed/Business,80600.0,572,No,0.0,21400.0,952300.0,1699000.0,1,Wedding,0
+57,Female,Single,2,Graduate,Salaried,26.7,Private Company,34400.0,679,No,0.0,14600.0,80000.0,314000.0,2,Personal,1
+37,Male,Married,2,Graduate,Salaried,17.0,Private Company,32800.0,794,Yes,8600.0,14600.0,265700.0,40000.0,2,Other,1
+53,Male,Divorced,2,Graduate,Business,26.1,Private Company,20500.0,643,No,0.0,7300.0,221500.0,197000.0,6,Medical,1
+62,Male,Married,2,Post Graduate,Salaried,16.6,Self-Employed/Business,34300.0,641,No,0.0,7300.0,325600.0,201000.0,3,Wedding,1
+57,Male,Married,1,Graduate,Salaried,27.0,Private Company,136400.0,686,No,0.0,56200.0,139500.0,1682000.0,7,Wedding,1
+36,Male,Single,2,Graduate,Salaried,1.0,Private Company,43300.0,760,Yes,14900.0,12400.0,241200.0,139000.0,3,Other,1
+61,Female,Married,0,Graduate,Salaried,29.5,MNC,36400.0,637,No,0.0,11600.0,238500.0,343000.0,4,Other,1
+64,Male,Married,1,Doctorate,Self Employed,16.0,Private Company,35000.0,706,No,0.0,8900.0,26400.0,330000.0,6,Wedding,1
+58,Female,Married,1,Graduate,Salaried,24.9,Private Company,26000.0,706,Yes,7800.0,12200.0,174200.0,50000.0,6,Other,1
+57,Male,Married,3,Graduate,Salaried,0.6,Private Company,58800.0,649,Yes,6900.0,17600.0,50700.0,905000.0,4,Personal,0
+22,Female,Divorced,3,High School,Self Employed,1.7,Private Company,22800.0,591,No,0.0,9100.0,207800.0,163000.0,3,Home Renovation,0
+39,Female,Single,2,Graduate,Business,5.1,Private Company,35000.0,729,No,0.0,15200.0,59400.0,265000.0,3,Vehicle,1
+24,Male,Single,1,Graduate,Self Employed,5.4,Private Company,42800.0,813,Yes,10500.0,16400.0,275200.0,994000.0,4,Personal,0
+44,Male,Single,1,Graduate,Salaried,3.0,Government,18000.0,698,No,0.0,8800.0,39800.0,254000.0,4,Other,1
+47,Female,Single,1,Graduate,Self Employed,25.1,Private Company,79400.0,743,Yes,5000.0,18300.0,119500.0,1100000.0,2,Medical,0
+31,Female,Single,0,Graduate,Self Employed,7.8,Private Company,18000.0,638,No,0.0,8600.0,164300.0,216000.0,2,Vehicle,0
+43,Female,Married,2,High School,Salaried,24.4,Private Company,31500.0,600,No,0.0,10800.0,349200.0,283000.0,2,Other,1
+42,Female,Married,0,Graduate,Salaried,22.4,Government,51800.0,794,No,0.0,23700.0,389100.0,1178000.0,4,Education,0
+62,Female,Married,2,Doctorate,Salaried,15.3,Private Company,76500.0,717,No,0.0,25700.0,729900.0,1756000.0,4,Education,0
+39,Other,Married,3,Graduate,Salaried,20.0,Private Company,48800.0,654,No,0.0,18600.0,188300.0,1126000.0,6,Vehicle,0
+49,Male,Married,2,Graduate,Salaried,11.1,Private Company,115000.0,647,No,0.0,49900.0,553100.0,1536000.0,1,Vehicle,0
+41,Male,Married,3,Graduate,Self Employed,22.6,MNC,51900.0,642,Yes,11400.0,22800.0,287400.0,1247000.0,3,Business,0
+45,Male,Married,2,Graduate,Salaried,14.3,Government,43000.0,634,No,0.0,21300.0,487600.0,775000.0,4,Business,0
+54,Female,Divorced,4,High School,Self Employed,28.2,Private Company,68900.0,668,Yes,19200.0,19200.0,304200.0,352000.0,5,Vehicle,1
+45,Male,Married,0,Post Graduate,Salaried,10.2,Private Company,104900.0,654,Yes,25500.0,50000.0,414300.0,1171000.0,6,Home Renovation,0
+23,Male,Married,1,Doctorate,Salaried,2.4,Private Company,62700.0,604,Yes,18500.0,15600.0,372900.0,1447000.0,7,Other,0
+53,Female,Single,1,Post Graduate,Self Employed,30.1,MNC,48400.0,565,Yes,9100.0,11900.0,200000.0,1042000.0,6,Other,0
+52,Female,Divorced,0,Graduate,Business,31.1,Government,52200.0,698,No,0.0,22500.0,303800.0,290000.0,1,Personal,0
+47,Male,Single,1,Graduate,Salaried,4.3,Self-Employed/Business,32900.0,613,Yes,10200.0,10600.0,63400.0,38000.0,5,Other,1
+31,Male,Married,2,High School,Salaried,4.0,Government,30600.0,731,Yes,6500.0,8600.0,116100.0,64000.0,3,Medical,1
+55,Female,Married,0,High School,Salaried,11.1,Private Company,64600.0,674,No,0.0,23000.0,631500.0,36000.0,2,Vehicle,1
+30,Male,Divorced,0,Post Graduate,Business,4.5,MNC,78600.0,720,Yes,25900.0,17300.0,756700.0,873000.0,2,Other,0
+33,Male,Single,0,Graduate,Salaried,6.4,Private Company,47200.0,753,Yes,9700.0,20200.0,54200.0,516000.0,3,Vehicle,0
+57,Male,Married,0,Graduate,Salaried,32.5,Private Company,166500.0,726,No,0.0,45900.0,637000.0,754000.0,3,Personal,1
+47,Male,Married,1,Graduate,Salaried,19.3,Private Company,68100.0,739,Yes,6800.0,17800.0,657900.0,485000.0,5,Medical,1
+29,Female,Single,1,Post Graduate,Business,0.8,Self-Employed/Business,36000.0,688,No,0.0,8400.0,37900.0,713000.0,3,Other,0
+25,Female,Married,0,High School,Self Employed,4.1,MNC,34500.0,778,Yes,11500.0,12500.0,261400.0,807000.0,6,Education,0
+24,Female,Married,1,Graduate,Business,3.2,MNC,25400.0,705,No,0.0,11600.0,125800.0,99000.0,5,Personal,1
+21,Male,Single,0,Post Graduate,Self Employed,1.0,MNC,65700.0,629,No,0.0,27600.0,321000.0,590000.0,5,Medical,1
+29,Female,Single,1,Doctorate,Salaried,8.1,Private Company,18000.0,594,No,0.0,8900.0,49400.0,297000.0,4,Personal,0
+57,Female,Married,0,Post Graduate,Business,6.5,Private Company,34100.0,748,Yes,6400.0,13500.0,119300.0,49000.0,2,Medical,1
+41,Male,Married,3,Post Graduate,Self Employed,2.9,Private Company,33600.0,747,No,0.0,16000.0,308700.0,576000.0,3,Business,0
+31,Male,Married,1,High School,Business,6.6,Self-Employed/Business,47100.0,704,Yes,5800.0,21800.0,510500.0,556000.0,3,Education,0
+38,Male,Divorced,0,High School,Salaried,10.0,Private Company,61100.0,482,No,0.0,12400.0,716500.0,965000.0,2,Other,0
+61,Male,Single,0,Graduate,Self Employed,19.6,Private Company,89500.0,689,Yes,28400.0,33400.0,1023200.0,322000.0,7,Education,1
+52,Male,Divorced,1,High School,Salaried,2.2,Government,33700.0,679,Yes,7100.0,12000.0,24400.0,260000.0,1,Other,0
+44,Female,Divorced,0,Post Graduate,Self Employed,12.1,Private Company,51000.0,699,Yes,5200.0,20900.0,598500.0,964000.0,3,Business,0
+30,Male,Divorced,2,Doctorate,Salaried,9.9,MNC,18000.0,698,Yes,5100.0,8800.0,79200.0,302000.0,4,Wedding,0
+41,Female,Divorced,2,Graduate,Self Employed,18.8,Government,39100.0,626,Yes,10300.0,15800.0,466000.0,626000.0,5,Personal,0
+64,Female,Married,2,Post Graduate,Other,33.4,Private Company,69400.0,609,Yes,21800.0,21400.0,530000.0,1165000.0,5,Wedding,0
+38,Male,Married,1,Doctorate,Business,9.9,Self-Employed/Business,76100.0,633,Yes,21400.0,25600.0,132100.0,542000.0,3,Home Renovation,1
+42,Female,Married,2,Graduate,Salaried,22.6,Government,32000.0,789,Yes,8300.0,15200.0,20000.0,700000.0,2,Business,0
+42,Female,Married,3,Post Graduate,Salaried,15.9,Private Company,24700.0,536,No,0.0,8700.0,243600.0,468000.0,1,Vehicle,0
+36,Female,Married,3,Post Graduate,Salaried,13.7,Private Company,49100.0,566,No,0.0,17800.0,398600.0,364000.0,3,Medical,1
+49,Female,Married,1,Graduate,Self Employed,3.3,MNC,113500.0,733,Yes,19600.0,30600.0,1335000.0,1009000.0,7,Medical,1
+44,Male,Married,2,Post Graduate,Self Employed,15.3,Other,19900.0,748,No,0.0,9800.0,199400.0,497000.0,4,Wedding,0
+45,Male,Married,2,High School,Salaried,6.7,Self-Employed/Business,51200.0,610,Yes,8000.0,24700.0,167200.0,149000.0,1,Home Renovation,1
+32,Female,Single,3,Post Graduate,Other,13.1,Private Company,48900.0,790,Yes,7100.0,11500.0,280300.0,688000.0,2,Education,0
+43,Female,Single,4,Graduate,Self Employed,11.2,Private Company,102600.0,467,No,0.0,43100.0,144900.0,442000.0,3,Vehicle,1
+40,Male,Married,2,Post Graduate,Salaried,16.7,Self-Employed/Business,27900.0,644,No,0.0,12100.0,104600.0,406000.0,3,Home Renovation,0
+39,Male,Single,2,Post Graduate,Business,3.7,MNC,31100.0,562,No,0.0,10500.0,86000.0,150000.0,3,Vehicle,1
+57,Female,Single,3,Graduate,Business,3.1,MNC,23300.0,636,No,0.0,7200.0,64200.0,167000.0,2,Business,1
+31,Female,Married,0,High School,Salaried,3.7,Private Company,86100.0,547,No,0.0,31300.0,378400.0,1422000.0,5,Personal,1
+43,Male,Married,0,Graduate,Salaried,18.6,Private Company,18000.0,586,Yes,5600.0,7200.0,29500.0,309000.0,4,Business,0
+58,Male,Married,0,Graduate,Salaried,27.1,Self-Employed/Business,49400.0,713,No,0.0,20200.0,451400.0,1214000.0,1,Other,0
+33,Female,Married,3,Graduate,Salaried,0.7,Government,41300.0,558,Yes,13400.0,12700.0,427300.0,935000.0,3,Wedding,0
+30,Female,Married,0,High School,Salaried,2.0,Private Company,61400.0,579,No,0.0,24900.0,685000.0,1210000.0,5,Wedding,0
+28,Female,Married,1,High School,Salaried,7.9,Government,53900.0,697,No,0.0,25900.0,129000.0,745000.0,1,Business,0
+24,Male,Single,1,Graduate,Self Employed,3.1,Private Company,66100.0,681,Yes,17000.0,25000.0,602100.0,274000.0,6,Education,1
+29,Female,Married,1,Graduate,Self Employed,1.5,MNC,24300.0,627,No,0.0,11200.0,187200.0,503000.0,6,Business,1
+31,Female,Single,1,Graduate,Self Employed,0.9,Private Company,18000.0,771,No,0.0,7100.0,57500.0,91000.0,4,Business,1
+35,Male,Single,1,Post Graduate,Salaried,14.1,Private Company,29000.0,831,No,0.0,11900.0,257600.0,483000.0,1,Education,0
+56,Male,Married,3,Graduate,Salaried,30.5,Self-Employed/Business,22900.0,677,No,0.0,5300.0,244000.0,414000.0,2,Other,0
+52,Male,Single,1,Doctorate,Other,19.5,Private Company,25900.0,716,No,0.0,9400.0,151700.0,478000.0,6,Vehicle,1
+38,Male,Married,3,Graduate,Salaried,4.9,Private Company,46600.0,603,Yes,10900.0,10500.0,85200.0,639000.0,4,Vehicle,0
+30,Female,Single,3,Post Graduate,Self Employed,10.6,Private Company,39100.0,658,Yes,5800.0,14700.0,155100.0,634000.0,3,Education,0
+60,Female,Single,0,Post Graduate,Salaried,19.0,Government,19500.0,607,No,0.0,5200.0,73500.0,58000.0,3,Vehicle,1
+49,Male,Married,4,Graduate,Business,7.5,MNC,69100.0,692,Yes,22600.0,19800.0,351200.0,1457000.0,3,Other,0
+43,Female,Married,3,High School,Salaried,20.0,Private Company,37200.0,633,No,0.0,8900.0,306000.0,33000.0,2,Wedding,1
+53,Male,Single,1,Graduate,Salaried,33.3,Private Company,27300.0,705,Yes,7500.0,9700.0,84300.0,219000.0,4,Education,1
+47,Female,Married,0,Post Graduate,Salaried,4.2,Private Company,19900.0,710,Yes,2400.0,6000.0,225600.0,496000.0,4,Medical,0
+55,Male,Single,2,Post Graduate,Salaried,3.6,Self-Employed/Business,24600.0,741,No,0.0,7300.0,147700.0,330000.0,3,Education,1
+50,Male,Married,2,High School,Salaried,29.0,Government,32400.0,658,No,0.0,11800.0,140800.0,522000.0,1,Vehicle,0
+26,Male,Married,1,Post Graduate,Salaried,4.9,MNC,62900.0,798,No,0.0,30500.0,303900.0,920000.0,1,Personal,0
+22,Male,Married,1,Post Graduate,Salaried,2.1,Self-Employed/Business,104900.0,637,No,0.0,35500.0,860500.0,531000.0,5,Business,1
+44,Female,Married,2,Graduate,Salaried,6.0,Self-Employed/Business,35400.0,685,No,0.0,14600.0,279800.0,688000.0,3,Vehicle,0
+54,Male,Single,0,Graduate,Self Employed,31.4,MNC,29100.0,650,Yes,9900.0,10600.0,75600.0,616000.0,3,Home Renovation,0
+43,Male,Married,3,Graduate,Salaried,10.4,Other,23900.0,779,Yes,5000.0,7900.0,205100.0,513000.0,4,Wedding,0
+49,Male,Single,3,Graduate,Business,22.3,MNC,44000.0,724,No,0.0,11000.0,339100.0,856000.0,3,Home Renovation,0
+27,Male,Married,1,Graduate,Salaried,4.1,Other,23100.0,783,No,0.0,7900.0,137500.0,217000.0,2,Home Renovation,1
+28,Female,Single,3,Graduate,Salaried,3.8,Private Company,36900.0,642,Yes,3000.0,9000.0,19300.0,167000.0,4,Other,1
+31,Male,Married,0,Graduate,Salaried,8.5,Government,38000.0,542,Yes,4400.0,10200.0,427800.0,428000.0,1,Wedding,0
+45,Male,Married,0,Graduate,Salaried,21.8,Private Company,105400.0,655,Yes,30400.0,42000.0,550300.0,1023000.0,7,Wedding,1
+36,Male,Single,3,Graduate,Salaried,2.9,MNC,31300.0,581,No,0.0,7400.0,102000.0,178000.0,4,Personal,1
+23,Male,Single,1,Post Graduate,Salaried,0.8,Private Company,54600.0,792,No,0.0,15000.0,235900.0,1319000.0,2,Home Renovation,0
+50,Male,Divorced,1,Post Graduate,Salaried,18.5,MNC,20200.0,677,No,0.0,4100.0,68900.0,162000.0,1,Home Renovation,0
+54,Male,Divorced,2,Graduate,Other,5.8,Government,30700.0,692,No,0.0,7100.0,64900.0,148000.0,6,Home Renovation,1
+60,Male,Married,1,High School,Self Employed,5.0,Private Company,42300.0,719,No,0.0,13800.0,213900.0,739000.0,5,Other,1
+22,Female,Divorced,1,Post Graduate,Salaried,2.3,Private Company,65500.0,692,No,0.0,28600.0,153200.0,606000.0,2,Vehicle,1
+62,Female,Married,0,High School,Business,0.9,Private Company,39100.0,701,Yes,2100.0,8100.0,294700.0,51000.0,7,Medical,1
+39,Male,Married,0,Post Graduate,Salaried,2.3,MNC,62500.0,686,No,0.0,29800.0,87200.0,215000.0,7,Other,1
+60,Female,Married,2,Graduate,Salaried,19.0,MNC,37800.0,676,No,0.0,17800.0,19700.0,706000.0,4,Wedding,0
+63,Male,Married,4,Post Graduate,Salaried,6.3,MNC,79700.0,604,No,0.0,39700.0,470500.0,1478000.0,1,Personal,0
+23,Female,Single,0,Post Graduate,Self Employed,3.5,Other,55000.0,662,Yes,12600.0,24500.0,328200.0,1022000.0,1,Wedding,0
+30,Female,Single,1,High School,Business,9.3,Government,34400.0,644,No,0.0,9600.0,188900.0,218000.0,3,Home Renovation,1
+60,Female,Single,1,Post Graduate,Salaried,9.7,Private Company,54900.0,828,Yes,3900.0,25300.0,315500.0,652000.0,6,Vehicle,1
+21,Female,Divorced,0,Graduate,Salaried,2.7,Private Company,54300.0,701,Yes,14300.0,22800.0,301400.0,136000.0,4,Personal,1
+62,Female,Single,1,Graduate,Self Employed,28.4,MNC,108300.0,650,No,0.0,37600.0,137500.0,1784000.0,6,Business,1
+25,Female,Married,1,Graduate,Other,5.1,Private Company,68200.0,823,No,0.0,26800.0,455800.0,1127000.0,6,Personal,1
+35,Male,Divorced,0,Graduate,Self Employed,9.2,Government,18700.0,636,No,0.0,6200.0,213600.0,198000.0,4,Home Renovation,1
+54,Male,Married,0,Graduate,Other,2.1,MNC,27400.0,729,Yes,3000.0,7900.0,48400.0,273000.0,3,Wedding,1
+58,Female,Single,1,Graduate,Salaried,32.9,Private Company,57400.0,834,No,0.0,15800.0,213700.0,1274000.0,1,Other,0
+35,Other,Married,1,Graduate,Salaried,8.7,Self-Employed/Business,34100.0,734,No,0.0,14000.0,150400.0,83000.0,4,Personal,1
+44,Male,Single,1,Graduate,Salaried,22.7,Private Company,50300.0,727,No,0.0,20900.0,274600.0,54000.0,4,Home Renovation,1
+36,Male,Married,0,Graduate,Salaried,16.1,Private Company,37100.0,756,No,0.0,12000.0,94400.0,523000.0,4,Personal,1
+41,Male,Married,1,Doctorate,Salaried,22.6,Government,26600.0,626,Yes,4900.0,5500.0,149400.0,658000.0,4,Wedding,0
+38,Female,Single,2,Graduate,Business,14.4,Private Company,103200.0,610,Yes,32700.0,34100.0,1143100.0,1423000.0,2,Home Renovation,0
+47,Male,Divorced,0,Graduate,Self Employed,7.1,Government,42400.0,742,Yes,10100.0,15800.0,293200.0,881000.0,2,Medical,0
+33,Female,Married,1,Graduate,Self Employed,7.7,Private Company,72500.0,710,Yes,24800.0,16600.0,462900.0,1029000.0,2,Medical,0
+57,Female,Single,4,High School,Salaried,15.8,Other,37000.0,850,No,0.0,18100.0,351800.0,231000.0,3,Vehicle,1
+42,Male,Single,0,High School,Salaried,3.2,Private Company,53100.0,644,Yes,16400.0,19900.0,306600.0,743000.0,3,Business,0
+38,Male,Married,2,Graduate,Business,6.8,Government,33100.0,599,Yes,2500.0,13700.0,208200.0,486000.0,3,Home Renovation,0
+22,Female,Married,0,Post Graduate,Salaried,3.1,Self-Employed/Business,29500.0,660,Yes,3400.0,12500.0,35700.0,66000.0,4,Personal,1
+39,Female,Married,0,Post Graduate,Self Employed,5.3,Other,22900.0,636,Yes,4800.0,5700.0,124600.0,252000.0,5,Medical,1
+49,Male,Married,1,Graduate,Salaried,9.8,Government,78500.0,612,No,0.0,19100.0,319300.0,458000.0,3,Wedding,1
+32,Male,Divorced,0,Graduate,Self Employed,11.4,Private Company,79400.0,718,No,0.0,16700.0,795200.0,1544000.0,4,Wedding,1
+23,Other,Married,0,Graduate,Salaried,1.8,Government,73900.0,594,No,0.0,24100.0,801900.0,175000.0,5,Home Renovation,0
+64,Female,Single,1,High School,Salaried,35.0,Private Company,56500.0,744,Yes,16200.0,16400.0,116000.0,614000.0,1,Home Renovation,0
+50,Male,Married,2,Graduate,Self Employed,18.4,Private Company,66900.0,765,No,0.0,25800.0,558900.0,662000.0,6,Wedding,1
+60,Male,Married,1,Post Graduate,Salaried,23.6,Private Company,21800.0,642,No,0.0,8700.0,155900.0,539000.0,4,Business,0
+61,Male,Single,0,Doctorate,Salaried,25.4,Private Company,40200.0,661,Yes,13700.0,10500.0,108900.0,61000.0,3,Personal,1
+33,Male,Single,2,Graduate,Salaried,10.6,MNC,23700.0,728,Yes,1700.0,7400.0,244900.0,74000.0,4,Personal,1
+28,Male,Single,0,High School,Salaried,0.9,MNC,46500.0,739,No,0.0,15900.0,106700.0,39000.0,3,Home Renovation,1
+38,Male,Married,1,Graduate,Self Employed,15.8,Government,90300.0,725,No,0.0,29600.0,508900.0,1641000.0,3,Wedding,0
+36,Male,Married,1,Graduate,Business,16.6,MNC,38100.0,626,Yes,4300.0,18000.0,409000.0,459000.0,2,Other,0
+21,Female,Married,0,Graduate,Business,1.7,Private Company,21500.0,682,No,0.0,9900.0,40100.0,416000.0,4,Wedding,0
+22,Other,Married,3,Post Graduate,Salaried,2.4,Private Company,58700.0,802,No,0.0,11900.0,493600.0,489000.0,2,Medical,1
+24,Male,Married,0,Post Graduate,Self Employed,2.3,Private Company,63300.0,727,Yes,5700.0,15100.0,266300.0,1190000.0,1,Other,0
+23,Male,Divorced,2,Graduate,Salaried,4.4,Private Company,46000.0,639,No,0.0,23000.0,447300.0,510000.0,4,Home Renovation,1
+41,Male,Single,2,Graduate,Salaried,18.6,Private Company,40400.0,754,Yes,5300.0,14000.0,353500.0,536000.0,1,Vehicle,0
+62,Female,Single,2,Graduate,Salaried,31.6,Private Company,49400.0,601,Yes,12000.0,24500.0,524000.0,742000.0,6,Other,0
+62,Male,Single,3,Post Graduate,Self Employed,4.9,Private Company,32000.0,694,No,0.0,15200.0,222000.0,490000.0,3,Other,1
+59,Male,Married,2,Graduate,Salaried,22.5,MNC,35400.0,557,No,0.0,10200.0,108500.0,210000.0,4,Home Renovation,1
+39,Female,Married,1,Graduate,Self Employed,9.3,Private Company,53200.0,700,Yes,18100.0,12200.0,474700.0,179000.0,3,Medical,1
+49,Female,Married,3,High School,Salaried,30.9,Private Company,33500.0,735,No,0.0,15300.0,250100.0,616000.0,2,Education,0
+22,Female,Single,4,Doctorate,Self Employed,0.6,Government,18000.0,716,No,0.0,5700.0,106000.0,297000.0,6,Other,1
+47,Female,Married,1,Graduate,Self Employed,13.2,Private Company,42400.0,663,No,0.0,16700.0,299000.0,759000.0,3,Business,0
+47,Female,Married,0,Doctorate,Self Employed,4.7,Other,74300.0,665,No,0.0,17200.0,516000.0,165000.0,4,Home Renovation,1
+48,Female,Married,0,Post Graduate,Salaried,18.4,Private Company,61400.0,648,No,0.0,15300.0,502900.0,1060000.0,3,Business,0
+24,Female,Married,0,Graduate,Business,1.0,Government,40400.0,812,Yes,13300.0,13100.0,152900.0,360000.0,3,Education,0
+45,Female,Single,3,Graduate,Salaried,5.8,Government,59000.0,702,No,0.0,20400.0,52200.0,1353000.0,6,Business,1
+50,Female,Married,1,Post Graduate,Salaried,14.3,Private Company,65100.0,778,No,0.0,29300.0,436000.0,37000.0,6,Wedding,1
+47,Male,Married,0,High School,Self Employed,9.1,Private Company,18000.0,756,No,0.0,8400.0,21400.0,297000.0,3,Other,1
+50,Female,Married,0,Graduate,Salaried,3.5,Government,55500.0,639,No,0.0,19300.0,306700.0,424000.0,3,Wedding,1
+54,Female,Single,0,Graduate,Salaried,15.3,Private Company,84500.0,648,No,0.0,34700.0,100500.0,1351000.0,2,Wedding,0
+24,Female,Married,2,Graduate,Salaried,4.0,Government,42800.0,629,No,0.0,14200.0,351300.0,504000.0,6,Vehicle,1
+24,Male,Single,0,Graduate,Salaried,5.3,MNC,35000.0,785,Yes,9700.0,15300.0,297400.0,57000.0,4,Personal,1
+25,Male,Married,2,Graduate,Business,5.2,Self-Employed/Business,46600.0,627,Yes,13300.0,15600.0,163700.0,61000.0,3,Wedding,1
+38,Male,Single,0,Post Graduate,Business,11.6,Private Company,33700.0,571,No,0.0,11800.0,371800.0,793000.0,2,Business,0
+31,Female,Married,0,Post Graduate,Self Employed,12.8,MNC,29400.0,613,No,0.0,6600.0,236700.0,69000.0,2,Other,1
+62,Female,Married,2,Graduate,Salaried,7.0,Self-Employed/Business,24700.0,732,No,0.0,8300.0,57400.0,342000.0,3,Medical,1
+56,Female,Single,1,Graduate,Business,31.9,Private Company,47100.0,770,No,0.0,9800.0,267200.0,982000.0,5,Education,1
+53,Male,Married,1,High School,Self Employed,25.1,Government,49800.0,522,Yes,13000.0,18700.0,71700.0,811000.0,4,Vehicle,0
+43,Female,Married,0,High School,Self Employed,13.7,Government,32600.0,639,No,0.0,15800.0,21200.0,733000.0,4,Personal,0
+29,Female,Married,4,Graduate,Salaried,7.2,Private Company,75600.0,717,Yes,5400.0,30800.0,332800.0,493000.0,4,Home Renovation,1
+32,Other,Single,4,Doctorate,Self Employed,5.0,MNC,71200.0,739,Yes,17000.0,34600.0,228100.0,1392000.0,3,Home Renovation,0
+44,Female,Single,1,Post Graduate,Salaried,18.6,MNC,47700.0,666,No,0.0,14600.0,114000.0,580000.0,5,Education,1
+34,Male,Married,4,Doctorate,Salaried,11.1,Private Company,28100.0,713,Yes,2900.0,12000.0,309800.0,658000.0,4,Other,0
+30,Female,Single,2,Post Graduate,Salaried,4.6,Other,37400.0,661,Yes,6800.0,14400.0,405600.0,329000.0,5,Vehicle,1
+47,Male,Single,3,Graduate,Self Employed,9.1,Private Company,37600.0,771,Yes,8800.0,17700.0,360300.0,206000.0,5,Business,1
+51,Male,Married,0,High School,Salaried,12.6,Government,35500.0,674,Yes,3000.0,11700.0,104400.0,282000.0,3,Wedding,1
+47,Male,Married,1,Post Graduate,Salaried,18.1,Government,83300.0,668,No,0.0,30800.0,720400.0,1777000.0,7,Home Renovation,1
+57,Male,Single,0,High School,Salaried,20.5,MNC,41800.0,642,Yes,13300.0,10200.0,291700.0,1015000.0,3,Education,0
+31,Other,Married,0,Graduate,Self Employed,11.6,Private Company,47200.0,610,No,0.0,19100.0,307400.0,777000.0,6,Personal,1
+33,Female,Single,2,Post Graduate,Salaried,12.0,Government,37900.0,771,No,0.0,15300.0,447300.0,518000.0,2,Other,0
+58,Female,Married,1,Graduate,Self Employed,23.5,Private Company,58100.0,691,No,0.0,22600.0,317000.0,836000.0,5,Medical,1
+62,Female,Married,4,Post Graduate,Self Employed,16.6,Government,43800.0,772,No,0.0,19100.0,280300.0,601000.0,2,Other,0
+58,Male,Married,0,Graduate,Salaried,33.9,Other,39300.0,566,No,0.0,16800.0,120500.0,451000.0,5,Business,1
+46,Male,Married,2,Doctorate,Salaried,15.3,Private Company,58700.0,583,Yes,7900.0,25500.0,340200.0,1458000.0,3,Vehicle,0
+64,Female,Married,0,Post Graduate,Other,3.1,Private Company,80400.0,705,Yes,11500.0,29200.0,614500.0,1622000.0,3,Personal,0
+43,Male,Married,1,Doctorate,Salaried,0.7,Government,72200.0,748,No,0.0,29100.0,483000.0,1148000.0,4,Personal,1
+51,Male,Married,2,Graduate,Salaried,8.7,Private Company,46800.0,663,No,0.0,15200.0,502300.0,1151000.0,4,Medical,0
+62,Male,Married,2,Graduate,Salaried,11.6,Private Company,30900.0,694,No,0.0,8800.0,181300.0,445000.0,6,Education,1
+52,Male,Married,1,High School,Salaried,10.6,MNC,72300.0,627,Yes,25100.0,25500.0,56300.0,992000.0,6,Vehicle,0
+40,Female,Single,2,Post Graduate,Salaried,19.7,Private Company,53700.0,652,No,0.0,10800.0,244900.0,1156000.0,1,Wedding,0
+51,Female,Married,1,Graduate,Salaried,27.0,Private Company,41700.0,850,Yes,8600.0,15600.0,376900.0,268000.0,3,Personal,1
+46,Male,Divorced,2,Post Graduate,Salaried,8.8,Private Company,42800.0,677,Yes,9400.0,8600.0,372200.0,235000.0,2,Education,1
+64,Female,Married,2,Graduate,Salaried,21.0,Private Company,30100.0,782,No,0.0,7100.0,27000.0,607000.0,5,Medical,1
+22,Male,Married,2,Doctorate,Salaried,2.2,Private Company,24700.0,701,Yes,1800.0,10100.0,152700.0,393000.0,6,Other,1
+62,Other,Single,1,Graduate,Salaried,19.8,Private Company,23500.0,797,Yes,3900.0,6600.0,233500.0,434000.0,6,Personal,1
+59,Male,Single,0,Graduate,Other,12.8,Other,28300.0,607,No,0.0,8900.0,231400.0,690000.0,4,Business,0
+56,Male,Married,1,Graduate,Salaried,9.4,Private Company,32400.0,600,Yes,9800.0,7100.0,346800.0,128000.0,1,Personal,0
+48,Female,Single,2,Graduate,Salaried,24.9,MNC,72700.0,655,No,0.0,26200.0,216100.0,1667000.0,2,Other,0
+31,Female,Married,4,High School,Salaried,8.1,Other,30100.0,630,Yes,3700.0,9100.0,30100.0,684000.0,4,Education,0
+52,Male,Single,1,Post Graduate,Salaried,29.9,MNC,27200.0,827,Yes,4800.0,9100.0,298400.0,97000.0,3,Wedding,1
+22,Female,Married,1,Graduate,Salaried,2.9,MNC,28100.0,688,No,0.0,5800.0,37300.0,135000.0,1,Wedding,1
+60,Male,Married,1,Graduate,Salaried,10.1,Other,43200.0,532,Yes,3100.0,14200.0,390100.0,313000.0,4,Other,0
+42,Female,Married,0,Graduate,Other,5.3,MNC,45800.0,572,No,0.0,22400.0,537100.0,819000.0,5,Education,0
+43,Female,Married,1,Graduate,Salaried,14.3,Self-Employed/Business,21000.0,636,No,0.0,5500.0,130900.0,477000.0,4,Education,0
+64,Female,Single,1,Doctorate,Salaried,20.6,Self-Employed/Business,36100.0,519,No,0.0,7800.0,330700.0,34000.0,3,Wedding,1
+59,Female,Married,1,Graduate,Salaried,30.6,MNC,65800.0,587,Yes,16600.0,13900.0,487400.0,1073000.0,2,Education,0
+35,Male,Married,2,Graduate,Salaried,9.2,MNC,51600.0,781,No,0.0,24900.0,35900.0,582000.0,4,Education,1
+35,Male,Divorced,2,Graduate,Self Employed,7.1,Private Company,63000.0,721,No,0.0,16900.0,724600.0,69000.0,3,Wedding,1
+27,Female,Married,4,Post Graduate,Salaried,6.7,MNC,44700.0,790,No,0.0,14100.0,292800.0,765000.0,5,Wedding,1
+61,Female,Married,4,Graduate,Salaried,23.8,Private Company,39900.0,677,No,0.0,17500.0,246900.0,487000.0,4,Medical,1
+24,Female,Married,1,High School,Salaried,4.0,Private Company,38800.0,702,No,0.0,11500.0,237900.0,919000.0,6,Education,1
+40,Male,Single,1,Graduate,Self Employed,7.6,Private Company,33100.0,552,No,0.0,14900.0,322800.0,525000.0,3,Business,0
+38,Female,Married,0,Doctorate,Self Employed,14.8,Private Company,23300.0,621,Yes,5200.0,10800.0,87500.0,374000.0,2,Wedding,0
+60,Male,Single,1,Graduate,Salaried,5.7,MNC,56200.0,701,No,0.0,25300.0,164800.0,423000.0,6,Other,1
+40,Male,Married,0,Graduate,Other,15.7,Private Company,47800.0,642,No,0.0,17000.0,137400.0,295000.0,1,Wedding,0
+53,Female,Single,3,Graduate,Self Employed,24.0,MNC,45700.0,586,No,0.0,9400.0,87700.0,303000.0,3,Other,1
+61,Female,Married,0,Graduate,Self Employed,27.8,Private Company,72500.0,647,Yes,5600.0,17600.0,630200.0,84000.0,1,Personal,1
+49,Male,Married,1,Doctorate,Business,13.9,Self-Employed/Business,111800.0,624,Yes,26900.0,40400.0,836100.0,1375000.0,2,Home Renovation,0
+23,Male,Married,3,High School,Salaried,0.9,Private Company,57700.0,716,No,0.0,15800.0,501900.0,661000.0,3,Business,1
+44,Male,Single,2,Post Graduate,Business,10.2,Private Company,31000.0,749,No,0.0,13800.0,289300.0,320000.0,6,Wedding,1
+34,Female,Single,0,Graduate,Salaried,10.6,Government,55200.0,740,Yes,8200.0,18300.0,638300.0,523000.0,3,Wedding,1
+42,Female,Divorced,2,Graduate,Other,4.5,MNC,18000.0,592,No,0.0,3800.0,73700.0,100000.0,2,Medical,1
+39,Male,Married,0,Post Graduate,Business,5.6,Other,77100.0,588,No,0.0,30800.0,576000.0,1380000.0,3,Home Renovation,0
+62,Female,Married,0,Graduate,Self Employed,30.0,Self-Employed/Business,36400.0,738,No,0.0,7300.0,165300.0,130000.0,6,Home Renovation,1
+60,Male,Married,2,Doctorate,Salaried,6.5,Private Company,65000.0,683,No,0.0,26900.0,774700.0,1481000.0,3,Medical,0
+45,Male,Married,1,Graduate,Salaried,8.7,Government,21100.0,641,No,0.0,6200.0,226300.0,129000.0,4,Wedding,1
+47,Male,Married,2,High School,Salaried,13.2,Government,58400.0,613,Yes,5100.0,21700.0,174200.0,237000.0,3,Wedding,1
+36,Male,Single,2,High School,Self Employed,7.2,MNC,30000.0,709,Yes,7300.0,14300.0,168800.0,380000.0,2,Personal,0
+53,Male,Single,2,Graduate,Salaried,31.0,Private Company,43800.0,792,No,0.0,20100.0,36500.0,226000.0,4,Vehicle,1
+25,Male,Married,1,Graduate,Self Employed,4.3,Private Company,27600.0,618,No,0.0,11800.0,189300.0,196000.0,2,Other,1
+60,Female,Married,0,Post Graduate,Self Employed,27.4,Private Company,18000.0,593,Yes,3600.0,5100.0,101000.0,184000.0,5,Business,0
+47,Female,Single,0,High School,Salaried,8.1,Private Company,48600.0,621,No,0.0,22900.0,88000.0,404000.0,1,Business,0
+44,Male,Married,1,High School,Business,7.6,Private Company,19300.0,700,No,0.0,5400.0,171000.0,380000.0,6,Home Renovation,1
+61,Female,Married,0,Graduate,Salaried,1.2,Private Company,23400.0,675,Yes,4400.0,9800.0,236100.0,333000.0,3,Medical,0
+27,Female,Married,2,Graduate,Salaried,5.5,Private Company,77400.0,680,No,0.0,22700.0,340300.0,1007000.0,3,Other,1
+60,Male,Single,0,Graduate,Salaried,16.0,Government,78300.0,621,No,0.0,38500.0,497300.0,1067000.0,2,Medical,0
+48,Male,Married,0,Graduate,Salaried,14.7,Self-Employed/Business,44900.0,602,No,0.0,15300.0,433000.0,940000.0,3,Business,0
+55,Male,Married,0,Graduate,Business,15.0,Other,37500.0,590,No,0.0,7600.0,84200.0,48000.0,7,Home Renovation,1
+55,Female,Married,0,Graduate,Self Employed,19.0,Government,30400.0,741,Yes,8800.0,10900.0,152100.0,422000.0,4,Vehicle,0
+63,Other,Married,1,Post Graduate,Self Employed,15.3,Private Company,49000.0,717,No,0.0,20700.0,179900.0,1056000.0,1,Medical,0
+21,Male,Single,0,Graduate,Self Employed,1.7,Government,43000.0,661,Yes,14600.0,8700.0,172500.0,667000.0,5,Vehicle,0
+44,Male,Married,2,Graduate,Salaried,19.6,Private Company,20400.0,613,No,0.0,5500.0,119900.0,490000.0,6,Medical,1
+51,Female,Single,1,Post Graduate,Salaried,23.9,MNC,78200.0,661,No,0.0,32400.0,778700.0,1493000.0,1,Personal,0
+62,Male,Married,1,Post Graduate,Self Employed,20.5,Self-Employed/Business,33900.0,634,No,0.0,16500.0,45000.0,306000.0,6,Home Renovation,1
+44,Female,Married,1,Graduate,Self Employed,8.9,Private Company,20900.0,583,Yes,3400.0,9100.0,64500.0,418000.0,4,Wedding,0
+55,Female,Single,0,Post Graduate,Salaried,25.0,Private Company,47400.0,798,Yes,9400.0,19400.0,30200.0,766000.0,4,Home Renovation,0
+47,Female,Divorced,0,Graduate,Salaried,22.1,Private Company,44600.0,603,No,0.0,16100.0,506300.0,116000.0,4,Other,1
+54,Female,Single,4,Graduate,Salaried,17.3,Government,29600.0,783,Yes,6200.0,9400.0,326100.0,634000.0,3,Vehicle,0
+21,Male,Married,1,Doctorate,Salaried,1.7,Other,33000.0,720,Yes,9300.0,10000.0,217800.0,514000.0,4,Home Renovation,0
+35,Female,Single,1,Graduate,Salaried,5.7,Private Company,45400.0,677,Yes,9500.0,19200.0,29700.0,1025000.0,3,Medical,0
+57,Male,Single,2,High School,Self Employed,5.0,MNC,29100.0,679,Yes,7000.0,7200.0,78100.0,467000.0,7,Other,1
+59,Female,Married,4,Graduate,Salaried,31.9,Private Company,46200.0,622,Yes,7500.0,15100.0,314000.0,1146000.0,2,Other,0
+61,Female,Married,0,Graduate,Salaried,6.4,Private Company,37600.0,704,No,0.0,15800.0,403100.0,699000.0,6,Home Renovation,1
+45,Male,Married,1,Graduate,Salaried,17.3,Self-Employed/Business,95400.0,579,Yes,6200.0,35800.0,99900.0,1455000.0,4,Wedding,0
+47,Male,Married,0,Graduate,Salaried,28.9,Government,86700.0,657,Yes,9300.0,42400.0,999900.0,1502000.0,3,Education,0
+37,Female,Married,2,Graduate,Salaried,14.6,Other,28900.0,850,No,0.0,9900.0,161400.0,686000.0,3,Wedding,0
+60,Female,Married,0,High School,Salaried,24.4,Private Company,18000.0,705,Yes,5500.0,8100.0,193500.0,414000.0,4,Business,0
+32,Female,Single,0,Graduate,Salaried,10.7,Other,33400.0,712,Yes,9300.0,10600.0,333400.0,657000.0,4,Personal,0
+60,Male,Divorced,0,Graduate,Self Employed,11.0,Self-Employed/Business,18000.0,641,No,0.0,8000.0,155000.0,218000.0,3,Business,1
+27,Male,Single,0,Post Graduate,Salaried,5.1,Private Company,51300.0,630,Yes,7500.0,18900.0,263100.0,355000.0,6,Medical,1
+48,Male,Married,1,High School,Business,16.3,Private Company,27200.0,626,No,0.0,11500.0,54800.0,362000.0,4,Medical,1
+24,Male,Married,0,Graduate,Salaried,2.8,Government,46600.0,612,Yes,11800.0,13700.0,328000.0,726000.0,4,Personal,0
+25,Female,Married,2,High School,Salaried,1.3,Private Company,61300.0,628,No,0.0,18900.0,423600.0,650000.0,2,Vehicle,0

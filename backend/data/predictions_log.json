@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2026-10-04T16:06:01.171947",
+    "monthly_income": 75000.0,
+    "desired_loan_amount": 500000.0,
+    "credit_score": 780,
+    "employment_type": "Salaried",
+    "risk_level": "Low Risk",
+    "eligible": true,
+    "recommendation_score": 80
+  },
+  {
+    "timestamp": "2026-10-04T16:17:27.948673",
+    "monthly_income": 95000.0,
+    "desired_loan_amount": 600000.0,
+    "credit_score": 790,
+    "employment_type": "Salaried",
+    "risk_level": "Low Risk",
+    "eligible": true,
+    "recommendation_score": 87
+  },
+  {
+    "timestamp": "2026-10-04T16:22:09.318993",
+    "monthly_income": 65000.0,
+    "desired_loan_amount": 400000.0,
+    "credit_score": 740,
+    "employment_type": "Salaried",
+    "risk_level": "Low Risk",
+    "eligible": true,
+    "recommendation_score": 87
+  },
+  {
+    "timestamp": "2026-10-04T16:24:40.804613",
+    "monthly_income": 85000.0,
+    "desired_loan_amount": 500000.0,
+    "credit_score": 760,
+    "employment_type": "Salaried",
+    "risk_level": "Low Risk",
+    "eligible": true,
+    "recommendation_score": 80
+  },
+  {
+    "timestamp": "2026-10-04T16:26:44.854524",
+    "monthly_income": 80000.0,
+    "desired_loan_amount": 500000.0,
+    "credit_score": 770,
+    "employment_type": "Salaried",
+    "risk_level": "Low Risk",
+    "eligible": true,
+    "recommendation_score": 93
+  },
+  {
+    "timestamp": "2026-10-04T16:28:25.673831",
+    "monthly_income": 65000.0,
+    "desired_loan_amount": 400000.0,
+    "credit_score": 740,
+    "employment_type": "Salaried",
+    "risk_level": "Low Risk",
+    "eligible": true,
+    "recommendation_score": 87
+  }
+]
